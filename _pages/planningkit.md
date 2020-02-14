@@ -2,9 +2,9 @@
 layout: archive
 permalink: /planningkit/
 title: "Hackathon Planning Kit"
-author_profile: false
+author_profile: true
 ---
-{% include author-profile.html %}
+<!-- {% include author-profile.html %} -->
 
 Three common types of hackathons:
 * Communal
