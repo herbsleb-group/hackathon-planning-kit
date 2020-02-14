@@ -1,14 +1,17 @@
 main:
   - title: "About"
     url: /about/
+
   - title: "Planning Kit"
-      children:
-        - tilte: "Communal"
-          url: /communal/
-        - tilte: "Contributive"
-          url: /contributive/
-        - tilte: "Catalytic"
-          url: /catalytic/
+    url: /planningkit/
+    children:
+      - title: "Communal"
+        url: /communal/
+      - title: "Contributive"
+        url: /contributive/
+      - title: "Catalytic"
+        url: /catalytic/
+
   - title: "Publications"
     url: /publications/
   # - title: "Posts"
