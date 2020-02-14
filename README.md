@@ -1,4 +1,4 @@
 # Hackathon Planning Kit.
 
-## Researchers:
-- TBA.
+Researchers:
+  TBA.

@@ -1,11 +1,12 @@
 ---
-layout: single
+layout: planningkit
 permalink: /planningkit/
-title: "Planning Kit"
+title: "Hackathon Planning Kit"
+classes: wide
 # author_profile: false
 ---
 
-# Three common types of hackathons:
+Three common types of hackathons:
 * Communal
 * Contributive
 * Catalytic
