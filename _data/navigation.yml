@@ -3,13 +3,13 @@ main:
     url: /about/
   - title: "Planning Kit"
     url: /planningkit/
-    # children:
-    #   - tilte: "Communal"
-    #     url: /communal/
-    #   - tilte: "Contributive"
-    #     url: /contributive/
-    #   - tilte: "Catalytic"
-    #     url: /catalytic/
+    children:
+      - tilte: "Communal"
+        url: /communal/
+      - tilte: "Contributive"
+        url: /contributive/
+      - tilte: "Catalytic"
+        url: /catalytic/
   - title: "Publications"
     url: /publications/
   # - title: "Posts"
