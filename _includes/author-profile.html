@@ -1,13 +1,16 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div class="author__urls">
-  <ul>
-    <li><a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h3>communal</h3></a></li>
-    <li><a href= "/contributive/"><h3>contributive</h3></a></li>
-    <li><a href= "/catalytic/"><h3>catalytic</h3></a></li>
-  <ul>
-</div>
 
-<div class="author__urls-wrapper">
-</div>
+  <div class="author__urls">
+    {% if page.communal %}
+      <a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h3><em>communal</em></h3></a>
+    {% else %}
+      <a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h3>communal</h3></a>
+    {% endif %}
+    <a href= "/contributive/"><h3>contributive</h3></a>
+    <a href= "/catalytic/"><h3>catalytic</h3></a>
+  </div>
+
+  <div class="author__urls-wrapper">
+  </div>
