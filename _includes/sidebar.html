@@ -1,11 +1,7 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar">
-    <h4><a href= "https://eipapa.github.io/hack-research-mmistakes/communal/">communal</a></h4>
-    <h4><a href= "/contributive/">contributive</a></h4>
-    <h4><a href= "/catalytic/">catalytic</a></h4>
-  </div>
-  <!-- {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  <!-- {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src=
@@ -23,6 +19,6 @@
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
-  {% endif %}
-  </div> -->
+  {% endif %} -->
+  </div>
 {% endif %}
