@@ -5,13 +5,13 @@ title: "Communal Hackathons"
 author_profile: true
 ---
 
-The primary purpose is to develop resources, infrastructure, practices, and culture for community.
+<p>The primary purpose is to develop resources, infrastructure, practices, and culture for community.</p>
 
 <div>
-<table>
+<table style="width: 100%;">
   <tr>
-    <td>Pre-Hackathon</td>
-    <td>
+    <td style="width: 20%;">Pre-Hackathon</td>
+    <td style="width: 80%;">
       <ul>
         <li>Identify broader problem spaces which are of interest to the community. Think about how technology can be used to tackle these problems</li>
         <li>Set up a communication channel(s) that participants can use before, throughout and after the event</li>
