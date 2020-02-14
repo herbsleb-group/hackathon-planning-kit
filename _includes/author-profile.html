@@ -4,10 +4,10 @@
   <h4><a href= "/catalytic/">catalytic</a></h4>
 </div> -->
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
-{% assign author = site.data.authors[author] | default: author %} -->
+{% assign author = site.data.authors[author] | default: author %}
 
 <div class="author__content">
-  {% if author.home %}
+  <!-- {% if author.home %}
     <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
   {% else %}
     <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
@@ -16,10 +16,13 @@
     <div class="author__bio" itemprop="description">
       {{ author.bio | markdownify }}
     </div>
-  {% endif %}
+  {% endif %} -->
+  <a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h4>communal</h4></a>
+  <a href= "/contributive/"><h4>contributive</h4></a>
+  <a href= "/catalytic/"><h4>catalytic</h4></a>
 </div>
 
-<div class="author__urls-wrapper">
+<!-- <div class="author__urls-wrapper">
   <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
   <ul class="author__urls social-icons">
     {% if author.location %}
@@ -238,5 +241,5 @@
     {% endif %}
 
     {% include author-profile-custom-links.html %}
-  </ul>
+  </ul> -->
 </div>
