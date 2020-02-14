@@ -22,7 +22,7 @@ github_username: eipapa/hack-research-mmistakes
 minimal_mistakes_skin: aqua
 search: true
 breadcrumbs: false
-baseurl: https://eipapa.github.io/hack-research-mmistakes
+# baseurl: https://eipapa.github.io/hack-research-mmistakes
 
 # Build settings
 markdown: kramdown
