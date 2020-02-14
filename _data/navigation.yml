@@ -1,9 +1,19 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Planning Kit"
+    children:
+      - tilte: "Communal"
+        url: /comunal/
+      - tilte: "Contributive"
+        url: /contributive/
+      - tilte: "Catalytic"
+        url: /catalytic/
+  - title: "Publications"
+    url: /publications/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
