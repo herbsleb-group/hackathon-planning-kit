@@ -6,7 +6,7 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %} -->
 
-<!-- <div class="author__content">
+<div class="author__content">
   {% if author.home %}
     <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
   {% else %}
