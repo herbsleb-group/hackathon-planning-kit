@@ -24,20 +24,19 @@
             {% if link.children != null %}
             <ul>
               {% for child in link.children %}
-                {% comment %} internal/external URL check {% endcomment %}
+                <!-- {% comment %} internal/external URL check {% endcomment %} -->
                 {% if child.url contains "://" %}
                   {% assign child_url = child.url %}
                 {% else %}
                   {% assign child_url = child.url | relative_url %}
                 {% endif %}
 
-                {% comment %} set "active" class on current page {% endcomment %}
+                <!-- {% comment %} set "active" class on current page {% endcomment %}
                 {% if child.url == page.url %}
                   {% assign active = "active" %}
                 {% else %}
                   {% assign active = "" %}
-                {% endif %}
-
+                {% endif %} -->
                 <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
               {% endfor %}
               </li>
