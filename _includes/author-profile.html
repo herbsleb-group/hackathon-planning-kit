@@ -1,8 +1,3 @@
-<!-- <div>
-  <h4><a href= "https://eipapa.github.io/hack-research-mmistakes/communal/">communal</a></h4>
-  <h4><a href= "/contributive/">contributive</a></h4>
-  <h4><a href= "/catalytic/">catalytic</a></h4>
-</div> -->
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
@@ -17,13 +12,13 @@
       {{ author.bio | markdownify }}
     </div>
   {% endif %} -->
-  <a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h4>communal</h4></a>
-  <a href= "/contributive/"><h4>contributive</h4></a>
-  <a href= "/catalytic/"><h4>catalytic</h4></a>
+  <a href= "https://eipapa.github.io/hack-research-mmistakes/communal/"><h3>communal</h3></a>
+  <a href= "/contributive/"><h3>contributive</h3></a>
+  <a href= "/catalytic/"><h3>catalytic</h3></a>
 </div>
 
-<!-- <div class="author__urls-wrapper">
-  <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+<div class="author__urls-wrapper">
+  <!-- <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
   <ul class="author__urls social-icons">
     {% if author.location %}
       <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
