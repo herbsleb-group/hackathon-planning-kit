@@ -20,10 +20,10 @@
     {% include_cached masthead.html %}
 
   <div class="row">
-    <div class="column">
-      <a href="">communal</a>
+    <div class="column left">
+      <a href="{{ site.baseurl }} {{ page.url}}">communal</a>
     </div>
-    <div class="column">{{ content }}</div>
+    <div class="column right">{{ content }}</div>
   </div>
 
     <!-- <div class="initial-content">
