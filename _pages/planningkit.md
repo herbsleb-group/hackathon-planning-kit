@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /planningkit/
 title: "Hackathon Planning Kit"
 # classes: wide
@@ -10,5 +10,3 @@ Three common types of hackathons:
 * Communal
 * Contributive
 * Catalytic
-
-{% include sidebar.html %}
