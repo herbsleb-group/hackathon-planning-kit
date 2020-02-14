@@ -2,7 +2,9 @@
 layout: archive
 permalink: /communal/
 title: "Communal Hackathons"
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "main"
 ---
 
 <p>The primary purpose is to develop resources, infrastructure, practices, and culture for community.</p>
