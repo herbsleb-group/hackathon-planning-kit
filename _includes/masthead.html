@@ -20,7 +20,6 @@
             {%- endif -%}
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
             <!-- S: Added by EP -->
             {% if link.children != null %}
             <ul>
@@ -41,6 +40,7 @@
 
                 <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
               {% endfor %}
+              </li>
             <!-- E: Added by EP -->
           {%- endfor -%}
         </ul>
