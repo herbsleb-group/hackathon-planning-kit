@@ -5,7 +5,7 @@ main:
     url: /planningkit/
     # children:
     #   - tilte: "Communal"
-    #     url: /comunal/
+    #     url: /communal/
     #   - tilte: "Contributive"
     #     url: /contributive/
     #   - tilte: "Catalytic"
