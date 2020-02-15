@@ -11,7 +11,7 @@ sidebar:
 
 <div>
 <table style="width: 100%;">
-  <tr>
+  <tr style="border-top: thin solid;">
     <td style="width: 20%;">Pre-Hackathon</td>
     <td style="width: 80%;">
       <ul>
@@ -27,7 +27,7 @@ sidebar:
       </ul>
     </td>
   </tr>
-  <tr>
+  <tr style="border-top: thin solid;">
     <td style="width: 20%;">During-Hackathon</td>
     <td style="width: 80%;">
       <ul>
@@ -39,7 +39,7 @@ sidebar:
       </ul>
     </td>
   </tr>
-  <tr>
+  <tr style="border-top: thin solid;">
     <td style="width: 20%;">Post-Hackathon</td>
     <td style="width: 80%;">
       <ul>

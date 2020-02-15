@@ -1,20 +1,14 @@
 ---
 layout: archive
 permalink: /planningkit/
-title: "Planning a Hackathon"
+title: "Hackathon Planning Kit"
 author_profile: false
 sidebar:
   nav: "main"
 ---
 
-<!-- {% include nav_list nav="foo" %} -->
-
-<!-- Three common types of hackathons:
-* Communal
-* Contributive
-* Catalytic -->
-Hackathons are time-bounded (mostly) co-located events during which a group of people engage in intense activities around a pre-set topic. Like any other event, Hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, considering general logistics suchas transportation, hosting, catering and others. There are a number of guides available that cover specifics about those topics (e.g. https://www.wildapricot.com/articles/how-to-plan-an-event). This guide is meant to extend the basic guidelines and provide insight into the specifics of Hackathons as compared to other time-bounded co-located events.
-
+# Planning a Hackathon
+Hackathons are time-bounded (mostly) co-located events during which a group of people engage in intense activities around a pre-set topic. Like any other event, Hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, considering general logistics suchas transportation, hosting, catering and others. There are a number of guides available that cover specifics about those topics (e.g. <a href="https://www.wildapricot.com/articles/how-to-plan-an-event">https://www.wildapricot.com/articles/how-to-plan-an-event</a>). This guide is meant to extend the basic guidelines and provide insight into the specifics of Hackathons as compared to other time-bounded co-located events.
 
 In addition to general planning information for hackathons, we provide additional guidance for three of the most common types of hackathons: communal, contributive, and catalytic, each focusing on particular purposes and outcomes[^1].  More about these types below.
 
