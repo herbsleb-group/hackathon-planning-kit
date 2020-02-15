@@ -22,7 +22,7 @@
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             <!-- S: Added by EP -->
             {% if link.children != null %}
-            <ul>
+            <ul class="dropdown">
               {% for child in link.children %}
                 <!-- {% comment %} internal/external URL check {% endcomment %} -->
                 {% if child.url contains "://" %}
