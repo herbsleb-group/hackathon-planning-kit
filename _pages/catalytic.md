@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "main"
 ---
-<u>{{ page.title }}</u>
+
 <p>The primary purpose is to foster innovation, by presenting challenges that require participants to come up with novel solutions.</p>
 
 <div>
