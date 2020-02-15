@@ -3,8 +3,8 @@ layout: splash
 title: "Publications"
 permalink: /publications/
 author_profile: false
-# sidebar:
-#  nav: "main"
+sidebar:
+  nav: "main"
 ---
 
 {% for post in site.publications reversed %}
