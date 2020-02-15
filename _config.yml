@@ -116,6 +116,11 @@ defaults:
       share: true
       comments: true
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
 category_archive:
   type: liquid
   path: /categories/
