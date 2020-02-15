@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /generalguidelines/
+permalink: /general-guidelines/
 title: "General Guidelines"
 author_profile: false
 sidebar:

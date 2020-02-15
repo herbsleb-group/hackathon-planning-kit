@@ -16,7 +16,7 @@ sidebar:
 Hackathons are time-bounded (mostly) co-located events during which a group of people engage in intense activities around a pre-set topic. Like any other event, Hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, considering general logistics suchas transportation, hosting, catering and others. There are a number of guides available that cover specifics about those topics (e.g. https://www.wildapricot.com/articles/how-to-plan-an-event). This guide is meant to extend the basic guidelines and provide insight into the specifics of Hackathons as compared to other time-bounded co-located events.
 
 
-In addition to general planning information for hackathons, we provide additional guidance for three of the most common types of hackathons: communal, contributive, and catalytic, each focusing on particular purposes and outcomes [^1].  More about these types below.
+In addition to general planning information for hackathons, we provide additional guidance for three of the most common types of hackathons: communal, contributive, and catalytic, each focusing on particular purposes and outcomes[^1].  More about these types below.
 
 # Key Questions
 Hackathons are meant to be intensive and fun events that motivate people to come and contribute, collaborate, and/or learn. It is thus necessary to start by thinking about motivations and expectations:
@@ -33,4 +33,5 @@ Hackathons are meant to be intensive and fun events that motivate people to come
 * What outcomes are expected? How do we create appropriate expectations?
 * What are our desired follow-up activities? Do we want the projects to be continued? Do we want the community to stay intact / grow? Do we want them to spread the news?
 
+<hr>
 [^1]: Drouhard, M., Tanweer, A., & Fiore-Gartland, B.  A typology of Hackathon Events. (2017) <em>Paper presented at the 1st CSCW 2017 Workshop on Hacking and Making at Time-Bounded Events</em>.
