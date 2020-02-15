@@ -5,6 +5,8 @@ main:
   - title: "Planning Kit"
     url: /planningkit/
     children:
+      - title: "General Guidelines"
+        url: /general-guidelines/
       - title: "Communal"
         url: /communal/
       - title: "Contributive"
