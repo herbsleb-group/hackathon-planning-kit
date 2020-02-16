@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 title: "About"
 author_profile: false
+classes: wide
+sidebar:
+  nav: "main"
 ---
 
 We are a team of researchers at the <a href = "https://www.isri.cmu.edu/">Institute for Software Research</a> in Carnegie Mellon's School of Computer Science.
