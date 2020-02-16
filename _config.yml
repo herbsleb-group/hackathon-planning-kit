@@ -113,6 +113,8 @@ defaults:
     values:
       layout: single
       classes: wide
+      sidebar:
+        nav: "main"
       author_profile: false
       share: true
       comments: true
