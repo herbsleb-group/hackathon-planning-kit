@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: false
 sidebar:
   nav: "main"
+classes: wide
 ---
 
 {% for post in site.publications reversed %}

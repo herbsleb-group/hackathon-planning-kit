@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /general-guidelines/
 title: "General Guidelines"
 author_profile: false
 sidebar:
   nav: "main"
+classes: wide
 ---
 
 <div>

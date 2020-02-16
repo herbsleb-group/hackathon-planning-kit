@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /catalytic/
 title: "Catalytic Hackathons"
 author_profile: false
 sidebar:
   nav: "main"
+classes: wide
 ---
 
 <p>The primary purpose is to foster innovation, by presenting challenges that require participants to come up with novel solutions.</p>

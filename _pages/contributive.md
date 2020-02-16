@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /contributive/
 title: "Contributive Hackathons"
 author_profile: false
 sidebar:
   nav: "main"
+classes: wide
 ---
 
 <p>The purpose is to advance the aims of larger, pre-existing projects, by breaking the work into smaller, discrete and modular tasks that can be done within a short period of time.</p>
