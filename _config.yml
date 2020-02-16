@@ -118,9 +118,24 @@ defaults:
       author_profile: false
       share: true
       comments: true
+ # _publications
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "main"
+      author_profile: false
+      share: true
+      comments: true
 
 collections:
   publications:
+    output: true
+    permalink: /:collection/:path/
+  guides:
     output: true
     permalink: /:collection/:path/
 

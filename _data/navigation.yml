@@ -19,6 +19,11 @@ main:
 
   - title: "Resources"
     url: /resources/
+    children:
+      - title: "Guides"
+        url: "guides"
+      - title: "Cases"
+        url: "cases"
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
