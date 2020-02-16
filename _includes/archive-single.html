@@ -10,8 +10,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -60,5 +58,4 @@
 
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
   </article>
-</div>
 </div>
