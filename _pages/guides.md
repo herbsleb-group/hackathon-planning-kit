@@ -8,6 +8,6 @@ sidebar:
 classes: wide
 ---
 
-{% for post in site.guides reversed %}
+{% for post in site.guides %}
   {% include archive-single.html %}
 {% endfor %}
