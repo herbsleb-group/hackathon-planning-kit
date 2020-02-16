@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A collection of resources essentail for planning "hackathon" events.
 twitter_username: username
 github_username: eipapa/hack-research-mmistakes
-minimal_mistakes_skin: default # aqua
+minimal_mistakes_skin: dark
 search: true
-breadcrumbs: false
+breadcrumbs: true
 # baseurl: https://eipapa.github.io/hack-research-mmistakes
 
 # Build settings
