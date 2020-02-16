@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /planningkit/
 title: "Hackathon Planning Kit"
 author_profile: false
 sidebar:
   nav: "main"
+classes: wide
 ---
 
 # Planning a Hackathon
