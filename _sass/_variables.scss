@@ -89,10 +89,9 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-
 /* links */
-// $link-color                 : $info-color;
-// $link-color-hover           : mix(#000, $link-color, 25%);
+$link-color                 : $dark-gray;
+$link-color-hover           : mix(#000, $link-color, 25%);
 // $link-color-hover           : #0EAC00;
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
