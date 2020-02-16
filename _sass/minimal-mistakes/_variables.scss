@@ -103,9 +103,10 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
-// $link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-hover: green;
+// $link-color: mix(#000, $info-color, 15%) !default;
+$link-color: $info-color;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-hover: #66CD00;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
