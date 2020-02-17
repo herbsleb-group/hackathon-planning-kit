@@ -9,5 +9,5 @@ classes: wide
 ---
 
 {% for post in site.guides %}
-  {% include archive-single.html %}
+  {% include archive-single0.html %}
 {% endfor %}
