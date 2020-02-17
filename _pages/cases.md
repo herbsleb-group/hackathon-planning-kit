@@ -8,7 +8,4 @@ sidebar:
 classes: wide
 ---
 
-Coming soon ...
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+Coming soon!
