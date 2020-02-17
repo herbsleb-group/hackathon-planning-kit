@@ -69,7 +69,8 @@ $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
-$sustinable-color: #0EAC00 !default;
+// $sustainable-color: #0EAC00 !default;
+$sustainable-color: #086400 !default;
 
 
 /* YIQ color contrast */
@@ -106,10 +107,10 @@ $xing-color: #006567 !default;
 
 /* links */
 // $link-color: mix(#000, #66CD00, 75%) !default;
-$link-color: $sustinable-color;
+$link-color: $sustainable-color;
 // $link-color-hover: mix(#000, $link-color, 25%) !default;
 // $link-color-hover: mix(#000, #66CD00, 25%) !default;
-$link-color-hover: $sustinable-color;
+$link-color-hover: $sustainable-color;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: #ffffff !default; //$primary-color
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
