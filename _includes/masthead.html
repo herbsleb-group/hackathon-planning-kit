@@ -1,7 +1,7 @@
 <style>
   ul li ul.dropdown {
       min-width: 20%;
-      background: #f2f2f2;
+      background: rgba(0,255,0,0.3);
       display: none;
       position: absolute;
       z-index: 40;
@@ -16,6 +16,8 @@
       display: block;
   }
 </style>
+<!-- #f2f2f2; -->
+<!-- background: #00cc00; -->
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
 <div class="masthead" style="background-color:#00cc00">
@@ -25,7 +27,7 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
+        <a class="site-title" href="{{ '/' | relative_url }}" style="color: #ffffff;">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
@@ -36,7 +38,7 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <li class="masthead__menu-item">
+            <li class="masthead__menu-item" style="color: #ffffff;">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             <!-- S: Added by EP -->
             {% if link.children != null %}
@@ -55,7 +57,7 @@
                 {% else %}
                   {% assign active = "" %}
                 {% endif %} -->
-                <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+                <li><a href="{{ child_url }}" class="{{ active }}" style="color: #ffffff;">{{ child.title }}</a></li>
               {% endfor %}
             </ul>
             {% endif %}
