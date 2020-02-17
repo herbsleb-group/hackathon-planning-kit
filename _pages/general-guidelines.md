@@ -8,6 +8,8 @@ sidebar:
 classes: wide
 ---
 
+<p>The table illustrates general guidelines that are specific for all hackathons.</p>
+
 <div>
 <table style="width: 100%;">
   <tr style="border-top: thin solid;">

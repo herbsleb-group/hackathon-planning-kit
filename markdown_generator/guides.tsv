@@ -1,6 +1,8 @@
 id	title	venu	url_slug	paper_url
-"01"	Brigade Organizer's Playbook	Code for America.org	code-for-America-playbook	http://eipapa.github.io/hack-research-mmistakes/files/code-for-America-playbook.pdf
-"02"	Hackathon Playbook	Hackathons 101	hackathon-playbook-external	http://eipapa.github.io/hack-research-mmistakes/files/hackathon-playbook-external.pdf
-"03"	Health Hackathon Handbook	MIT Hacking Medicine	health-hackathon-handbook	http://eipapa.github.io/hack-research-mmistakes/files/health-hackathon-handbook.pdf
-"04"	@Civicwhitaker Anthology	Christopher Whitaker edited by Daniel X. O'Neil	civicwhitaker-anthology	http://eipapa.github.io/hack-research-mmistakes/files/civicwhitaker-anthology.pdf
-"05"	The complete guide to organizing a successful hackathon	hackerearth	hackerearth	http://eipapa.github.io/hack-research-mmistakes/files/hackerearth.pdf 
+01	Brigade Organizer's Playbook	Code for America.org	code-for-America-playbook	http://eipapa.github.io/hack-research-mmistakes/files/code-for-America-playbook.pdf
+02	The MLH Hackathon Organizer Guide	MLH, Major League Hacking	owr	https://guide.mlh.io
+03	Hackathon Playbook	Hackathons 101	hackathon-playbook-external	http://eipapa.github.io/hack-research-mmistakes/files/hackathon-playbook-external.pdf
+04	Health Hackathon Handbook	MIT Hacking Medicine	health-hackathon-handbook	http://eipapa.github.io/hack-research-mmistakes/files/health-hackathon-handbook.pdf
+05	@Civicwhitaker Anthology	Christopher Whitaker edited by Daniel X. O'Neil	civicwhitaker-anthology	http://eipapa.github.io/hack-research-mmistakes/files/civicwhitaker-anthology.pdf
+06	The complete guide to organizing a successful hackathon	hackerearth	hackerearth	http://eipapa.github.io/hack-research-mmistakes/files/hackerearth.pdf
+07	How to run a successful hackathon (Open Data Day DC)	Joshua Tauberer	owr	https://hackathon.guide 
