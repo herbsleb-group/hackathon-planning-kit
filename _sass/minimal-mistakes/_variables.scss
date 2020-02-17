@@ -111,7 +111,7 @@ $link-color: $sustinable-color;
 // $link-color-hover: mix(#000, #66CD00, 25%) !default;
 $link-color-hover: $sustinable-color;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
-$masthead-link-color: $primary-color !default;
+$masthead-link-color: #ffffff !default; //$primary-color
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
