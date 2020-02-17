@@ -26,7 +26,7 @@
     }
 
     a {
-      text-decoration: none;
+      text-decoration: #ffffff;
     }
   }
 }
@@ -45,6 +45,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  text-decoration: #ffffff;
 
   &--lg {
     padding-right: 2em;
