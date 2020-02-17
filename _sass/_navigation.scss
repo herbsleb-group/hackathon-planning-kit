@@ -175,9 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  // background: $background-color;
-  // background-color: $sustinable-color;
-  background: mix(#fff, $sustinable-color, 75%);
+  background: $background-color;
 
   a {
     display: block;
