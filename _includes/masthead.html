@@ -38,7 +38,7 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <li class="masthead__menu-item" style="color: #ffffff;">
+            <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             <!-- S: Added by EP -->
             {% if link.children != null %}
@@ -57,7 +57,7 @@
                 {% else %}
                   {% assign active = "" %}
                 {% endif %} -->
-                <li><a href="{{ child_url }}" class="{{ active }}" style="color: #ffffff;">{{ child.title }}</a></li>
+                <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
               {% endfor %}
             </ul>
             {% endif %}
