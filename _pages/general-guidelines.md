@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-<p>The table illustrates general guidelines that are specific for all hackathons.</p>
+<p>Below are the general event planning guidelines that are specific to all hackathons.</p>
 
 <div>
 <table style="width: 100%;">

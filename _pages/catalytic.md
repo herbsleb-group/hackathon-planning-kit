@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-<p>The primary purpose is to foster innovation, by presenting challenges that require participants to come up with novel solutions.</p>
+<p>This guidelines will be useful for organizers who wish to foster innovation, by presenting challenges that require participants to come up with novel solutions.</p>
 
 <div>
 <table style="width: 100%;">

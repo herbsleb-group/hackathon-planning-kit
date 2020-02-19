@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-<p>The purpose is to advance the aims of larger, pre-existing projects, by breaking the work into smaller, discrete and modular tasks that can be done within a short period of time.</p>
+<p>This guidelines would be useful for organizers who wish to advance the aims of larger, pre-existing projects, by breaking the work into smaller, discrete and modular tasks that can be done within a short period of time.</p>
 
 <div>
 <table style="width: 100%;">

@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-<p>The primary purpose is to develop resources, infrastructure, practices, and culture for community.</p>
+<p>This guidelines would be useful for organizers who wish to develop resources, infrastructure, practices, and culture for community.</p>
 
 <div>
 <table style="width: 100%;">
