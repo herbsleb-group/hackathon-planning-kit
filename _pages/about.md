@@ -8,6 +8,33 @@ sidebar:
   nav: "main"
 ---
 
-We are a team of researchers at the <a href = "https://www.isri.cmu.edu/">Institute for Software Research</a> in Carnegie Mellon's School of Computer Science.
-
 Based on our empirical study of 14 hackathons including a large-scale corporate hackathon by Microsoft, events hosted by universities, and events hosted by scientific communities including three hack days at STScI, we provide a hackathon planning kit for three of the most common types of hackathons and other resources which we think are useful for hackathon planning.
+
+<hr>
+This is a collaborative research project led by Institute for Software Research in Carnegie Mellon University, University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
+<table style="border: none;">
+  <tr>
+    <td><img src="/hackathon-research/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:80px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/cmu.jpg" alt="Carnegie Mellon University" style="width:300px;height:100px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/tartu.jpg" alt="University of Tartu" style="width:450px;height:80px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/sloan.jpg" alt="Alfred P. Sloan Foundation" style="width:450px;height:80px;"></td>
+  </tr>
+</table>
+
+
+<br><br>
+We are also supported by Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), and Science Gateways Community Institute (SGCI). <br><br>
+<table  style="border: none;">
+  <tr>
+    <td><img src="/hackathon-research/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:50px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:100px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/stsci.jpg" alt="STScI" style="width:120px;height:80px;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-research/images/sgci.jpg" alt="SGCI" style="width:120px;height:80px;"></td>
+  </tr>
+</table>
