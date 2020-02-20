@@ -30,7 +30,6 @@ This is a collaborative research project led by Institute for Software Research 
 </table>
 
 <hr>
-<br><br>
 We are also supported by Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), and Science Gateways Community Institute (SGCI). <br><br>
 <table>
   <tr style="width: 100%;">
