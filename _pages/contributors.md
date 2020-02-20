@@ -16,13 +16,13 @@ classes: wide
   <td>jdh [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
+  <td><img src="/hackahton-research/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
   <td><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>eipa [at] cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="hackahton-research/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
+  <td><img src="/hackahton-research/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
   <td><a href="https://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td>University of Tartu</td>
   <td>alexander [at] nolte@ut.ee</td>
