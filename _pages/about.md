@@ -17,8 +17,8 @@ we provide a hackathon planning kit for three of the most common types of hackat
 
 <hr>
 This is a collaborative research project led by Institute for Software Research in Carnegie Mellon University, University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
-<table>
-  <tr style="border: none;">
+<table style="width: 100%;">
+  <tr>
     <td><img src="/hackathon-research/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:80px;"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/hackathon-research/images/cmu.jpg" alt="Carnegie Mellon University" style="width:300px;height:100px;"></td>
@@ -33,7 +33,7 @@ This is a collaborative research project led by Institute for Software Research 
 <br><br>
 We are also supported by Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), and Science Gateways Community Institute (SGCI). <br><br>
 <table>
-  <tr style="border: none;">
+  <tr style="width: 100%;">
     <td><img src="/hackathon-research/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:50px;"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/hackathon-research/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:100px;"></td>
