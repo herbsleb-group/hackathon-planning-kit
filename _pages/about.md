@@ -8,7 +8,12 @@ sidebar:
   nav: "main"
 ---
 
-Based on our empirical study of 14 hackathons including a large-scale corporate hackathon by Microsoft, events hosted by universities, and events hosted by scientific communities including three hack days at STScI, we provide a hackathon planning kit for three of the most common types of hackathons and other resources which we think are useful for hackathon planning.
+Based on our empirical study of 14 hackathons including:
+- a large-scale corporate hackathon by Microsoft,
+- events hosted by universities, and
+- events hosted by scientific communities including three hack days at STScI,
+we provide a hackathon planning kit for three of the most common types of hackathons and other resources which we think are useful for hackathon planning.
+<br>
 
 <hr>
 This is a collaborative research project led by Institute for Software Research in Carnegie Mellon University, University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
@@ -20,7 +25,7 @@ This is a collaborative research project led by Institute for Software Research 
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/hackathon-research/images/tartu.jpg" alt="University of Tartu" style="width:450px;height:80px;"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="/hackathon-research/images/sloan.jpg" alt="Alfred P. Sloan Foundation" style="width:450px;height:80px;"></td>
+    <td><img src="/hackathon-research/images/sloan.jpg" alt="Alfred P. Sloan Foundation" style="width:450px;height:100px;"></td>
   </tr>
 </table>
 
