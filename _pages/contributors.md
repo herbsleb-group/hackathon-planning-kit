@@ -22,7 +22,7 @@ classes: wide
   <td>eipa [at] cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/alexander-nolte.jpg" alt="Alexander Nolte" style="width:200px;height:200px;"></td>
+  <td><img src="/images/anolte.jpg" alt="Alexander Nolte" style="width:200px;height:200px;"></td>
   <td><a href="www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td>University of Tartu</td>
   <td>alexander [at] nolte@ut.ee</td>
