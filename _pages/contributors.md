@@ -22,25 +22,25 @@ classes: wide
   <td>eipa [at] cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/anolte.jpg" alt="Alexander Nolte" style="width:200px;height:200px;"></td>
-  <td><a href="www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td><img src="/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
+  <td><a href="https://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td>University of Tartu</td>
   <td>alexander [at] nolte@ut.ee</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/afilippova.jpg" alt="Anna Filippova" style="width:200px;height:200px;"></td>
+  <td><img src="/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;"></td>
   <td><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Scientist</td>
   <td>GitHub</td>
   <td>annafil [at] gmail.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/cbird.jpg" alt="Christian Bird" style="width:200px;height:200px;"></td>
+  <td><img src="/images/cbird.jpg" alt="Christian Bird" style="width:100px;height:100px;"></td>
   <td><a href="https://www.microsoft.com/en-us/research/people/cbird/"><strong>Christian Bird</strong></a><br>Researcher</td>
   <td>Microsoft Research</td>
   <td>cbird [at] microsoft.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/sscallen.jpg" alt="Steve Scallen" style="width:200px;height:200px;"></td>
+  <td><img src="/images/sscallen.jpg" alt="Steve Scallen" style="width:100px;height:100px;"></td>
   <td><a href="https://www.linkedin.com/in/steve-scallen-2221893/"><strong>Steve Scallen</strong></a><br>Principal Design Researcher</td>
   <td>Microsoft Garage</td>
   <td>sscallen [at] microsoft.com</td>
