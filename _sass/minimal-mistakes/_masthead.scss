@@ -66,16 +66,13 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  color: white;
+  color: $primary-color;
 
   .site-nav {
     margin-left: 0;
 
     @include breakpoint($small) {
       float: right;
-    }
-    a.hover {
-      // background: #e6ffe6;
     }
 
   }
@@ -96,9 +93,5 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-  }
-
-  a:hover{
-    // background: #e6ffe6;
   }
 }
