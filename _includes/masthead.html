@@ -36,6 +36,7 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        <div class="dropdown">
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
@@ -43,11 +44,12 @@
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            <li class="masthead__menu-item dropdown">
+            <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             <!-- S: Added by EP -->
             {% if link.children != null %}
-            <ul class="dropdown-content">
+            <div class="dropdown-content">
+            <ul>
               {% for child in link.children %}
                 <!-- {% comment %} internal/external URL check {% endcomment %} -->
                 {% if child.url contains "://" %}
@@ -65,11 +67,13 @@
                 <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
               {% endfor %}
             </ul>
+            </div>
             {% endif %}
           </li>
             <!-- E: Added by EP -->
           {%- endfor -%}
         </ul>
+        </div>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
