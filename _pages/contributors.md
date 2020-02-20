@@ -10,7 +10,7 @@ classes: wide
 
 <table style="width: 100%;">
 <tr style="border-top: thin solid; align:top">
-  <td>Image</td>
+  <td><img src="/images/eipa.jpg" alt="Ei Pa Pa Pe-Than"></td>
   <td><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>Email</td>
