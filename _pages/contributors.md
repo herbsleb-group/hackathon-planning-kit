@@ -10,7 +10,7 @@ classes: wide
 
 <table style="width: 100%;">
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/eipa.jpg" alt="James D Herbsleb" style="width:200px;height:200px;"></td>
+  <td><img src="/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
   <td><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>jim.herbsleb [at] gmail.com</td>
@@ -28,19 +28,19 @@ classes: wide
   <td>alexander [at] nolte@ut.ee</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/anna-filippova.jpg" alt="Anna Filippova" style="width:200px;height:200px;"></td>
+  <td><img src="/images/afilippova.jpg" alt="Anna Filippova" style="width:200px;height:200px;"></td>
   <td><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Scientist</td>
   <td>GitHub</td>
   <td>annafil [at] gmail.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/christian-bird.jpg" alt="Christian Bird" style="width:200px;height:200px;"></td>
+  <td><img src="/images/cbird.jpg" alt="Christian Bird" style="width:200px;height:200px;"></td>
   <td><a href="https://www.microsoft.com/en-us/research/people/cbird/"><strong>Christian Bird</strong></a><br>Researcher</td>
   <td>Microsoft Research</td>
   <td>cbird [at] microsoft.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/steve-scallen.jpg" alt="Steve Scallen" style="width:200px;height:200px;"></td>
+  <td><img src="/images/sscallen.jpg" alt="Steve Scallen" style="width:200px;height:200px;"></td>
   <td><a href="https://www.linkedin.com/in/steve-scallen-2221893/"><strong>Steve Scallen</strong></a><br>Principal Design Researcher</td>
   <td>Microsoft Garage</td>
   <td>sscallen [at] microsoft.com</td>
