@@ -10,13 +10,13 @@ classes: wide
 
 <table style="width: 100%;">
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/james-herbsleb.jpg" alt="James D Herbsleb" style="width:200px;height:200px;"></td>
+  <td><img src="/images/eipa.jpg" alt="James D Herbsleb" style="width:200px;height:200px;"></td>
   <td><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>jim.herbsleb [at] gmail.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:200px;height:200px;"></td>
+  <td><img src="/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
   <td><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>eipa [at] cmu.edu</td>
