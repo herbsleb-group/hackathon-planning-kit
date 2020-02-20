@@ -16,7 +16,7 @@ classes: wide
   <td>jdh [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="https://eipapa.github.io/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
+  <td><img src="/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
   <td><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>eipa [at] cmu.edu</td>

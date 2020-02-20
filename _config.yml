@@ -22,7 +22,7 @@ github_username: eipapa/hackathon-research
 minimal_mistakes_skin: aqua # aqua
 search: true
 breadcrumbs: false
-url:  "https://eipapa.github.io"
+url:  "https://eipapa.github.io/hackathon-research"
 baseurl: "/hackathon-research"
 
 # Build settings
