@@ -23,8 +23,8 @@ classes: wide
 </tr>
 <tr style="border-top: thin solid; align:top">
   <td><img src="/hackathon-research/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
-  <td><a href="www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-  <td>University of Tartu</td>
+  <td><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td>Institute of Computer Science<br>University of Tartu</td>
   <td>alexander.nolte [at] ut.ee</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
