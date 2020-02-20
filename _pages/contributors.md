@@ -23,9 +23,9 @@ classes: wide
 </tr>
 <tr style="border-top: thin solid; align:top">
   <td><img src="/hackathon-research/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
-  <td><a href="https://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td><a href="www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td>University of Tartu</td>
-  <td>alexander [at] nolte@ut.ee</td>
+  <td>alexander.nolte [at] ut.ee</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
   <td><img src="/hackathon-research/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;"></td>
