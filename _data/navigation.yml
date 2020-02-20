@@ -24,9 +24,11 @@ main:
     url: /resources/
     children:
       - title: "Guides"
-        url: "guides"
+        url: /guides/
+      - title: "Workshops"
+        url: /workshops/
       - title: "Cases"
-        url: "cases"
+        url: /cases/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
