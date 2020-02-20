@@ -1,4 +1,5 @@
 # Hackathon Planning Kit.
 
-Researchers:
-  TBA.
+Contributors:
+- Institute for Software Research in Carnegie Mellon University
+- University of Tartu

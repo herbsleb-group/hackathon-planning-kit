@@ -7,6 +7,11 @@ sidebar:
   nav: "main"
 classes: wide
 ---
+<style>
+.td {
+  vertical-align: bottom;
+}
+</style>
 
 <table style="width: 100%;">
 <tr style="border-top: thin solid; align:bottom">
