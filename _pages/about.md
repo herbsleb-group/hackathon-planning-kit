@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /aboutus/
 title: "About"
 author_profile: false
 classes: wide

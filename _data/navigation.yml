@@ -1,6 +1,9 @@
 main:
   - title: "About"
-    url: /about/
+    url: /aboutus/
+    children:
+      - title: Contributors
+        url: /contributors/
 
   - title: "Planning Kit"
     url: /planningkit/
