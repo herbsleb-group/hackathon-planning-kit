@@ -10,7 +10,7 @@ classes: wide
 
 <table style="width: 100%;">
 <tr style="border-top: thin solid; align:top">
-  <td><img src="{{ absolute_url }}/hackahton-research/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
+  <td><img src="bio-photo.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
   <td><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
   <td>Institute for Software Research<br>Carnegie Mellon University</td>
   <td>jdh [at] cs.cmu.edu</td>
@@ -22,7 +22,7 @@ classes: wide
   <td>eipa [at] cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
+  <td><img src="hackahton-research/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
   <td><a href="https://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td>University of Tartu</td>
   <td>alexander [at] nolte@ut.ee</td>
