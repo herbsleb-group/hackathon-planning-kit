@@ -45,13 +45,13 @@ classes: wide
   <td>Microsoft Garage</td>
   <td>sscallen [at] microsoft.com</td>
 </tr>
-<!-- <tr style="border-top: thin solid; align:top">
+<tr style="border-top: thin solid; align:top">
   <td>Image</td>
-  <td><a href=""><strong>Eric Trainer</strong></a><br></td>
+  <td><a href=""><strong>More to be added!</strong></a><br></td>
   <td></td>
   <td>Email</td>
 </tr>
-<tr style="border-top: thin solid; align:top">
+<!-- <tr style="border-top: thin solid; align:top">
   <td>Image</td>
   <td><a href=""><strong></strong></a><br></td>
   <td></td>
