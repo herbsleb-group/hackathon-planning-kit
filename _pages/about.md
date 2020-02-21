@@ -16,7 +16,7 @@ we provide a hackathon planning kit for three of the most common types of hackat
 <br>
 
 <hr>
-This collaborative research project is led by [Institute for Software Research](https://www.isri.cmu.edu/) article at Carnegie Mellon University, [Institute of Computer Science](https://www.cs.ut.ee/en) at University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
+This collaborative research project is led by [Institute for Software Research][1]article at Carnegie Mellon University, [Institute of Computer Science][2] at University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
 <table style="width: 100%;">
   <tr>
     <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:80px;"></td>
@@ -42,3 +42,6 @@ We are also supported by Microsoft Research, Microsoft Garage, Space Telescope S
     <td><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:80px;"></td>
   </tr>
 </table>
+
+[1]:  https://www.isri.cmu.edu/
+[2]:  https://www.cs.ut.ee/en
