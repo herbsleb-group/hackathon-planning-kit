@@ -14,11 +14,11 @@ classes: wide
 </style>
 
 <table style="width: 100%;">
-<tr style="border-top: thin solid; align:bottom">
+<tr>
   <td><img src="/hackathon-research/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
-  <td><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
-  <td>Institute for Software Research<br>Carnegie Mellon University</td>
-  <td>jdh [at] cs.cmu.edu</td>
+  <td style="vertical-align: bottom;"><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
+  <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="vertical-align: bottom; text-align: right;">jdh [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:bottom">
   <td><img src="/hackathon-research/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
