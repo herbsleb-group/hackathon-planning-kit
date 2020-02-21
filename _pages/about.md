@@ -16,7 +16,7 @@ we provide a hackathon planning kit for three of the most common types of hackat
 <br>
 
 <hr>
-This collaborative research project is led by Institute for Software Research in Carnegie Mellon University, University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
+This collaborative research project is led by [Institute for Software Research](https://www.isri.cmu.edu/) article at Carnegie Mellon University, [Institute of Computer Science](https://www.cs.ut.ee/en) at University of Tartu, funded by Alfred P. Sloan foundation.<br><br>
 <table style="width: 100%;">
   <tr>
     <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:80px;"></td>
