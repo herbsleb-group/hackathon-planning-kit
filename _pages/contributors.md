@@ -89,23 +89,23 @@ classes: wide
     Chris Holdgraf (University of California, Berkeley)<br>
     Krithika Jagannath (University of California, Irvine)<br>
     Kenneth Joseph (Northeastern University)<br>
-    Javed Khan (Eindhoven University of Technology)<br>
-    Meris Mandernach (Ohio State University)<br>
 
     </td>
     <td style="vertical-align: top;">
     Jonathan Morgan (Wikimedia)<br>
+    Victoria Sosik (Google)<br>
+    Jamie Whitacre (Project Jupyter)<br>
+    Rosta Farzan (University of Pittsburgh)<br>
+    Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)<br>
+    Javed Khan (Eindhoven University of Technology)<br>
+    Meris Mandernach (Ohio State University)<br>
     Arnab Nandi (Ohio State University)<br>
     Brooke Sansosti (Carnegie Library of Pittsburgh)
-    Victoria Sosik (Google)<br>
     Brittany Smith<br>
     Anissa Tanweer (University of Washington)<br>
-    Jamie Whitacre (Project Jupyter)<br>
-    Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)<br>
     Sian Brooke (Oxford Internet Institute, University of Oxford)<br>
     Karen Bhavnani (MCI Group)<br>
     John M. Carroll (Pennsylvania State University)<br>
-    Rosta Farzan (University of Pittsburgh)<br>
     Eureka Chen Yew Foong (Northwestern University)<br>
     Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)<br>
     Sourobh Ghosh (Harvard Business School)<br>
