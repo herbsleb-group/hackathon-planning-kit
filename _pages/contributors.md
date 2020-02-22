@@ -56,12 +56,6 @@ classes: wide
   <td></td>
   <td>Email</td>
 </tr>
-<tr style="border-top: thin solid; align:top">
-  <td>Image</td>
-  <td><a href=""><strong>Erik Trainer</strong></a><br></td>
-  <td></td>
-  <td>Email</td>
-</tr>
 <tr style="border-top: thin solid; align:bottom">
   <td>Image</td>
   <td><a href=""><strong>More to be added!</strong></a><br></td>
@@ -70,6 +64,8 @@ classes: wide
 </tr>
 </table>
 
+<br>
+<br>
 # Other Contributors
-Arun Kalyanasundaram (Carnegie Mellon University), Brad Chapman (Harvard T.H. Chan School of Public Health), R. Stuart Geiger (Berkeley Institute for Data Science), Aurelia Moser (Mozilla Science Lab), Arlin Stoltzfus (NIST), Areej Al-Wabil (Center for Complex Engineering at KACST and MIT), Dannon Baker(Johns Hopkins University), Daina Bouquin (Harvard-Smithsonian Center for Astrophysics), Ryan Curtin (Symantec Corporation), Dharma Dailey (University of Washington), James Damon (Harvard-Smithsonian Center for Astrophysics), Margaret Drouhard (University of Washington), Brittany Fiore-Gartland (University of Washington), Eureka Foong (Northwestern University), Liz Gerber (Northwestern University), Erin Hoffman (University of Washington), Jane Hoffswell (University of Washington), Chris Holdgraf (University of California, Berkeley), Krithika Jagannath (University of California, Irvine), Kenneth Joseph (Northeastern University), Javed Khan (Eindhoven University of Technology), Meris Mandernach (Ohio State University), Jonathan Morgan (Wikimedia), Arnab Nandi (Ohio State University), Brooke Sansosti (Carnegie Library of Pittsburgh), Brittany Smith, Victoria Sosik (Google), Anissa Tanweer (University of Washington), Jamie Whitacre (Project Jupyter), Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community), Sian Brooke (Oxford Internet Institute, University of Oxford), Karen Bhavnani (MCI Group), John M. Carroll (Pennsylvania State University), Rosta Farzan (University of Pittsburgh), Eureka Chen Yew Foong (Northwestern University), Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR), Sourobh Ghosh (Harvard Business School), Bonnie E. John (Bloomberg LP), Greg Kiar (McGill University), Peter Müller (Technical University Munich), Je'aime Powell (The Texas Advanced
-Computing Center), Anthony Viviano (Bloomberg L.P.), Shahtab Wahid (Bloomberg LP), Mona Wong (San Diego Supercomputer Center, Science Gateways Community).
+<span style="font-size: 0.6875em">Arun Kalyanasundaram (Carnegie Mellon University), Brad Chapman (Harvard T.H. Chan School of Public Health), R. Stuart Geiger (Berkeley Institute for Data Science), Aurelia Moser (Mozilla Science Lab), Arlin Stoltzfus (NIST), Areej Al-Wabil (Center for Complex Engineering at KACST and MIT), Dannon Baker(Johns Hopkins University), Daina Bouquin (Harvard-Smithsonian Center for Astrophysics), Ryan Curtin (Symantec Corporation), Dharma Dailey (University of Washington), James Damon (Harvard-Smithsonian Center for Astrophysics), Margaret Drouhard (University of Washington), Brittany Fiore-Gartland (University of Washington), Eureka Foong (Northwestern University), Liz Gerber (Northwestern University), Erin Hoffman (University of Washington), Jane Hoffswell (University of Washington), Chris Holdgraf (University of California, Berkeley), Krithika Jagannath (University of California, Irvine), Kenneth Joseph (Northeastern University), Javed Khan (Eindhoven University of Technology), Meris Mandernach (Ohio State University), Jonathan Morgan (Wikimedia), Arnab Nandi (Ohio State University), Brooke Sansosti (Carnegie Library of Pittsburgh), Brittany Smith, Victoria Sosik (Google), Anissa Tanweer (University of Washington), Jamie Whitacre (Project Jupyter), Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community), Sian Brooke (Oxford Internet Institute, University of Oxford), Karen Bhavnani (MCI Group), John M. Carroll (Pennsylvania State University), Rosta Farzan (University of Pittsburgh), Eureka Chen Yew Foong (Northwestern University), Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR), Sourobh Ghosh (Harvard Business School), Bonnie E. John (Bloomberg LP), Greg Kiar (McGill University), Peter Müller (Technical University Munich), Je'aime Powell (The Texas Advanced
+Computing Center), Anthony Viviano (Bloomberg L.P.), Shahtab Wahid (Bloomberg LP), Mona Wong (San Diego Supercomputer Center, Science Gateways Community).</span>
