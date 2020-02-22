@@ -12,7 +12,7 @@ Based on our empirical study of 14 hackathons including:
 - a large-scale corporate hackathon by Microsoft,
 - events hosted by universities, and
 - events hosted by scientific communities including three hack days at STScI, <br>
-we provide a "<em>hackathon planning kit</em>" for different types of hackathons as well as other resources which we think are useful for hackathon planning.
+we provide a "<strong>hackathon planning kit</strong>" for different types of hackathons as well as other resources which we think are useful for hackathon planning.
 <br>
 
 <hr>
