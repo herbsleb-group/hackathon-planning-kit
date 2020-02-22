@@ -68,7 +68,7 @@ classes: wide
 # Other Contributors
 <table style="width: 100%;">
   <tr>
-    <td>
+    <td  style="vertical-align: top;">
     Arun Kalyanasundaram (Carnegie Mellon University)<br>
     Brad Chapman (Harvard T.H. Chan School of Public Health)<br>
     R. Stuart Geiger (Berkeley Institute for Data Science)<br>
@@ -93,7 +93,7 @@ classes: wide
     Meris Mandernach (Ohio State University)<br>
 
     </td>
-    <td>
+    <td style="vertical-align: top;">
     Jonathan Morgan (Wikimedia)<br>
     Arnab Nandi (Ohio State University)<br>
     Brooke Sansosti (Carnegie Library of Pittsburgh)
