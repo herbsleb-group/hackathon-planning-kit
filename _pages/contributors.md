@@ -65,7 +65,7 @@ classes: wide
 </table>
 
 <br>
-# Other Contributors
+We would also like to acknowledge the valuable contributions of the following individuals at our two hackathon workshops.
 <table style="width: 100%;">
   <tr>
     <td  style="vertical-align: top;">
