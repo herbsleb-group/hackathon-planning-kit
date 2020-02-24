@@ -33,10 +33,10 @@ classes: wide
   <td style="vertical-align: bottom; text-align: right;">cbird [at] microsoft.com</td>
 </tr>
 <tr style="border-top: thin solid; align:top">
-  <td><img src="/hackathon-planning-kit/images/eric.jpg" alt="Christian Bird" style="width:100px;height:100px;"></td>
-  <td><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br></td>
-  <td></td>
-  <td>etrainer [at] cs.cmu.edu</td>
+  <td><img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;"></td>
+  <td style="vertical-align: bottom;"><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br></td>
+  <td style="vertical-align: bottom;"></td>
+  <td tyle="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:bottom">
   <td><img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;"></td>
