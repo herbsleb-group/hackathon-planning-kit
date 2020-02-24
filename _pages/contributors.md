@@ -32,10 +32,10 @@ classes: wide
   <td style="vertical-align: bottom;">Microsoft Research</td>
   <td style="vertical-align: bottom; text-align: right;">cbird [at] microsoft.com</td>
 </tr>
-<tr style="border-top: thin solid; align:top">
+<tr style="border-top: thin solid; align:bottom">
   <td><img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;"></td>
-  <td style="vertical-align: bottom;"><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br></td>
-  <td style="vertical-align: bottom;"></td>
+  <td style="vertical-align: bottom;"><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher</td>
+  <td style="vertical-align: bottom;">Fidelity Investments</td>
   <td tyle="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: thin solid; align:bottom">
