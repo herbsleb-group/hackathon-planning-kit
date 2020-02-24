@@ -62,7 +62,7 @@ classes: wide
 We would also like to acknowledge the valuable contributions of the following individuals at our two hackathon workshops.
 <table style="width: 100%;">
   <tr>
-    <td  style="vertical-align: top;">
+    <td  style="vertical-align: top; width:50%">
     Arun Kalyanasundaram (Carnegie Mellon University)<br>
     Brad Chapman (Harvard T.H. Chan School of Public Health)<br>
     R. Stuart Geiger (Berkeley Institute for Data Science)<br>
@@ -85,7 +85,7 @@ We would also like to acknowledge the valuable contributions of the following in
     Kenneth Joseph (Northeastern University)<br>
 
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; width:50%">
     Jonathan Morgan (Wikimedia)<br>
     Victoria Sosik (Google)<br>
     Jamie Whitacre (Project Jupyter)<br>
