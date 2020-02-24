@@ -74,7 +74,7 @@ We would also like to acknowledge the valuable contributions of the following in
     Brad Chapman (Harvard T.H. Chan School of Public Health)<br>
     Brittany Fiore-Gartland (University of Washington)<br>
     Brittany Smith<br>
-    Brooke Sansosti (Carnegie Library of Pittsburgh)
+    Brooke Sansosti (Carnegie Library of Pittsburgh)<br>
     Chris Holdgraf (University of California, Berkeley)<br>
     Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)<br>
     Dannon Baker(Johns Hopkins University)<br>
