@@ -50,7 +50,7 @@ classes: wide
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: bottom; text-align: right;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="border-top: thin solid; align:bottom">
+<tr style="border-top: thin solid; border-bottom: thin solid; align:bottom">
   <td><img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
