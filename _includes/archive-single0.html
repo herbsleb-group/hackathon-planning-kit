@@ -26,10 +26,10 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        {{ title0 }}, {{ post.title1 }}<a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        <!-- <a href="{{ post.link }}">{{ title0 }}, {{ post.title1 }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
+        <!-- {{ title0 }}, {{ post.title1 }}<a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
+        <a href="{{ post.link }}">{{ post.title0 }}, {{ post.title1 }}</a><a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title0 }}, {{ post.title0 }}</a>
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title0 }}, {{ post.title1 }}</a><a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% endif %}
     </h3>
 
