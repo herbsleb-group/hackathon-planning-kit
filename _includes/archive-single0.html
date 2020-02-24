@@ -30,7 +30,7 @@
         {{ post.title0 }}, {{ post.title1 }}
       {% else %}
         <!-- <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title0 }}, {{ post.title1 }}</a><a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
-        {{ post.title0 }}, {{ post.title1 }}
+        <a href="{{ post.paperurl }}">{{ post.title0 }}, &nbsp; {{ post.title1 }}</a>
       {% endif %}
     </h3>
 
@@ -50,9 +50,9 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.paperurl %}
+    <!-- {% if post.paperurl %}
       <p><a href="{{ post.paperurl }}">Download PDF here.</a></p>
-    {% endif %}
+    {% endif %} -->
 
     <!-- {% if post.citation and post.paperurl %}
       <p><b>Recommended citation</b>: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
