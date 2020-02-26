@@ -59,7 +59,7 @@ classes: wide
 </table>
 
 <br>
-We would also like to acknowledge valuable contributions of the following individuals who participated in our two hackathon workshops at CSCW 2017 and CHI 2018. The names are listed in an alphabetical order by surnames.
+We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.
 <table style="width: 100%;">
   <tr>
     <td  style="vertical-align: top; width:50%">
