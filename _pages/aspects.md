@@ -17,7 +17,7 @@ sidebar:
   <td style="colspan:2;"><h3>Projects</h3></td>
 </tr>
 <tr>
-  <td><strong>Innovativeness<strong>:</td>
+  <td><strong>Innovativeness</strong>:</td>
   <td>This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
 </tr>
 
@@ -32,7 +32,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td><strong>Content complexity<strong>:</td>
+  <td><strong>Content complexity</strong>:</td>
   <td>This refers to the degree to which the requirements of the project are precise and complete.</td>
 </tr>
 
@@ -41,7 +41,9 @@ sidebar:
   <td>This refers to the degree to which the implemented system or code will be available to use and continue to be maintained in the future.</td>
 </tr>
 
-<tr><h3>Teams</h3></tr>
+<tr>
+  <td style="colspan:2;"><h3>Teams</h3></td>
+</tr>
 <tr>
   <td><strong>Motivation(s)</strong>:</td>
   <td>This refers to what the participants want to get out of their hackathon participation such as career, learning, get the needed work done, and meet new people.</td>
@@ -67,7 +69,9 @@ sidebar:
   <td>This refers to how roles or tasks are distributed among team members, e.g., interest, available skills, and preparation.</td>
 </tr>
 
-<tr><h3>Process</h3></tr>
+<tr>
+  <td style="colspan:2;"><h3>Process</h3></td>
+</tr>
 <tr>
   <td><strong>Pre-hackathon(events)</strong></td>
   <td>This refers to the agenda of activities that take place before the event individually or as a team. These activities include ideation, construction of project vision, common plan and shared understanding, and the dissemination feedback and information.</td>
@@ -103,7 +107,9 @@ sidebar:
   <td></td>
 </tr>
 
-<tr><h3>Mentors</h3></tr>
+<tr>
+  <td style="colspan:2;"><h3>Mentors</h3></td>
+</tr>
 <tr>
   <td><strong>Engagement with teams</strong></td>
   <td></td>
@@ -124,7 +130,9 @@ sidebar:
   <td></td>
 </tr>
 
-<tr><h3>Competition</h3></tr>
+<tr>
+  <td style="colspan:2;"><h3>Competition</h3></td>
+</tr>
 <tr>
   <td><strong>Competitive vs non-competitive events</strong></td>
   <td></td>
