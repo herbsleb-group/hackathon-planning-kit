@@ -27,10 +27,10 @@ main:
     children:
       - title: "Guides"
         url: /guides/
-      - title: "Workshops"
-        url: /workshops/
       - title: "Hackathons"
         url: /hackathons/
+      - title: "Workshops"
+        url: /workshops/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
