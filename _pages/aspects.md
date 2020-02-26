@@ -1,19 +1,16 @@
 ---
 layout: single
-permalink: /design-dimensions/
-title: "Hackathon (Design) Dimensions"
+permalink: /aspects/
+title: "Key Aspects of Hackathons"
 author_profile: false
 classes: wide
 sidebar:
   nav: "main"
 ---
-<div>
 <table>
-<th><th>
 <tr>
-  <td>Dimensions</td>
-  <td>Description</td>
-  <td>Goals</td>
+  <th>Aspects</th>
+  <th>Description</th>
 </tr>
 <tr><h3>Projects</h3></tr>
 <tr>
@@ -129,4 +126,3 @@ sidebar:
   <td></td>
 </tr>
 </table>
-</div>
