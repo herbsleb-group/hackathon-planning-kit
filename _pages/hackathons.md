@@ -11,10 +11,11 @@ classes: wide
 We have also worked with hackathon organizers from several insitutions and helped them succeed in organizing their events.
 
 <ul>
-  <li><a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a></li>
-  <li><a href="https://sciencegateways.org/web/wd/hackathon18">2018 Science Gateways (SGCI) Hackathon by the Science Gateways Community Institute</a></li>
-  <li>More to be added!
+  <li><a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, November 1-3, 2019, Carnegie Mellon University, Pittsburgh, PA, USA.</li>
+  <li><a href="https://sciencegateways.org/web/wd/hackathon18">2018 Science Gateways (SGCI) Hackathon by the Science Gateways Community Institute</a>, July 23-27, 2018, Wyndham Grand Pittsburgh.</li>
+  <li>More to be added!</li>
 </ul>
+
 <!-- <span style="width: 300px; display:inline-block;">Date</span>
 <span style="width: 300px; display:inline-block;">Name</span>
 <span style="width: 300px; display:inline-block;">Place</span>
