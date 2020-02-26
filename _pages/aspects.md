@@ -14,7 +14,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2;">Projects</td>
+  <td style="colspan:2;"><h3>Projects</h3></td>
 </tr>
 
 <tr>
