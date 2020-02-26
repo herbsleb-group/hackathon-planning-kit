@@ -357,4 +357,6 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-td {font-size: font-size: $type-size-6;}
+td {
+  font-size: font-size: $type-size-6;
+}
