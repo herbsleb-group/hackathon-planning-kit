@@ -8,15 +8,15 @@ sidebar:
   nav: "main"
 ---
 
-Based on our empirical study of 14 hackathons including:
+<!-- Based on our empirical study of 14 hackathons including:
 - a large-scale corporate hackathon by Microsoft,
 - events hosted by universities, and
 - events hosted by scientific communities including three hack days at STScI, <br>
 we provide a "<strong>hackathon planning kit</strong>" for different types of hackathons as well as other resources which we think are useful for hackathon planning.
 <br>
 
-<hr>
-This collaborative research project is led by [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, [Institute of Computer Science][2] at University of Tartu, Tartu, Estonia, and funded by Alfred P. Sloan foundation.<br><br>
+<hr> -->
+This collaborative research project is jointly led by [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, [Institute of Computer Science][2] at University of Tartu, Tartu, Estonia, and funded by Alfred P. Sloan foundation.<br><br>
 <table style="width: 100%;">
   <tr>
     <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:80px;"></td>
