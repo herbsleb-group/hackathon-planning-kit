@@ -15,6 +15,8 @@ sidebar:
 
 <tr>
   <td style="colspan:2;"><h3>Projects</h3></td>
+</tr>
+<tr>
   <td><strong>Innovativeness<strong>:</td>
   <td>This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
 </tr>
