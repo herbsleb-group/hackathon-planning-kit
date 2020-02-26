@@ -8,21 +8,23 @@ sidebar:
   nav: "main"
 ---
 <style>
-td {text-align: top;}
+  tr {
+    align: top;
+  }
 </style>
 <table>
 <tr>
-  <th>Aspects</th>
-  <th>Description</th>
+  <th style="font-size:1em;"><strong>Aspects</strong></th>
+  <th style="font-size:1em;"><strong>Description</strong></th>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.563em; text-align: top;">Projects</td>
+  <td style="colspan:2; font-size:1em;">Projects</td>
 </tr>
 
 <tr>
-  <td style="text-align: top;">Innovativeness:</td>
-  <td style="text-align: top;">This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
+  <td>Innovativeness:</td>
+  <td>This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
 </tr>
 
 <tr>
