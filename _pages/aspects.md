@@ -11,15 +11,18 @@ sidebar:
   tr {
     align: top;
   }
+  td {
+    vertical-align: top;
+  }
 </style>
 <table>
 <tr>
-  <th style="font-size:1em;"><strong>Aspects</strong></th>
-  <th style="font-size:1em;"><strong>Description</strong></th>
+  <th style="font-size:1.2em;"><strong>Aspects</strong></th>
+  <th style="font-size:1.2em;"><strong>Description</strong></th>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1em;">Projects</td>
+  <td style="colspan:2; font-size:1.2em;"><strong>Projects</strong></td>
 </tr>
 
 <tr>
