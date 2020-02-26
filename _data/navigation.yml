@@ -29,8 +29,8 @@ main:
         url: /guides/
       - title: "Workshops"
         url: /workshops/
-      - title: "Cases"
-        url: /cases/
+      - title: "Hackathons"
+        url: /hackathons/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
