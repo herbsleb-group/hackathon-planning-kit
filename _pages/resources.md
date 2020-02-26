@@ -12,4 +12,4 @@ We've put together a number of resources which we think is useful for hackathon 
 {{ relative_url }}
 - <a href="{{ relative_url }}/hackathon-planning-kit/guides">Guides</a>
 - <a href="{{ relative_url }}/hackathon-planning-kit/workshops">Workshops</a>
-- <a href="{{ relative_url }}/hackathon-planning-kit/cases">Cases</a>
+- <a href="{{ relative_url }}/hackathon-planning-kit/hackathons">Hackathons</a>
