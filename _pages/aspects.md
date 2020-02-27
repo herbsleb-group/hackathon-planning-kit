@@ -13,6 +13,7 @@ sidebar:
   }
   td {
     vertical-align: top;
+    border-bottom: thin dotted grey;
   }
 </style>
 <table>
@@ -105,7 +106,7 @@ sidebar:
 
 <tr>
   <td style="width:30%">Scoping / checkpoints</td>
-  <tdstyle="width:70%"></td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
