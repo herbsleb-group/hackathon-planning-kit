@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /aspects/
-title: "Key Aspects of Hackathons"
+permalink: /features/
+title: "Key Aspects/Features of Hackathons"
 author_profile: false
 classes: wide
 sidebar:
@@ -116,7 +116,7 @@ sidebar:
 
 <tr style="border-bottom: thin dotted grey;">
   <td style="width:30%"><strong>Post-hackathon follow-up</strong></td>
-  <td style="width:70%">This refers to agenda of activities that facilitate the continuation of hackathon projects.</td>
+  <td style="width:70%">This refers to agenda of activities that help the continuation of hackathon projects.</td>
 </tr>
 
 <tr>
@@ -125,7 +125,7 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Engagement with teams</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to briefing technical details, conducting tutorials</td>
 </tr>
 
 <tr>
