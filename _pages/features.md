@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /features/
-title: "Key Aspects/Features of Hackathons"
+title: "Key Hackathon Aspects/Features"
 author_profile: false
 classes: wide
 sidebar:
@@ -67,7 +67,7 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Skills</strong></td>
-  <td style="width:70%">This refers to the degree to which participants are proficient in coding, design, and domain knowledge.</td>
+  <td style="width:70%">This refers to the degree to which participants are proficient in coding and designing.</td>
 </tr>
 
 <tr>
@@ -125,12 +125,12 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Engagement with teams</strong></td>
-  <td style="width:70%">This refers to briefing technical details, conducting tutorials</td>
+  <td style="width:70%">This refers to explaining projects to the participants, teaching them basic computing skills required for their projects, and helping them with the development environment setup.</td>
 </tr>
 
 <tr>
   <td style="width:30%"><strong>Technical support</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to helping participants to solve their technical difficulties during the hackathon.</td>
 </tr>
 
 <tr>
@@ -148,7 +148,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="width:30%"><strong>Competitive vs non-competitive events</strong></td>
+  <td style="width:30%"><strong>Competitive vs Non-competitive events</strong></td>
   <td style="width:70%"></td>
 </tr>
 

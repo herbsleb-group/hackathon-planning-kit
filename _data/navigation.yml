@@ -8,7 +8,7 @@ main:
   - title: "Planning Kit"
     url: /planningkit/
     children:
-      - title: "Key Aspects/Features of Hackathons"
+      - title: "Key Hackathon Aspects/Features"
         url: /features/
       - title: "General Guidelines"
         url: /general-guidelines/
