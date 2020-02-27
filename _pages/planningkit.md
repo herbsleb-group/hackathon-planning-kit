@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 permalink: /planningkit/
 title: "Planning a Hackathon"
@@ -32,4 +32,4 @@ Hackathons are meant to be intensive and fun events that motivate people to come
 * What are our desired follow-up activities? Do we want the projects to be continued? Do we want the community to stay intact / grow? Do we want them to spread the news?
 
 <hr>
-[^1]: Drouhard, M., Tanweer, A., & Fiore-Gartland, B.  A typology of Hackathon Events. (2017) <em>Paper presented at the 1st CSCW 2017 Workshop on Hacking and Making at Time-Bounded Events</em>.
+[^1]: Drouhard, M., Tanweer, A., & Fiore-Gartland, B.  A typology of Hackathon Events. (2017) <em>Paper presented at the 1st CSCW 2017 Workshop on Hacking and Making at Time-Bounded Events</em>. -->
