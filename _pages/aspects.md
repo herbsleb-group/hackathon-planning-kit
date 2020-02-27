@@ -17,8 +17,8 @@ sidebar:
 </style>
 <table>
 <tr>
-  <th style="font-size:1.2em;"><strong>Aspects</strong></th>
-  <th style="font-size:1.2em;"><strong>Description</strong></th>
+  <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
+  <th style="font-size:1.2em; width:70%"><strong>Description</strong></th>
 </tr>
 
 <tr>
@@ -26,28 +26,28 @@ sidebar:
 </tr>
 
 <tr>
-  <td>Innovativeness:</td>
-  <td>This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
+  <td style="width:30%">Innovativeness:</td>
+  <td style="width:70%">This refers the degree to which the project solves a real-world problem either creating new or reusing existing code.</td>
 </tr>
 
 <tr>
-  <td>Scope:</td>
-  <td>This refers to the goals, tasks, and deliverables of the project.</td>
+  <td style="width:30%">Scope:</td>
+  <td style="width:70%">This refers to the goals, tasks, and deliverables of the project.</td>
 </tr>
 
 <tr>
-  <td>Technical complexity:</td>
-  <td>This refers to the degree to which the implemented system has the design or implementation that is difficult to understand and verify.</td>
+  <td style="width:30%">Technical complexity:</td>
+  <td style="width:70%">This refers to the degree to which the implemented system has the design or implementation that is difficult to understand and verify.</td>
 </tr>
 
 <tr>
-  <td>Content complexity:</td>
-  <td>This refers to the degree to which the requirements of the project are precise and complete.</td>
+  <td style="width:30%">Content complexity:</td>
+  <td style="width:70%">This refers to the degree to which the requirements of the project are precise and complete.</td>
 </tr>
 
 <tr>
-  <td>Sustainability:</td>
-  <td>This refers to the degree to which the implemented system or code will be available to use and continue to be maintained in the future.</td>
+  <td style="width:30%">Sustainability:</td>
+  <td style="width:70%">This refers to the degree to which the implemented system or code will be available to use and continue to be maintained in the future.</td>
 </tr>
 
 <tr>
@@ -55,28 +55,28 @@ sidebar:
 </tr>
 
 <tr>
-  <td>Motivation(s):</td>
-  <td>This refers to what the participants want to get out of their hackathon participation such as career, learning, get the needed work done, and meet new people.</td>
+  <td style="width:30%">Motivation(s):</td>
+  <td style="width:70%">This refers to what the participants want to get out of their hackathon participation such as career, learning, get the needed work done, and meet new people.</td>
 </tr>
 
 <tr>
-  <td>Background(s):</td>
-  <td>This refers to the participants' education and experience before the hackathon.</td>
+  <td style="width:30%">Background(s):</td>
+  <td style="width:70%">This refers to the participants' education and experience before the hackathon.</td>
 </tr>
 
 <tr>
-  <td>Skills:</td>
-  <td>This refers to the participants' levels of expertise and ability in coding, design, and domain knowledge.</td>
+  <td style="width:30%">Skills:</td>
+  <td style="width:70%">This refers to the participants' levels of expertise and ability in coding, design, and domain knowledge.</td>
 </tr>
 
 <tr>
-  <td>Familiarity:</td>
-  <td>This refers to the degree to which the team members have worked together before.</td>
+  <td style="width:30%">Familiarity:</td>
+  <td style="width:70%">This refers to the degree to which the team members have worked together before.</td>
 </tr>
 
 <tr>
-  <td>Role distribution:</td>
-  <td>This refers to how roles or tasks are distributed among team members, e.g., interest, available skills, and preparation.</td>
+  <td style="width:30%">Role distribution:</td>
+  <td style="width:70%">This refers to how roles or tasks are distributed among team members, e.g., interest, available skills, and preparation.</td>
 </tr>
 
 <tr>
@@ -84,38 +84,38 @@ sidebar:
 </tr>
 
 <tr>
-  <td>Pre-hackathon(events)</td>
-  <td>This refers to the agenda of activities that take place before the event individually or as a team. These activities include ideation, construction of project vision, common plan and shared understanding, and the dissemination feedback and information.</td>
+  <td style="width:30%">Pre-hackathon(events)</td>
+  <td style="width:70%">This refers to the agenda of activities that take place before the event individually or as a team. These activities include ideation, construction of project vision, common plan and shared understanding, and the dissemination feedback and information.</td>
 </tr>
 
 <tr>
-  <td>Ideation</td>
-  <td>This refers to generating, developing, and combining ideas to form the project. This can be done before or at the event.</td>
+  <td style="width:30%">Ideation</td>
+  <td style="width:70%">This refers to generating, developing, and combining ideas to form the project. This can be done before or at the event.</td>
 </tr>
 
 <tr>
-  <td>Team formation</td>
-  <td>This refers to forming teams to work together in the hackathon. Team formation can be done before or at the event.</td>
+  <td style="width:30%">Team formation</td>
+  <td style="width:70%">This refers to forming teams to work together in the hackathon. Team formation can be done before or at the event.</td>
 </tr>
 
 <tr>
-  <td>Project selection</td>
-  <td>This refers to teams picking out projects to work on. This can be done before or at the event.</td>
+  <td style="width:30%">Project selection</td>
+  <td style="width:70%">This refers to teams picking out projects to work on. This can be done before or at the event.</td>
 </tr>
 
 <tr>
-  <td>Scoping / checkpoints</td>
-  <td></td>
+  <td style="width:30%">Scoping / checkpoints</td>
+  <tdstyle="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Duration / breaks</td>
-  <td></td>
+  <td style="width:30%">Duration / breaks</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Post-hackathon follow-up</td>
-  <td></td>
+  <td style="width:30%">Post-hackathon follow-up</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
@@ -123,23 +123,23 @@ sidebar:
 </tr>
 
 <tr>
-  <td>Engagement with teams</td>
-  <td></td>
+  <td style="width:30%">Engagement with teams</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Technical support</td>
-  <td></td>
+  <td style="width:30%">Technical support</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Project feedback</td>
-  <td></td>
+  <td style="width:30%">Project feedback</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Mobile vs embedded</td>
-  <td></td>
+  <td style="width:30%">Mobile vs embedded</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
@@ -147,27 +147,27 @@ sidebar:
 </tr>
 
 <tr>
-  <td>Competitive vs non-competitive events</td>
-  <td></td>
+  <td style="width:30%">Competitive vs non-competitive events</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Judging criteria</td>
-  <td></td>
+  <td style="width:30%">Judging criteria</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td># Prizes</td>
-  <td></td>
+  <td style="width:30%"># Prizes</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Monetary vs non-monetary prizes</td>
-  <td></td>
+  <td style="width:30%">Monetary vs non-monetary prizes</td>
+  <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td>Jury vs popular vote</td>
-  <td></td>
+  <td style="width:30%">Jury vs popular vote</td>
+  <td style="width:70%"></td>
 </tr>
 </table>
