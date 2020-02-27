@@ -23,7 +23,8 @@ This research project is the joint effort of [Institute for Software Research][1
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width:300px;height:100px;"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="/hackathon-planning-kit/images/tartu.jpg" alt="University of Tartu" style="width:450px;height:80px;"></td>
+    <!-- <td><img src="/hackathon-planning-kit/images/tartu.jpg" alt="University of Tartu" style="width:450px;height:80px;"></td> -->
+    <td><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/hackathon-planning-kit/images/sloan.jpg" alt="Alfred P. Sloan Foundation" style="width:450px;height:100px;"></td>
   </tr>
