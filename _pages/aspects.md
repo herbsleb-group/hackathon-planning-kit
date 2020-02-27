@@ -137,7 +137,7 @@ sidebar:
   <td style="width:70%"></td>
 </tr>
 
-<tr style="border-bottom: thin dotted grey;"">
+<tr style="border-bottom: thin dotted grey;">
   <td style="width:30%">Mobile vs embedded</td>
   <td style="width:70%"></td>
 </tr>
