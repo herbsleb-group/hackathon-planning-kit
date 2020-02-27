@@ -13,7 +13,6 @@ sidebar:
   }
   td {
     vertical-align: top;
-    border-bottom: thin dotted grey;
   }
 </style>
 <table>
@@ -23,7 +22,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em;"><strong>Projects</strong></td>
+  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Projects</strong></td>
 </tr>
 
 <tr>
@@ -52,7 +51,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em;"><strong>Teams</strong></td>
+  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Teams</strong></td>
 </tr>
 
 <tr>
@@ -81,7 +80,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em;"><strong>Process</strong></td>
+  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Process</strong></td>
 </tr>
 
 <tr>
@@ -120,7 +119,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em;"><strong>Mentors</strong></td>
+  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Mentors</strong></td>
 </tr>
 
 <tr>
@@ -144,7 +143,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em;"><strong>Competition</strong></td>
+  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Competition</strong></td>
 </tr>
 
 <tr>
