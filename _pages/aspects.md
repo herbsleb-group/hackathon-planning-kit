@@ -16,13 +16,13 @@ sidebar:
   }
 </style>
 <table>
-<tr>
+<tr style="border-bottom: thin dotted grey;">
   <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
   <th style="font-size:1.2em; width:70%"><strong>Description</strong></th>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Projects</strong></td>
+  <td style="colspan:2; font-size:1.2em;"><strong>Projects</strong></td>
 </tr>
 
 <tr>
@@ -45,13 +45,13 @@ sidebar:
   <td style="width:70%">This refers to the degree to which the requirements of the project are precise and complete.</td>
 </tr>
 
-<tr>
+<tr style="border-bottom: thin dotted grey;">
   <td style="width:30%">Sustainability:</td>
   <td style="width:70%">This refers to the degree to which the implemented system or code will be available to use and continue to be maintained in the future.</td>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Teams</strong></td>
+  <td style="colspan:2; font-size:1.2em;"><strong>Teams</strong></td>
 </tr>
 
 <tr>
@@ -74,13 +74,13 @@ sidebar:
   <td style="width:70%">This refers to the degree to which the team members have worked together before.</td>
 </tr>
 
-<tr>
+<tr style="border-bottom: thin dotted grey;">
   <td style="width:30%">Role distribution:</td>
   <td style="width:70%">This refers to how roles or tasks are distributed among team members, e.g., interest, available skills, and preparation.</td>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Process</strong></td>
+  <td style="colspan:2; font-size:1.2em;"><strong>Process</strong></td>
 </tr>
 
 <tr>
@@ -113,13 +113,13 @@ sidebar:
   <td style="width:70%"></td>
 </tr>
 
-<tr>
+<tr style="border-bottom: thin dotted grey;">
   <td style="width:30%">Post-hackathon follow-up</td>
   <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Mentors</strong></td>
+  <td style="colspan:2; font-size:1.2em;"><strong>Mentors</strong></td>
 </tr>
 
 <tr>
@@ -137,13 +137,13 @@ sidebar:
   <td style="width:70%"></td>
 </tr>
 
-<tr>
+<tr style="border-bottom: thin dotted grey;"">
   <td style="width:30%">Mobile vs embedded</td>
   <td style="width:70%"></td>
 </tr>
 
 <tr>
-  <td style="colspan:2; font-size:1.2em; border-top: thin dotted grey;"><strong>Competition</strong></td>
+  <td style="colspan:2;"><strong>Competition</strong></td>
 </tr>
 
 <tr>
