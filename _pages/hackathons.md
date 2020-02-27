@@ -10,11 +10,12 @@ classes: wide
 
 We have also worked with hackathon organizers from several insitutions and helped them succeed in organizing their events.
 
-<ul>
-  <li><a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, November 1-3, 2019, Carnegie Mellon University, Pittsburgh, PA, USA.</li>
-  <li><a href="https://sciencegateways.org/web/wd/hackathon18">2018 Science Gateways (SGCI) Hackathon by the Science Gateways Community Institute</a>, July 23-27, 2018, Wyndham Grand Pittsburgh.</li>
-  <li>More to be added!</li>
-</ul>
+- <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, November 1-3, 2019, Carnegie Mellon University, Pittsburgh, PA, USA.
+- <a href="https://sciencegateways.org/web/wd/hackathon18">2018 Science Gateways Hackathon by the Science Gateways Community Institute (SGCI)</a>, July 23-27, 2018, Wyndham Grand Pittsburgh.
+- <a href="https://sciencegateways.org/web/wd/hackathon-2019">2019 Science Gateways Hackathon by the Science Gateways Community Institute (SGCI)</a>, July 28-31, 2019, Hyatt Regency Chicago.
+- 2018 Cloud HPC (High Performance Computing) Hackathon at SC18
+- <a href="http://hackhpc.org/">2019 Cloud HPC (High Performance Computing) Hackathon at SC19 </a>, November 18-20, 2019, Hilton Denver City Center.
+- <a href="http://garage48.org/events/garage48-cyber-security-2019">Garage48 Cyber Security 2019</a>, October 11-13, 2019, Physicum, Tartu, Estonia.
 
 <!-- <span style="width: 300px; display:inline-block;">Date</span>
 <span style="width: 300px; display:inline-block;">Name</span>
