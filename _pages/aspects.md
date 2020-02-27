@@ -51,7 +51,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2;">Teams</td>
+  <td style="colspan:2; font-size:1.2em;">Teams</td>
 </tr>
 
 <tr>
@@ -80,7 +80,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2;">Process</td>
+  <td style="colspan:2; font-size:1.2em;">Process</td>
 </tr>
 
 <tr>
@@ -119,7 +119,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2;">Mentors</td>
+  <td style="colspan:2; font-size:1.2em;">Mentors</td>
 </tr>
 
 <tr>
@@ -143,7 +143,7 @@ sidebar:
 </tr>
 
 <tr>
-  <td style="colspan:2;">Competition</td>
+  <td style="colspan:2; font-size:1.2em;">Competition</td>
 </tr>
 
 <tr>
