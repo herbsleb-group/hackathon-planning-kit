@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: single
 permalink: /planningkit/
 title: "Planning a Hackathon"
@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
->Hackathons are time-bounded (mostly) co-located events during which a group of people engage in intense activities around a pre-set topic.
+<!-- >Hackathons are time-bounded (mostly) co-located events during which a group of people engage in intense activities around a pre-set topic.
 
 Like any other event, Hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, considering general logistics suchas transportation, hosting, catering and others.
 
