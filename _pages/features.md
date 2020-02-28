@@ -149,7 +149,7 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Competitive vs Non-competitive events</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%"> </td>
 </tr>
 
 <tr>
