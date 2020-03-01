@@ -12,6 +12,8 @@ main:
         url: /key-questions/
       - title: "Key Hackathon Aspects/Features"
         url: /features/
+      - title: "Hackathon Planning Kit"
+        url: /jstreeview/
       - title: "General Guidelines"
         url: /general-guidelines/
       - title: "Communal"
