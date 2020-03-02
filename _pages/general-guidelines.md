@@ -14,10 +14,10 @@ classes: wide
 <table style="width: 100%;">
   <tr style="border-bottom: thin dotted grey;">
     <th style="font-size:1.2em; width:20%"><strong>When</strong></th>
-    <th style="font-size:1.2em; width:80%"><strong>Guidelines</strong></th>
+    <th style="font-size:1.2em; width:80%"><strong>Instructions</strong></th>
   </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%; text-align:top;">Pre-Hackathon</td>
+    <td style="width: 20%; vertical-align: top;"><strong>Pre-Hackathon</strong></td>
     <td style="width: 80%;">
       <ul>
         <li>Define goals and expected outcomes for organizers</li>
@@ -45,14 +45,14 @@ classes: wide
     </td>
   </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%; text-align:top;">During-Hackathon</td>
+    <td style="width: 20%; vertical-align: top;"><strong>During-Hackathon</strong></td>
     <td style="width: 80%;">
       <ul>
         <li>Set up space and technology</li>
         <li>Welcome everyone and introduce participants to event schedule, deliverables or outputs, technology and each other</li>
         <li>Pitch project ideas and form teams (if this didn’t happen before the event) or short presentations about their projects</li>
         <li>Keep participants happy (food, drinks, music, etc.)</li>
-        <li>Make sure to “cover” the event (pictures, sound-bites, etc.)</li>
+        <li>Make sure to "cover" the event (pictures, sound-bites, etc.)</li>
         <li>Remind participants about deadline e.g. for project submission</li>
         <li>Make sure participants can show their projects at some point</li>
         <li>Prepare for follow-up (mailing lists, Slack channels, website, etc.)</li>
@@ -63,7 +63,7 @@ classes: wide
     </td>
   </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%; text-align:top;">Post-Hackathon</td>
+    <td style="width: 20%; vertical-align: top;"><strong>Post-Hackathon</strong></td>
     <td style="width: 80%;">
       <ul>
         <li>Distribute pictures, sound-bites and other relevant outcomes through adequate channels (preparation)</li>
