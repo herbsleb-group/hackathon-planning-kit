@@ -10,18 +10,20 @@ main:
     children:
       - title: "Key Questions"
         url: /key-questions/
-      - title: "Key Hackathon Aspects/Features"
+      - title: "Key Hackathon Aspects"
         url: /features/
-      - title: "Hackathon Planning Kit"
-        url: /jstreeview/
       - title: "General Guidelines"
         url: /general-guidelines/
-      - title: "Communal"
-        url: /communal/
-      - title: "Contributive"
-        url: /contributive/
-      - title: "Catalytic"
-        url: /catalytic/
+      - title: "Entrapreneurship Hackathon"
+        url: /entrapreneurship-tree/
+      - title: "Entrapreneurship Hackathon"
+        url: /community-building-tree/
+      # - title: "Communal"
+      #   url: /communal/
+      # - title: "Contributive"
+      #   url: /contributive/
+      # - title: "Catalytic"
+      #   url: /catalytic/
 
   - title: "Publications"
     url: /publications/
