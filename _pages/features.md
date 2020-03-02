@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /features/
-title: "Key Hackathon Aspects/Features"
+title: "Key Hackathon Aspects"
 author_profile: false
 classes: wide
 sidebar:
@@ -17,7 +17,7 @@ sidebar:
 </style>
 <table>
 <tr style="border-bottom: thin dotted grey;">
-  <th style="font-size:1.2em; width:30%"><strong>Aspects / Features</strong></th>
+  <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
   <th style="font-size:1.2em; width:70%"><strong>Description</strong></th>
 </tr>
 
