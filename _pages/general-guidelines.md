@@ -8,12 +8,16 @@ sidebar:
 classes: wide
 ---
 
-<p>Below are the general event planning guidelines that are specific to all hackathons.</p>
+<p>The following table presents the general event planning guidelines that are specific to all hackathons in three phases: pre-hackathon, during-hackathon, and post-hackathon.</p>
 
 <div>
 <table style="width: 100%;">
+  <tr style="border-bottom: thin dotted grey;">
+    <th style="font-size:1.2em; width:20%"><strong>When</strong></th>
+    <th style="font-size:1.2em; width:80%"><strong>Guidelines</strong></th>
+  </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%;">Pre-Hackathon</td>
+    <td style="width: 20%; text-align:top;">Pre-Hackathon</td>
     <td style="width: 80%;">
       <ul>
         <li>Define goals and expected outcomes for organizers</li>
@@ -21,7 +25,7 @@ classes: wide
         <li>Create initial agenda and rules of engagement</li>
         <li>Think about remote participation</li>
         <li>Think about whether or not people will form teams before or during the Hackathon</li>
-        <li>Identify supportive tools and means to introduce them to participants (e.g. Slack, Git and others)</li>
+        <li>Identify supportive tools and means to introduce them to participants (e.g., Slack, Git and others)</li>
         <li>Prepare materials and timeslots to potentially introduce participants to those tools and technologies</li>
         <li>Facilitate team formation
           <ul>
@@ -34,14 +38,14 @@ classes: wide
             <li>A large space with round or long tables for each team</li>
             <li>Breakout rooms and quiet spaces for resting</li>
             <li>Equipment and stationery for each table such as internet cables, whiteboards, flip boards, markers, etc.</li>
-            <li>Help desk &copy rooms, typically located at the center of the event space</li>
+            <li>Help desk and copy rooms, typically located at the center of the event space</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%;">During-Hackathon</td>
+    <td style="width: 20%; text-align:top;">During-Hackathon</td>
     <td style="width: 80%;">
       <ul>
         <li>Set up space and technology</li>
@@ -59,7 +63,7 @@ classes: wide
     </td>
   </tr>
   <tr style="border-top: thin dotted grey;">
-    <td style="width: 20%;">Post-Hackathon</td>
+    <td style="width: 20%; text-align:top;">Post-Hackathon</td>
     <td style="width: 80%;">
       <ul>
         <li>Distribute pictures, sound-bites and other relevant outcomes through adequate channels (preparation)</li>

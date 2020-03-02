@@ -15,6 +15,7 @@ sidebar:
     vertical-align: top;
   }
 </style>
+<p>The following table lists the most important aspects of hackathons that organizers need to pay attention to when designing their events. These aspects are categorized into five main categories: projects, teams, process, mentor, and competition. The importance of the following hackathon aspects will be varied depending on the organizational goal(s).</p>
 <table>
 <tr style="border-bottom: thin dotted grey;">
   <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
@@ -169,6 +170,6 @@ sidebar:
 
 <tr style="border-bottom: thin dotted grey;">
   <td style="width:30%"><strong>Jury vs popular vote</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to the type of voting system used by the hackathon to decide the winner(s). In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
 </table>
