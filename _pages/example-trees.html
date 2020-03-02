@@ -1,16 +1,24 @@
 ---
 layout: single
-title: "Hackathon for Entrapreneurship"
-permalink: /entrapreneurship-tree/
+title: "Example Hackathons"
+permalink: /community-building-tree/
+author_profile: false
+classes: wide
+sidebar:
+  nav: "main"
+---
+---
+layout: single
+title: ""
+permalink: /community-building-tree/
 author_profile: false
 classes: wide
 sidebar:
   nav: "main"
 ---
 
-<!-- <!DOCTYPE html>
-<meta charset="utf-8"> -->
-<style> /* set the CSS */
+<!-- <meta charset="utf-8"> -->
+<!-- <style> /* set the CSS */
 
 .node circle {
   fill: #fff;
@@ -28,37 +36,35 @@ sidebar:
   fill: none;
   stroke: #ccc;
   stroke-width: 2px;
-}
+} -->
 
 </style>
-
-<body>
-The tree below highlights the aspects that the organizers of hackathon for <strong>Entrapreneurship</storng> should focus on.
+The tree below highlights the aspects that the organizers of hackathon for <strong>community building</storng> should focus on.
 <div id="tree">
+  <script src="community-building-tree.js"></script>
 </div>
 
-<!-- load the d3.js library -->
-<script src="https://d3js.org/d3.v5.min.js"></script>
+<!-- <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
 
 var treeData =
   {
-    "name": "Entrapreneurship",
+    "name": "Community Building",
     "value": 10,
     "type": "lightgrey",
-    "level": "green",
+    "level": "blue",
     "children": [
       {
         "name": "Projects",
         "value": 10,
         "type": "lightgrey",
-        "level": "green",
+        "level": "blue",
         "children": [
           {
             "name": "Innovativeness",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "#B8B8B8"
           },
           {
             "name": "Scope",
@@ -82,7 +88,7 @@ var treeData =
             "name": "Sustainability",
             "value": 5,
             "type": "lightgrey",
-            "level": "#B8B8B8"
+            "level": "blue"
           },
         ]
       },
@@ -90,7 +96,7 @@ var treeData =
         "name": "Teams",
         "value": 10,
         "type": "lightgrey",
-        "level": "green",
+        "level": "blue",
         "children": [
           {
             "name": "Motivation(s)",
@@ -102,7 +108,7 @@ var treeData =
             "name": "Background(s)",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "#B8B8B8"
           },
           {
             "name": "Skills",
@@ -120,7 +126,7 @@ var treeData =
             "name": "Role distribution",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "#B8B8B8"
           },
         ]
       },
@@ -128,19 +134,19 @@ var treeData =
         "name": "Process",
         "value": 10,
         "type": "lightgrey",
-        "level": "green",
+        "level": "blue",
         "children": [
           {
             "name": "Pre-hackathon events",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "#B8B8B8"
           },
           {
             "name": "Ideation",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "blue"
           },
           {
             "name": "Team formation",
@@ -152,7 +158,7 @@ var treeData =
             "name": "Project selection",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "#B8B8B8"
           },
           {
             "name": "Checkpoints and Scoping",
@@ -164,13 +170,13 @@ var treeData =
             "name": "Duration / Breaks",
             "value": 5,
             "type": "lightgrey",
-            "level": "#B8B8B8"
+            "level": "blue"
           },
           {
             "name": "Post-hackathon follow-up",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "blue"
           },
         ]
       },
@@ -178,25 +184,25 @@ var treeData =
         "name": "Mentors",
         "value": 10,
         "type": "lightgrey",
-        "level": "green",
+        "level": "blue",
         "children": [
           {
             "name": "Engagement with teams",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "blue"
           },
           {
             "name": "Technical support",
             "value": 5,
             "type": "lightgrey",
-            "level": "#B8B8B8"
+            "level": "blue"
           },
           {
             "name": "Project feedback",
             "value": 5,
             "type": "lightgrey",
-            "level": "green"
+            "level": "blue"
           },
           {
             "name": "Mobile vs embedded",
@@ -210,22 +216,22 @@ var treeData =
         "name": "Competition",
         "value": 10,
         "type": "lightgrey",
-        "level": "green",
+        "level": "blue",
         "children": [
           {
             "name": "Competitive",
             "value": 5,
             "type": "lightgrey",
-            "level": "green",
+            "level": "#B8B8B8",
             "children":[
               {
                 "name": "Judging criteria",
                 "value": 5,
                 "type": "lightgrey",
-                "level": "green"
+                "level": "#B8B8B8"
               },
               {
-                "name": "# Prizes",
+                "name": "Prizes",
                 "value": 5,
                 "type": "lightgrey",
                 "level": "#B8B8B8",
@@ -245,10 +251,24 @@ var treeData =
                 ]
               },
               {
-                "name": "Jury vs popular vote",
+                "name": "Voting",
                 "value": 5,
                 "type": "lightgrey",
-                "level": "#B8B8B8"
+                "level": "#B8B8B8",
+                "children": [
+                  {
+                    "name": "Jury",
+                    "value": 3,
+                    "type": "lightgrey",
+                    "level": "#B8B8B8"
+                  },
+                  {
+                    "name": "Popular vote",
+                    "value": 3,
+                    "type": "lightgrey",
+                    "level": "#B8B8B8"
+                  }
+                ]
               }
             ],
           },
@@ -256,7 +276,7 @@ var treeData =
             "name": "Non-competitive",
             "value": 5,
             "type": "lightgrey",
-            "level": "#B8B8B8"
+            "level": "blue"
           }
         ]
       }//end of Competition
@@ -296,7 +316,7 @@ var link = g.selectAll(".link")
   .enter().append("path")
     .attr("class", "link")
     // .style("stroke", function(d) { return d.data.level; })
-    // .attr("stroke-opacity", 0.4)
+    .attr("stroke-opacity", 0.5)
     .style("stroke", function(d){
       return linkColor(d.data.level);})
     .attr("d", function(d) {
@@ -335,8 +355,8 @@ node.append("text")
 function linkColor(linkCode) {
 	switch (linkCode)
 	{
-	  case 'green':
-	  	return 'green';//blue
+	  case 'blue':
+	  	return 'blue';//blue
 	    break;
 	  case 'Task Actions':
 	  	return '#FF7F00';//orange
@@ -356,5 +376,4 @@ function linkColor(linkCode) {
 	}
 }
 
-</script>
-</body>
+</script> -->
