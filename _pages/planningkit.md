@@ -17,8 +17,8 @@ There are a number of guides available that cover specifics about those topics (
 Our hackathon plannking kit is meant to extend the basic event planning guidelines and provide insight into the specifics of Hackathons as compared to other time-bounded co-located events. Find out more about our hackathon planning kit through the following pages:
 
 <ul>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions"></a>Key Questions</li>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/features"></a>Key Hackathon Aspects</li>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/general-guidelines"></a>General Guidelines</li>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/example-trees"></a>Example Hackathons</li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions">Key Questions</a></li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/features">Key Hackathon Aspects</a></li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/general-guidelines">General Guidelines</a></li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/example-trees">Example Hackathons</a></li>
 </ul>

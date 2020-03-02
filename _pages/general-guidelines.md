@@ -12,7 +12,7 @@ classes: wide
 
 <div>
 <table style="width: 100%;">
-  <tr style="border-top: thin solid;">
+  <tr style="border-top: thin dotted grey;">
     <td style="width: 20%;">Pre-Hackathon</td>
     <td style="width: 80%;">
       <ul>
@@ -40,7 +40,7 @@ classes: wide
       </ul>
     </td>
   </tr>
-  <tr style="border-top: thin solid;">
+  <tr style="border-top: thin dotted grey;">
     <td style="width: 20%;">During-Hackathon</td>
     <td style="width: 80%;">
       <ul>
@@ -58,7 +58,7 @@ classes: wide
       </ul>
     </td>
   </tr>
-  <tr style="border-top: thin solid;">
+  <tr style="border-top: thin dotted grey;">
     <td style="width: 20%;">Post-Hackathon</td>
     <td style="width: 80%;">
       <ul>
