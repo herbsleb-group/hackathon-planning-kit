@@ -136,7 +136,7 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Project feedback</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to mentors providing feedback on how well the team is making progress on their projects so the teams can assure that they are on the right track.</td>
 </tr>
 
 <tr style="border-bottom: thin dotted grey;">
@@ -150,12 +150,12 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Competitive vs Non-competitive events</strong></td>
-  <td style="width:70%"> </td>
+  <td style="width:70%">This refers to the incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.</td>
 </tr>
 
 <tr>
   <td style="width:30%"><strong>Judging criteria</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market.</td>
 </tr>
 
 <tr>
@@ -165,11 +165,11 @@ sidebar:
 
 <tr>
   <td style="width:30%"><strong>Monetary vs non-monetary prizes</strong></td>
-  <td style="width:70%"></td>
+  <td style="width:70%">This refers to an award(s) given to the winner(s) of the event. The prizes could be monetary or non-monetary such as computing power.</td>
 </tr>
 
 <tr style="border-bottom: thin dotted grey;">
   <td style="width:30%"><strong>Jury vs popular vote</strong></td>
-  <td style="width:70%">This refers to the type of voting system used by the hackathon to decide the winner(s). In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
+  <td style="width:70%">This refers to the voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
 </table>

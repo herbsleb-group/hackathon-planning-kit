@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Hackathon for Community Building"
 permalink: /community-building-tree/
 author_profile: false
 classes: wide
@@ -32,7 +32,7 @@ sidebar:
 </style>
 
 <!-- <body> -->
-<p>The tree below highlights the aspects that the organizers of hackathon for <strong>Community Building</strong> should focus on. This type of hackathon would be useful for organizers who wish to develop resources, infrastructure, practices, and culture for community.</p>
+<p>The tree below highlights the important aspects that the organizers of hackathon for <em>Community Building</em> should focus on. This type of hackathon would be useful for organizers who wish to develop resources, infrastructure, practices, and culture for community.</p>
 <div id="tree">
 </div>
 
@@ -45,13 +45,13 @@ var treeData =
     "name": "Community Building",
     "value": 10,
     "type": "lightgrey",
-    "level": "blue",
+    "level": "#5fa0d6",
     "children": [
       {
         "name": "Projects",
         "value": 10,
         "type": "lightgrey",
-        "level": "blue",
+        "level": "#5fa0d6",
         "children": [
           {
             "name": "Innovativeness",
@@ -81,7 +81,7 @@ var treeData =
             "name": "Sustainability",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
         ]
       },
@@ -89,7 +89,7 @@ var treeData =
         "name": "Teams",
         "value": 10,
         "type": "lightgrey",
-        "level": "blue",
+        "level": "#5fa0d6",
         "children": [
           {
             "name": "Motivation(s)",
@@ -127,7 +127,7 @@ var treeData =
         "name": "Process",
         "value": 10,
         "type": "lightgrey",
-        "level": "blue",
+        "level": "#5fa0d6",
         "children": [
           {
             "name": "Pre-hackathon events",
@@ -139,7 +139,7 @@ var treeData =
             "name": "Ideation",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
           {
             "name": "Team formation",
@@ -163,13 +163,13 @@ var treeData =
             "name": "Duration / Breaks",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
           {
             "name": "Post-hackathon follow-up",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
         ]
       },
@@ -177,25 +177,25 @@ var treeData =
         "name": "Mentors",
         "value": 10,
         "type": "lightgrey",
-        "level": "blue",
+        "level": "#5fa0d6",
         "children": [
           {
             "name": "Engagement with teams",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
           {
             "name": "Technical support",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
           {
             "name": "Project feedback",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           },
           {
             "name": "Mobile vs embedded",
@@ -209,7 +209,7 @@ var treeData =
         "name": "Competition",
         "value": 10,
         "type": "lightgrey",
-        "level": "blue",
+        "level": "#5fa0d6",
         "children": [
           {
             "name": "Competitive",
@@ -269,7 +269,7 @@ var treeData =
             "name": "Non-competitive",
             "value": 5,
             "type": "lightgrey",
-            "level": "blue"
+            "level": "#5fa0d6"
           }
         ]
       }//end of Competition
@@ -309,7 +309,7 @@ var link = g.selectAll(".link")
   .enter().append("path")
     .attr("class", "link")
     // .style("stroke", function(d) { return d.data.level; })
-    .attr("stroke-opacity", 0.5)
+    //.attr("stroke-opacity", 0.5)
     .style("stroke", function(d){
       return linkColor(d.data.level);})
     .attr("d", function(d) {
@@ -348,8 +348,8 @@ node.append("text")
 function linkColor(linkCode) {
 	switch (linkCode)
 	{
-	  case 'blue':
-	  	return 'blue';//blue
+	  case '#5fa0d6':
+	  	return '#5fa0d6';//blue
 	    break;
 	  case 'Task Actions':
 	  	return '#FF7F00';//orange
