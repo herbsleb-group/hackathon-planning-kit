@@ -32,7 +32,7 @@ sidebar:
 </style>
 
 <!-- <body align="center"> -->
-<body>
+<!-- <body> -->
 <!-- <h2>Hackathon for Community Building</h2> -->
 The tree below highlights the aspects that the organizers of hackathon for <strong>community building</storng> should focus on.
 
@@ -296,7 +296,7 @@ nodes = treemap(nodes);
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-var svg = d3.select("body").append("svg")
+var svg = d3.select("page").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom),
     g = svg.append("g")
@@ -370,4 +370,4 @@ function linkColor(linkCode) {
 }
 
 </script>
-</body>
+<!-- </body> -->
