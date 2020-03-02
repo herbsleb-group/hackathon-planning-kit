@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style> /* set the CSS */
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text { font: 12px sans-serif; }
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+</style>
+
+<body align="center">
+<h2>Hackathon for Entrapreneurship</h2>
+
+<!-- load the d3.js library -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+
+var treeData =
+  {
+    "name": "Entrapreneurship",
+    "value": 10,
+    "type": "lightgrey",
+    "level": "green",
+    "children": [
+      {
+        "name": "Projects",
+        "value": 10,
+        "type": "lightgrey",
+        "level": "green",
+        "children": [
+          {
+            "name": "Innovativeness",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Scope",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Technical complexity",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Content complexity",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Sustainability",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+        ]
+      },
+      {
+        "name": "Teams",
+        "value": 10,
+        "type": "lightgrey",
+        "level": "green",
+        "children": [
+          {
+            "name": "Motivation(s)",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Background(s)",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Skills",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Familiarity",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Role distribution",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+        ]
+      },
+      {
+        "name": "Process",
+        "value": 10,
+        "type": "lightgrey",
+        "level": "green",
+        "children": [
+          {
+            "name": "Pre-hackathon events",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Ideation",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Team formation",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Project selection",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Checkpoints and Scoping",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Duration / Breaks",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Post-hackathon follow-up",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+        ]
+      },
+      {
+        "name": "Mentors",
+        "value": 10,
+        "type": "lightgrey",
+        "level": "green",
+        "children": [
+          {
+            "name": "Engagement with teams",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Technical support",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+          {
+            "name": "Project feedback",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green"
+          },
+          {
+            "name": "Mobile vs embedded",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          },
+        ]
+      },
+      {
+        "name": "Competition",
+        "value": 10,
+        "type": "lightgrey",
+        "level": "green",
+        "children": [
+          {
+            "name": "Competitive",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "green",
+            "children":[
+              {
+                "name": "Judging criteria",
+                "value": 5,
+                "type": "lightgrey",
+                "level": "green"
+              },
+              {
+                "name": "# Prizes",
+                "value": 5,
+                "type": "lightgrey",
+                "level": "#B8B8B8",
+                "children": [
+                  {
+                    "name": "Monetary",
+                    "value": 3,
+                    "type": "lightgrey",
+                    "level": "#B8B8B8"
+                  },
+                  {
+                    "name": "Non-monetary prizes",
+                    "value": 3,
+                    "type": "lightgrey",
+                    "level": "#B8B8B8"
+                  }
+                ]
+              },
+              {
+                "name": "Jury vs popular vote",
+                "value": 5,
+                "type": "lightgrey",
+                "level": "#B8B8B8"
+              }
+            ],
+          },
+          {
+            "name": "Non-competitive",
+            "value": 5,
+            "type": "lightgrey",
+            "level": "#B8B8B8"
+          }
+        ]
+      }//end of Competition
+    ]
+  };
+
+// set the dimensions and margins of the diagram
+var margin = {top: 20, right: 300, bottom: 30, left: 300},
+    width = 1060 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
+
+// declares a tree layout and assigns the size
+var treemap = d3.tree()
+    .size([height, width]);
+
+//  assigns the data to a hierarchy using parent-child relationships
+var nodes = d3.hierarchy(treeData, function(d) {
+    return d.children;
+  });
+
+// maps the node data to the tree layout
+nodes = treemap(nodes);
+
+// append the svg object to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom),
+    g = svg.append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+// adds the links between the nodes
+var link = g.selectAll(".link")
+    .data( nodes.descendants().slice(1))
+  .enter().append("path")
+    .attr("class", "link")
+    // .style("stroke", function(d) { return d.data.level; })
+    // .attr("stroke-opacity", 0.4)
+    .style("stroke", function(d){
+      return linkColor(d.data.level);})
+    .attr("d", function(d) {
+       return "M" + d.y + "," + d.x
+         + "C" + (d.y + d.parent.y) / 2 + "," + d.x
+         + " " + (d.y + d.parent.y) / 2 + "," + d.parent.x
+         + " " + d.parent.y + "," + d.parent.x;
+       });
+
+// adds each node as a group
+var node = g.selectAll(".node")
+    .data(nodes.descendants())
+  .enter().append("g")
+    .attr("class", function(d) {
+      return "node" +
+        (d.children ? " node--internal" : " node--leaf"); })
+    .attr("transform", function(d) {
+      return "translate(" + d.y + "," + d.x + ")"; });
+
+// adds the circle to the node
+node.append("circle")
+  .attr("r", function(d) { return d.data.value; })
+  .style("stroke", function(d) { return d.data.type; })
+  .style("fill", function(d) { return d.data.level; });
+
+// adds the text to the node
+node.append("text")
+  .attr("dy", ".35em")
+  .attr("x", function(d) { return d.children ?
+    (d.data.value + 4) * -1 : d.data.value + 4 })
+  .style("text-anchor", function(d) {
+    return d.children ? "end" : "start"; })
+  .text(function(d) { return d.data.name; })
+  .style("font-size", "10px");
+
+function linkColor(linkCode) {
+	switch (linkCode)
+	{
+	  case 'green':
+	  	return 'green';//blue
+	    break;
+	  case 'Task Actions':
+	  	return '#FF7F00';//orange
+	  	break;
+	  case 'App Actions':
+		return '#FF0000';//red
+		break;
+	  case 'Insight Actions':
+		return '#7F007F';//purple
+		break;
+	  case 'Meta Actions':
+		  return '#00FFFF';//cyan
+		  break;
+	  default:
+		  return 'lightgrey';//generic blue
+		  break;
+	}
+}
+
+</script>
+</body>
