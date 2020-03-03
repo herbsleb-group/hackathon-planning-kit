@@ -42,8 +42,6 @@ sidebar:
   </svg>
 </div>
 
-<li><a href=""><i class="fas fa-briefcase" aria-hidden="true"></i>Test</a></li>
-
 <table>
 <tr style="border-bottom: thin dotted grey;">
   <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
