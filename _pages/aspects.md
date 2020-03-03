@@ -178,23 +178,23 @@ sidebar:
 <svg height="500" width="700">
   <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
   <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="120" y="155" fill="black" font-size="10px">Projects</text>
+    <text x="120" y="155" fill="black" font-size="14px">Projects</text>
   </a>
   <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
   <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="210" y="155" fill="black" font-size="10px">Teams</text>
+    <text x="210" y="155" fill="black" font-size="14px">Teams</text>
   </a>
   <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
   <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="285" y="155" fill="black" font-size="10px">Process</text>
+    <text x="285" y="155" fill="black" font-size="14px">Process</text>
   </a>
   <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
   <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="365" y="155" fill="black" font-size="10px">Mentors</text>
+    <text x="365" y="155" fill="black" font-size="14px">Mentors</text>
   </a>
   <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
   <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="435" y="155" fill="black" font-size="10px">Competition</text>
+    <text x="435" y="155" fill="black" font-size="14px">Competition</text>
   </a>
 </svg>
 </div>
