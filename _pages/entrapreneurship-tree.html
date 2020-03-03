@@ -287,7 +287,7 @@ var margin = {top: 40, right: 90, bottom: 50, left: 90},
 
 // declares a tree layout and assigns the size
 var treemap = d3.tree()
-    .size([height, width]);
+    .size([width, height]);
 
 //  assigns the data to a hierarchy using parent-child relationships
 var nodes = d3.hierarchy(treeData, function(d) {
@@ -340,29 +340,21 @@ node.append("circle")
   .style("fill", function(d) { return d.data.level; });
 
 // adds the text to the node
-// node.append("text")
-//   .attr("dy", ".35em")
-//   .attr("x", function(d) { return d.children ?
-//     (d.data.value + 4) * -1 : d.data.value + 4 })
-//   .style("text-anchor", function(d) {
-//     return d.children ? "end" : "start"; })
-//   .text(function(d) { return d.data.name; })
-//   .style("font-size", "11px")
-//   // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
-//   // .attr("transform", function(d){
-//   //   return d.data.vlaue > 5 ? "rotate(90)" : null;
-//   // });
-//   // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
-//   .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
-
 node.append("text")
   .attr("dy", ".35em")
-  // .attr("y", function(d) { return d.children ? -20 : 20; })
   .attr("x", function(d) { return d.children ?
-      (d.data.value + 4) * -1 : d.data.value + 4 })
-  .style("text-anchor", "middle")
+    (d.data.value + 4) * -1 : d.data.value + 4 })
+  .style("text-anchor", function(d) {
+    return d.children ? "end" : "start"; })
   .text(function(d) { return d.data.name; })
+  .style("font-size", "11px")
+  // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
+  // .attr("transform", function(d){
+  //   return d.data.vlaue > 5 ? "rotate(90)" : null;
+  // });
+  // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
   .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
+
 
 function linkColor(linkCode) {
 	switch (linkCode)
