@@ -340,20 +340,26 @@ node.append("circle")
   .style("fill", function(d) { return d.data.level; });
 
 // adds the text to the node
+// node.append("text")
+//   .attr("dy", ".35em")
+//   .attr("x", function(d) { return d.children ?
+//     (d.data.value + 4) * -1 : d.data.value + 4 })
+//   .style("text-anchor", function(d) {
+//     return d.children ? "end" : "start"; })
+//   .text(function(d) { return d.data.name; })
+//   .style("font-size", "11px")
+//   // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
+//   // .attr("transform", function(d){
+//   //   return d.data.vlaue > 5 ? "rotate(90)" : null;
+//   // });
+//   // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
+//   .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
+
 node.append("text")
   .attr("dy", ".35em")
-  .attr("x", function(d) { return d.children ?
-    (d.data.value + 4) * -1 : d.data.value + 4 })
-  .style("text-anchor", function(d) {
-    return d.children ? "end" : "start"; })
-  .text(function(d) { return d.data.name; })
-  .style("font-size", "11px")
-  // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
-  // .attr("transform", function(d){
-  //   return d.data.vlaue > 5 ? "rotate(90)" : null;
-  // });
-  // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
-  .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
+  .attr("y", function(d) { return d.children ? -20 : 20; })
+  .style("text-anchor", "middle")
+  .text(function(d) { return d.data.name; });
 
 function linkColor(linkCode) {
 	switch (linkCode)
