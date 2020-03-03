@@ -173,3 +173,28 @@ sidebar:
   <td style="width:70%">This refers to the voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
 </table>
+
+<div align="center">
+<svg height="500" width="700">
+  <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="120" y="155" fill="black">Projects</text>
+  </a>
+  <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="210" y="155" fill="black">Teams</text>
+  </a>
+  <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="285" y="155" fill="black">Process</text>
+  </a>
+  <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="365" y="155" fill="black">Mentors</text>
+  </a>
+  <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="435" y="155" fill="black">Competition</text>
+  </a>
+</svg>
+</div>
