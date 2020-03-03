@@ -336,7 +336,7 @@ node.append("text")
   //   return d.data.vlaue > 5 ? "rotate(90)" : null;
   // });
   // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
-  .attr("transform", d => d.data.value <= 5 ? "rotate(180)" : null);
+  .attr("transform", d => d.data.value <= 5 ? "rotate(-90)" : null);
 
 function linkColor(linkCode) {
 	switch (linkCode)
