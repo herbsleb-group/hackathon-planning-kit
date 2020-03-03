@@ -283,7 +283,7 @@ nodes = treemap(nodes);
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-var svg = d3.select("#tree").append("svg")
+var svg = d3.select("body").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom),
     g = svg.append("g")
@@ -300,10 +300,10 @@ var link = g.selectAll(".link")
     .style("stroke", function(d){
       return linkColor(d.data.level);})
     .attr("d", function(d) {
-       return "M" + d.y + "," + d.x
-         + "C" + (d.y + d.parent.y) / 2 + "," + d.x
-         + " " + (d.y + d.parent.y) / 2 + "," + d.parent.x
-         + " " + d.parent.y + "," + d.parent.x;
+      return "M" + d.x + "," + d.y
+               + "C" + d.x + "," + (d.y + d.parent.y) / 2
+               + " " + d.parent.x + "," +  (d.y + d.parent.y) / 2
+               + " " + d.parent.x + "," + d.parent.y;
        });
 
 // adds each node as a group
@@ -314,7 +314,7 @@ var node = g.selectAll(".node")
       return "node" +
         (d.children ? " node--internal" : " node--leaf"); })
     .attr("transform", function(d) {
-      return "translate(" + d.y + "," + d.x + ")"; });
+      return "translate(" + d.x + "," + d.y + ")"; });
 
 // adds the circle to the node
 node.append("circle")
@@ -330,7 +330,13 @@ node.append("text")
   .style("text-anchor", function(d) {
     return d.children ? "end" : "start"; })
   .text(function(d) { return d.data.name; })
-  .style("font-size", "10px");
+  .style("font-size", "11px")
+  // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
+  // .attr("transform", function(d){
+  //   return d.data.vlaue > 5 ? "rotate(90)" : null;
+  // });
+  // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
+  .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
 
 function linkColor(linkCode) {
 	switch (linkCode)
