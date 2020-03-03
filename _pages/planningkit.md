@@ -18,7 +18,7 @@ Our hackathon plannking kit is meant to extend the basic event planning guidelin
 
 <ul>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions">Key Questions</a></li>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/features">Key Hackathon Aspects</a></li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/aspects">Key Hackathon Aspects</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/general-guidelines">General Guidelines</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/example-trees">Example Hackathons</a></li>
 </ul>
