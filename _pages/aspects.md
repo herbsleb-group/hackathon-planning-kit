@@ -17,28 +17,30 @@ sidebar:
 </style>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 
-<svg height="250" width="700">
-  <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="120" y="155" fill="black" font-size="14px">Projects</text>
-  </a>
-  <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="210" y="155" fill="black" font-size="14px">Teams</text>
-  </a>
-  <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="285" y="155" fill="black" font-size="14px">Process</text>
-  </a>
-  <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="365" y="155" fill="black" font-size="14px">Mentors</text>
-  </a>
-  <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="435" y="155" fill="black" font-size="14px">Competition</text>
-  </a>
-</svg>
+<div aligh="center">
+  <svg height="250" width="700">
+    <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+    <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+      <text x="120" y="155" fill="black" font-size="14px">Projects</text>
+    </a>
+    <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
+    <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+      <text x="210" y="155" fill="black" font-size="14px">Teams</text>
+    </a>
+    <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
+    <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+      <text x="285" y="155" fill="black" font-size="14px">Process</text>
+    </a>
+    <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
+    <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+      <text x="365" y="155" fill="black" font-size="14px">Mentors</text>
+    </a>
+    <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
+    <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+      <text x="435" y="155" fill="black" font-size="14px">Competition</text>
+    </a>
+  </svg>
+</div>
 
 <table>
 <tr style="border-bottom: thin dotted grey;">
