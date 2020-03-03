@@ -15,7 +15,7 @@ sidebar:
     vertical-align: top;
   }
 </style>
-<p>The following table lists the most important aspects of hackathons that organizers need to pay attention to when designing their events. These aspects are categorized into five main categories: projects, teams, process, mentor, and competition. The importance of the following hackathon aspects will be varied depending on the organizational goal(s).</p>
+<p>The following table lists the most important aspects of hackathons that organizers need to pay attention to when designing their events. These aspects are categorized into five main categories: projects, teams, process, mentor, and competition. The importance of these hackathon aspects varies depending on the organizational goal(s).</p>
 <table>
 <tr style="border-bottom: thin dotted grey;">
   <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
