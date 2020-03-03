@@ -16,6 +16,11 @@ main:
         url: /general-guidelines/
       - title: "Example Hackathons"
         url: /example-trees/
+        children:
+          - title: "Entrapreneurship"
+            url: /entrapreneurship-tree/
+          - title: "Community Building"
+            url: /community-building-tree/
       # - title: "Entrapreneurship Hackathon"
       #   url: /entrapreneurship-tree/
       # - title: "Community Building Hackathon"
