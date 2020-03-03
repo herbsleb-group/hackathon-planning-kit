@@ -358,7 +358,7 @@ node.append("circle")
 node.append("text")
   .attr("dy", ".35em")
   // .attr("y", function(d) { return d.children ? -20 : 20; })
-  .attr("y", function(d) { return d.children ?
+  .attr("x", function(d) { return d.children ?
       (d.data.value + 4) * -1 : d.data.value + 4 })
   .style("text-anchor", "middle")
   .text(function(d) { return d.data.name; })
