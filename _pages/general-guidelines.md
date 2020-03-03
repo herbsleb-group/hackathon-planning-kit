@@ -62,7 +62,7 @@ classes: wide
       </ul>
     </td>
   </tr>
-  <tr style="border-top: thin dotted gray; border-bottom: thin dotted gray;"">
+  <tr style="border-top: thin dotted gray; border-bottom: thin dotted gray;">
     <td style="width: 20%; vertical-align: top;"><strong>Post-Hackathon</strong></td>
     <td style="width: 80%;">
       <ul>
