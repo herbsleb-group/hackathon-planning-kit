@@ -17,7 +17,7 @@ sidebar:
 </style>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 <div align="center">
-  <a href=""><img src="/hackathon-planning-kit/images/projects.png" alt="Projects" style="width:20;height:20;"></a>
+  <a href=""><img src="/hackathon-planning-kit/images/projects.png" alt="Projects" style="width:10;height:10;"></a>
 </div>
 
 <div align="center">
