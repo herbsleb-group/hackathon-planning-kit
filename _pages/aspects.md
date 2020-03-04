@@ -7,6 +7,7 @@ classes: wide
 sidebar:
   nav: "main"
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
 <style>
   tr {
@@ -258,7 +259,29 @@ function openTab(tabName) {
 
 
 <!-- Option 2 starts -->
-
+<div>
+<svg height="250" width="700">
+  <a href="">
+    <g>
+      <circle cx="150" cy="150" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
+      <text x="150" y="155" style="font-size:18px;fill:white; text-anchor:middle;">01</text>
+    </g>
+    <g>
+      <text x="185" y="150" style="font-size:16px; text-anchor:left;">Projects</text>
+      <circle cx="185" cy="165" r="2px"/>
+      <text x="195" y="170" style="font-size:14px; text-anchor:left;">Inovativeness</text>
+      <circle cx="185" cy="185" r="2px"/>
+      <text x="195" y="190" style="font-size:14px; text-anchor:left;">Scope</text>
+      <circle cx="185" cy="205" r="2px"/>
+      <text x="195" y="210" style="font-size:14px; text-anchor:left;">Technical complexity</text>
+      <circle cx="185" cy="225" r="2px"/>
+      <text x="195" y="230" style="font-size:14px; text-anchor:left;">Content complexity</text>
+      <circle cx="185" cy="245" r="2px"/>
+      <text x="195" y="250" style="font-size:14px; text-anchor:left;">Sustainability</text>
+    </g>
+  </a>
+</svg>
+</div>
 <!-- Option 2 ends -->
 <!-- <p id="desc"></p>
 <script>
