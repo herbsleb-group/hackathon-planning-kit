@@ -43,7 +43,7 @@ i{
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 
-<p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
+<p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.
 
 <button type="button" name="btn1" class="round-button" style="left: 20px; top: 100px; background: #4285F4;"></button>
 <i class="fas fa-briefcase" style="font-size:36px; left: 50px; top: 50px;" aria-hidden="true"></i>
@@ -59,6 +59,8 @@ i{
 
 <button type="button" name="btn2" class="round-button" style="left: 340px; top: 20px; background: #78C257;"></button>
 <i class="fas fa-medal" style="font-size:36px; left: 370px; top: 50px;" aria-hidden="true"></i>
+
+</p>
 
 
 <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
