@@ -49,11 +49,11 @@ svg text{
   text-anchor: middle;
 }
 .container{
-  text-align: center;
+  <!-- text-align: center; -->
 }
 .col {
   padding: 10px;
-  width: 50%;
+  width: 70%;
   height: 300px;
   opacity: 1;
   border-radius: 5px;
@@ -131,7 +131,6 @@ Desiging a hackahton involves taking consideration of several important aspects 
     <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
   </a>
 </svg>
-<div align="center">
 
 <!-- <p id="desc"></p>
 <script>
