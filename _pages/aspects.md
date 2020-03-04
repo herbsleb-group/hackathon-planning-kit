@@ -45,7 +45,7 @@ i{
 
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 
-<button type="button" name="btn1" class="round-button" style="left: 20px; top: 20px; background: #4285F4;"></button>
+<button type="button" name="btn1" class="round-button" style="left: 20px; top: 100px; background: #4285F4;"></button>
 <i class="fas fa-briefcase" style="font-size:36px; left: 50px; top: 50px;" aria-hidden="true"></i>
 
 <button type="button" name="btn2" class="round-button" style="left: 100px; top: 20px; background: #3b99a7;"></button>
