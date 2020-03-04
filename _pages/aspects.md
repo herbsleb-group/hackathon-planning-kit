@@ -77,14 +77,13 @@ border: 1px solid white;
   padding: 20px;
   color: white;
   width: 500px;
-  align: center;
 }
-.closebtn {
+<!-- .closebtn {
   float: right;
   color: white;
   font-size: 35px;
   cursor: pointer;
-}
+} -->
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
@@ -210,13 +209,15 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Mobile vs embedded: <br>
 </div>
 
-<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;" align="center">
+<div align="center">
+<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
   <h3>Competition</h3>
   Competitive vs Non-competitive events: Incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.<br>
   Judging criteria: This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market<br>
   Prizes: How many awards be given<br>
   Monetary vs non-monetary prizes: Should the prizes be monetary or non-monetary such as computing power<br>
   Jury vs popular vote: The voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner<br>
+</div>
 </div>
 
 <script>
