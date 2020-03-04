@@ -73,6 +73,10 @@ color: inherit;
 hr.new1 {
 border: 1px solid white;
 }
+.containerTab {
+  padding: 20px;
+  color: white;
+}
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
@@ -105,7 +109,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <svg height="250" width="700">
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
+  <a href="" onclick="openTab('p');">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
     <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
   </a>
@@ -134,7 +138,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 </div>
 
 
-<!-- <div class="container"> -->
+<!-- <div class="container">
   <div class="col fontnew" style="background: #4285F4;">
     <center>Projects<center><hr class="new1">
     <table>
@@ -160,7 +164,24 @@ Desiging a hackahton involves taking consideration of several important aspects 
     </tr>
     </table>
   </div>
-<!-- </div> -->
+</div> -->
+
+<div id="p" class="containerTab" style="display:none;background:green">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Box 1</h2>
+  <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+</div>
+
+<script>
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("containerTab");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+</script>
 
 <!-- <p id="desc"></p>
 <script>
