@@ -76,6 +76,7 @@ border: 1px solid white;
 .containerTab {
   padding: 20px;
   color: white;
+  width: 500px;
 }
 .closebtn {
   float: right;
@@ -172,7 +173,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
   </div>
 </div> -->
 
-<div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%;">
+<div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%; font-size: 14px;">
   <h3>Projects</h3>
     Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code<br>
     Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit<br>
@@ -181,7 +182,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon<br>
 </div>
 
-<div id="t" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+<div id="t" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 14px;">
   <h3>Teams</h3>
     Motivation(s): What participants want to get out of their hackathon participation<br>
     Background(s): Participants' education and experience before the hackathon<br>
@@ -190,7 +191,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Role distribution; How roles or tasks are distributed among team members<br>
 </div>
 
-<div id="pr" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+<div id="pr" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 14px;">
   <h3>Process</h3>
     Pre-hackathon events: Agenda of activities that take place before the hackathons as individually or a team<br>
     Ideation: Teams generating, developing, and combining ideas to form the projects<br>
@@ -200,7 +201,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Post-hackathon follow-up: Agenda of activities that help the continuation of hackathon projects<br>
 </div>
 
-<div id="m" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+<div id="m" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 14px;">
   <h3>Mentors</h3>
     Engagement with teams: Explaining projects to the participants, teaching them basic computing skills required for their projects, and helping them with the development environment setup<br>
     Technical support: Helping teams / participants to solve their technical difficulties during the hackathon<br>
@@ -208,7 +209,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Mobile vs embedded: <br>
 </div>
 
-<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 14px;">
   <h3>Competition</h3>
   Competitive vs Non-competitive events: Incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.<br>
   Judging criteria: This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market<br>
