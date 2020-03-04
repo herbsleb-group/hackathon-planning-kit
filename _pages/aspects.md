@@ -48,6 +48,31 @@ svg text{
   font-family: FontAwesome;
   text-anchor: middle;
 }
+.container{
+  text-align: center;
+}
+.col {
+  padding: 10px;
+  width: 50%;
+  height: 300px;
+  opacity: 1;
+  border-radius: 5px;
+  border: 1px solid white;
+  display: inline-block;
+  text-align: left;
+  margin: 0 auto;
+  z-index:-1;
+  opacity: 0.9;
+}
+.fontnew {
+font-size: 18px;
+font-family: sans-serif;
+color: inherit;
+}
+
+hr.new1 {
+border: 1px solid white;
+}
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
@@ -112,7 +137,36 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <script>
 </script> -->
 
-<table>
+<div class="container">
+  <div class="col fontnew" style="background: #4285F4;">
+    <center>Projects<center><hr class="new1">
+    <table>
+    <tr>
+      <td width="25%" style="vertical-align: top; line-height: 1.5;">Innovativeness</td>
+      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the project solves a real-world problem either creating new or reusing existing code</td>
+    </tr>
+    <tr>
+      <td width="25%" style="vertical-align: top; line-height: 1.5;">Scope</td>
+      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</td>
+    </tr>
+    <tr>
+      <td width="25%" style="vertical-align: top; line-height: 1.5;">Technical complexity</td>
+      <td width="75%" style="vertical-align: top; line-height: 1.5;">The degree to which the implemented system has the design or implementation that is difficult to understand and verify</td>
+    </tr>
+    <tr>
+      <td width="25%" style="vertical-align: top; line-height: 1.5;">Content complexity</td>
+      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the requirements of the project are precise and complete</td>
+    </tr>
+    <tr>
+      <td width="25%" style="vertical-align: top; line-height: 1.5;">Sustainability</td>
+      <td width="75%" style="vertical-align: top; line-height: 1.5;">The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</td>
+    </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Don't remove this table! -->
+<!-- <table>
 <tr style="border-bottom: thin dotted grey;">
   <th style="font-size:1.2em; width:30%"><strong>Aspects</strong></th>
   <th style="font-size:1.2em; width:70%"><strong>Description</strong></th>
@@ -268,4 +322,4 @@ Desiging a hackahton involves taking consideration of several important aspects 
   <td style="width:30%"><strong>Jury vs popular vote</strong></td>
   <td style="width:70%">This refers to the voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
-</table>
+</table> -->
