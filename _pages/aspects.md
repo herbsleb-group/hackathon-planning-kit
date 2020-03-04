@@ -134,7 +134,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 </div>
 
 
-<div class="container">
+<!-- <div class="container"> -->
   <div class="col fontnew" style="background: #4285F4;">
     <center>Projects<center><hr class="new1">
     <table>
@@ -160,7 +160,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     </tr>
     </table>
   </div>
-</div>
+<!-- </div> -->
 
 <!-- <p id="desc"></p>
 <script>
