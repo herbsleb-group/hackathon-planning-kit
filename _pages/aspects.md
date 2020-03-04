@@ -15,9 +15,6 @@ sidebar:
   td {
     vertical-align: top;
   }
-  <!-- svg text {
-   font-family: FontAwesome;
- } -->
  .round-button {
    display:block;
    width:100px;
@@ -48,7 +45,7 @@ svg{
 }
 svg text{
   font-size: 36px;
-  font-family: sans-serif;
+  font-family: FontAwesome;
   text-anchor: middle;
 }
 </style>
@@ -84,28 +81,28 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <svg height="250" width="700">
-  <a href="https://www.w3schools.com/graphics/">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
     <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
   </a>
 
-  <a href="https://www.w3schools.com/graphics/">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
     <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="230" y="160">&#xf0c0;</text>
   </a>
 
 
-  <a href="https://www.w3schools.com/graphics/">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="310" y="160">&#xf0c0;</text>
   </a>
 
-  <a href="https://www.w3schools.com/graphics/">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
     <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8" class="chover"/>
     <text class="fas fa-graduation-cap" x="390" y="160">&#xf19d;</text>
   </a>
 
-  <a href="https://www.w3schools.com/graphics/">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
     <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8" class="chover"/>
     <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
   </a>
