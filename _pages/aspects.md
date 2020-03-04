@@ -210,7 +210,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Mobile vs embedded: <br>
 </div>
 
-<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
+<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;" align="center">
   <h3>Competition</h3>
   Competitive vs Non-competitive events: Incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.<br>
   Judging criteria: This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market<br>
