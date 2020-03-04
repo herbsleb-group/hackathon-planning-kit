@@ -137,34 +137,6 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <script>
 </script> -->
 
-<div class="container">
-  <div class="col fontnew" style="background: #4285F4;">
-    <center>Projects<center><hr class="new1">
-    <table>
-    <tr>
-      <td width="25%" style="vertical-align: top; line-height: 1.5;">Innovativeness</td>
-      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the project solves a real-world problem either creating new or reusing existing code</td>
-    </tr>
-    <tr>
-      <td width="25%" style="vertical-align: top; line-height: 1.5;">Scope</td>
-      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</td>
-    </tr>
-    <tr>
-      <td width="25%" style="vertical-align: top; line-height: 1.5;">Technical complexity</td>
-      <td width="75%" style="vertical-align: top; line-height: 1.5;">The degree to which the implemented system has the design or implementation that is difficult to understand and verify</td>
-    </tr>
-    <tr>
-      <td width="25%" style="vertical-align: top; line-height: 1.5;">Content complexity</td>
-      <td width="70%" style="vertical-align: top; line-height: 1.5;">The degree to which the requirements of the project are precise and complete</td>
-    </tr>
-    <tr>
-      <td width="25%" style="vertical-align: top; line-height: 1.5;">Sustainability</td>
-      <td width="75%" style="vertical-align: top; line-height: 1.5;">The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</td>
-    </tr>
-    </table>
-  </div>
-</div>
-
 <!-- Don't remove this table! -->
 <!-- <table>
 <tr style="border-bottom: thin dotted grey;">
