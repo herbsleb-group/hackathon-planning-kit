@@ -263,7 +263,7 @@ function openTab(tabName) {
 <svg height="250" width="700">
   <a href="">
     <g>
-      <circle cx="150" cy="150" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
+      <circle cx="10" cy="10" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
       <text x="150" y="155" style="font-size:18px;fill:white; text-anchor:middle;">01</text>
     </g>
     <g>
