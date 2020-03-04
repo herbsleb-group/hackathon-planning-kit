@@ -18,32 +18,11 @@ sidebar:
   svg text {
    font-family: FontAwesome;
  }
- .round-button {
-   display:block;
-   width:100px;
-   height:100px;
-   line-height:80px;
-   text-align:center;
-   border: 0px solid #4285F4;
-   border-radius: 50%;
-   background: #4285F4;
-   opacity: 0.8;
-   z-index: -1;
-
-}
-.round-button:hover {
-   opacity: 0.5;
-}
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
-
-<div align="center">
-  <i class="fas fa-briefcase" x="130" y="160" style="font-size:36px" aria-hidden="true"></i>
-  <button type="button" name="btn1" class="round-button"><i class="fas fa-briefcase" x="130" y="160" style="font-size:36px" aria-hidden="true"></i></button>
-</div>
 
 <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
 <div align="center">
