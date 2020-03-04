@@ -74,7 +74,7 @@ hr.new1 {
 border: 1px solid white;
 }
 .containerTab {
-  padding: 10px;
+  padding: 20px 20px;
   color: white;
   width: 700px;
   text-align: left;
@@ -86,6 +86,26 @@ border: 1px solid white;
   font-size: 35px;
   cursor: pointer;
 } -->
+<!-- For Option 2 -->
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  text-align: left;
+  padding: 20px 20px;
+  font-size: 30px;
+  width: 300px;
+  height: 200px;
+}
+
+.item1 {
+  grid-row-start: 1;
+}
+<!-- For Option 2 -->
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
@@ -175,6 +195,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
   </div>
 </div> -->
 
+<!-- Option 1 start -->
 <div align="center">
 <div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%; font-size: 16px;">
   <center><h2>Projects</h2></center>
@@ -250,7 +271,27 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "block";
 }
 </script>
+<!-- Option 1 ends -->
 
+<!-- Option 2 starts -->
+<div class="grid-container">
+  <div class="item1" style="background-color: #4285F4">
+  <center><h2>Projects</h2></center>
+  <ul style="font-size: 16px;">
+    <li>Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code</li>
+    <li>Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</li>
+    <li>Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify<br>
+    Content complexity: The degree to which the requirements of the project are precise and complete</li>
+    <li>Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</li>
+  </ul>
+  </div>
+  <div class="item2" style="background-color: lightblue">2</div>
+  <div class="item3">3</div>  
+  <div class="item4">4</div>
+  <div class="item5">5</div>
+  <div class="item6">6</div>
+</div>
+<!-- Option 2 ends -->
 <!-- <p id="desc"></p>
 <script>
 </script> -->
