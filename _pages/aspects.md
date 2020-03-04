@@ -53,8 +53,8 @@ svg text{
 }
 .col {
   padding: 10px;
-  width: 80%;
-  height: 400px;
+  width: 70%;
+  height: 350px;
   opacity: 1;
   border-radius: 5px;
   border: 1px solid white;
@@ -62,7 +62,7 @@ svg text{
   text-align: left;
   margin: 0 auto;
   z-index:-1;
-  opacity: 1;
+  opacity: 0.8;
 }
 .fontnew {
 font-size: 18px;
