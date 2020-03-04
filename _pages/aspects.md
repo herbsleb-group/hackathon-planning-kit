@@ -76,8 +76,9 @@ border: 1px solid white;
 .containerTab {
   padding: 20px;
   color: white;
-  width: 500px;
+  width: 700px;
   text-align: left;
+  opacity: 0.8;
 }
 <!-- .closebtn {
   float: right;
@@ -174,6 +175,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
   </div>
 </div> -->
 
+<div align="center">
 <div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%; font-size: 16px;">
   <h3>Projects</h3>
     Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code<br>
@@ -182,7 +184,9 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Content complexity: The degree to which the requirements of the project are precise and complete<br>
     Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon<br>
 </div>
+</div>
 
+<div align="center">
 <div id="t" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
   <h3>Teams</h3>
     Motivation(s): What participants want to get out of their hackathon participation<br>
@@ -191,7 +195,9 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Familiarity: The degree to which the team members have worked together before<br>
     Role distribution; How roles or tasks are distributed among team members<br>
 </div>
+</div>
 
+<div align="center">
 <div id="pr" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
   <h3>Process</h3>
     Pre-hackathon events: Agenda of activities that take place before the hackathons as individually or a team<br>
@@ -201,13 +207,16 @@ Desiging a hackahton involves taking consideration of several important aspects 
     Duration / Breaks: Mini-events such as games during the hackathon<br>
     Post-hackathon follow-up: Agenda of activities that help the continuation of hackathon projects<br>
 </div>
+</div>
 
+<div align="center">
 <div id="m" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
   <h3>Mentors</h3>
     Engagement with teams: Explaining projects to the participants, teaching them basic computing skills required for their projects, and helping them with the development environment setup<br>
     Technical support: Helping teams / participants to solve their technical difficulties during the hackathon<br>
     Project feedback: Providing feedback on how well the team is making progress on their projects so the teams can assure that they are on the right track<br>
     Mobile vs embedded: <br>
+</div>
 </div>
 
 <div align="center">
