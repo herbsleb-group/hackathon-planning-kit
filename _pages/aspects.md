@@ -28,14 +28,13 @@ sidebar:
 
 <svg height="250" width="700" align="center">
   <a xlink:href="https://www.w3schools.com/graphics/">
-    <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+    <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/></a>
     <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text>
-  </a>
 
   <a xlink:href="https://www.w3schools.com/graphics/">
-    <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
+    <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/></a>
     <text class="fas fa-users" x="210" y="160" style="font-size:36px">&#xf0c0;</text>
-  </a>
+
 
   <a xlink:href="https://www.w3schools.com/graphics/">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
