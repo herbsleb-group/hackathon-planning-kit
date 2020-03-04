@@ -87,24 +87,6 @@ border: 1px solid white;
   cursor: pointer;
 } -->
 <!-- For Option 2 -->
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 10px;
-  padding: 10px;
-}
-
-.grid-container > div {
-  text-align: left;
-  padding: 20px 20px;
-  font-size: 30px;
-  width: 300px;
-  height: 300px;
-}
-
-.item1 {
-  grid-row-start: 1;
-}
 <!-- For Option 2 -->
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
@@ -271,17 +253,12 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "block";
 }
 </script>
+
 <!-- Option 1 ends -->
 
+
 <!-- Option 2 starts -->
-<div class="grid-container">
-  <div class="item1" style="background-color: #4285F4">1
-  </div>
-  <div class="item2" style="background-color: lightblue">2</div>
-  <div class="item3">3</div>  
-  <div class="item4">4</div>
-  <div class="item5">5</div>
-</div>
+
 <!-- Option 2 ends -->
 <!-- <p id="desc"></p>
 <script>
