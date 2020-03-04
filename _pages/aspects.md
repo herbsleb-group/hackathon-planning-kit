@@ -75,7 +75,6 @@ border: 1px solid white;
 }
 .containerTab {
   padding: 20px;
-  color: white;
   width: 700px;
   text-align: left;
   opacity: 0.8;
@@ -176,8 +175,8 @@ Desiging a hackahton involves taking consideration of several important aspects 
 </div> -->
 
 <div align="center">
-<div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%;">
-  <h2>Projects</h2>
+<div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%; font-size: 16px;">
+  <center><h2>Projects</h2></center>
   <ul style="font-size: 16px;">
     <li>Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code</li>
     <li>Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</li>
