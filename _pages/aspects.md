@@ -30,7 +30,7 @@ sidebar:
   <a xlink:href="https://www.w3schools.com/graphics/">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
     <!-- <text x="130" y="160" style="font-size:18px">Projects</text> -->
-    <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px>&#xf0b1;</text>
+    <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text>
   </a>
 
   <a xlink:href="https://www.w3schools.com/graphics/">
