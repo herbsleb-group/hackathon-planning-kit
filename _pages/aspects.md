@@ -120,23 +120,23 @@ Desiging a hackahton involves taking consideration of several important aspects 
     <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
+  <a href="#t" onclick="openTab('t');">
     <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="230" y="160">&#xf0c0;</text>
   </a>
 
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
+  <a href="#pr" onclick="openTab('pr');">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="310" y="160">&#xf0c0;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
+  <a href="#m" onclick="openTab('m');">
     <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8" class="chover"/>
     <text class="fas fa-graduation-cap" x="390" y="160">&#xf19d;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
+  <a href="#c" onclick="openTab('c');">
     <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8" class="chover"/>
     <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
   </a>
@@ -172,16 +172,49 @@ Desiging a hackahton involves taking consideration of several important aspects 
   </div>
 </div> -->
 
-<div id="p" class="containerTab" style="display:none;background:#4285F4">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Projects</h2>
-  <ul>
-    <li>Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code</li>
-    <li>Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</li>
-    <li>Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify</li>
-    <li>Content complexity: The degree to which the requirements of the project are precise and complete</li>
-    <li>Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</li>
-  </ul>
+<div id="p" class="containerTab" style="display:none; background:#4285F4; border-radius: 10%;">
+  <h3>Projects</h3>
+    Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code<br>
+    Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit<br>
+    Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify<br>
+    Content complexity: The degree to which the requirements of the project are precise and complete<br>
+    Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon<br>
+</div>
+
+<div id="t" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+  <h3>Teams</h3>
+    Motivation(s): What participants want to get out of their hackathon participation<br>
+    Background(s): Participants' education and experience before the hackathon<br>
+    Skills: The degree to which participants are proficient in coding and designing<br>
+    Familiarity: The degree to which the team members have worked together before<br>
+    Role distribution; How roles or tasks are distributed among team members<br>
+</div>
+
+<div id="pr" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+  <h3>Process</h3>
+    Pre-hackathon events: Agenda of activities that take place before the hackathons as individually or a team<br>
+    Ideation: Teams generating, developing, and combining ideas to form the projects<br>
+    Project selection: Teams picking projects to work on during the hackathon<br>
+    Checkpoints and Scoping: Teams reporting the progress of the project to the wholeand re-evaluating the project scope<br>
+    Duration / Breaks: Mini-events such as games during the hackathon<br>
+    Post-hackathon follow-up: Agenda of activities that help the continuation of hackathon projects<br>
+</div>
+
+<div id="m" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+  <h3>Mentors</h3>
+    Engagement with teams: Explaining projects to the participants, teaching them basic computing skills required for their projects, and helping them with the development environment setup<br>
+    Technical support: Helping teams / participants to solve their technical difficulties during the hackathon<br>
+    Project feedback: Providing feedback on how well the team is making progress on their projects so the teams can assure that they are on the right track<br>
+    Mobile vs embedded: <br>
+</div>
+
+<div id="c" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%;">
+  <h3>Competition</h3>
+  Competitive vs Non-competitive events: Incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.<br>
+  Judging criteria: This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market<br>
+  Prizes: How many awards be given<br>
+  Monetary vs non-monetary prizes: Should the prizes be monetary or non-monetary such as computing power<br>
+  Jury vs popular vote: The voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner<br>
 </div>
 
 <script>
