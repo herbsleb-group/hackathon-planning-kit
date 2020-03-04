@@ -77,6 +77,7 @@ border: 1px solid white;
   padding: 20px;
   color: white;
   width: 500px;
+  text-align: left;
 }
 <!-- .closebtn {
   float: right;
