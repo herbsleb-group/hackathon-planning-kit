@@ -70,18 +70,18 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <svg height="250" width="700" align="center">
   <a href="https://www.w3schools.com/graphics/">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-    <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text>
+    <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
   </a>
 
   <a href="https://www.w3schools.com/graphics/">
     <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
-    <text class="fas fa-users" x="210" y="160" style="font-size:36px">&#xf0c0;</text>
+    <!-- <text class="fas fa-users" x="210" y="160" style="font-size:36px">&#xf0c0;</text> -->
   </a>
 
 
   <a href="https://www.w3schools.com/graphics/">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
-    <text class="fas fa-users" x="285" y="160" style="font-size:36px">&#xf0c0;</text>
+    <!-- <text class="fas fa-users" x="285" y="160" style="font-size:36px">&#xf0c0;</text> -->
   </a>
 
   <a href="https://www.w3schools.com/graphics/">
@@ -91,7 +91,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
   <a href="https://www.w3schools.com/graphics/">
     <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
-    <text class="fas fa-medal" x="450" y="168" style="font-size:36px">&#xf5a2;</text>
+    <!-- <text class="fas fa-medal" x="450" y="168" style="font-size:36px">&#xf5a2;</text> -->
   </a>
 </svg>
 </div>
