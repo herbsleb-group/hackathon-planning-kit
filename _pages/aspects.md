@@ -24,12 +24,28 @@ sidebar:
 </head>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 
-<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
 <div align="center">
+  <button type="button" name="btn1" class="round-button" style="left: 20px; top: 20px; background: #4285F4;"></button>
+  <i class="fas fa-briefcase" style="font-size:36px; left: 50px; top: 50px;" aria-hidden="true"></i>
+
+  <button type="button" name="btn2" class="round-button" style="left: 100px; top: 20px; background: #3b99a7;"></button>
+  <i class="fas fa-users" style="font-size:36px; left: 130px; top: 50px;" aria-hidden="true"></i>
+
+  <button type="button" name="btn2" class="round-button" style="left: 180px; top: 20px; background: #78C257;"></button>
+  <i class="fas fa-users" style="font-size:36px; left: 210px; top: 50px;" aria-hidden="true"></i>
+
+  <button type="button" name="btn2" class="round-button" style="left: 260px; top: 20px; background: #78C257;"></button>
+  <i class="fas fa-graduation-cap" style="font-size:36px; left: 290px; top: 50px;" aria-hidden="true"></i>
+
+  <button type="button" name="btn2" class="round-button" style="left: 340px; top: 20px; background: #78C257;"></button>
+  <i class="fas fa-medal" style="font-size:36px; left: 370px; top: 50px;" aria-hidden="true"></i>
+</div>
+
+<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
+<!-- <div align="center">
 <svg height="250" width="700" align="center">
   <a xlink:href="https://www.w3schools.com/graphics/">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-    <!-- <text x="130" y="160" style="font-size:18px">Projects</text> -->
     <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text>
   </a>
 
@@ -53,7 +69,7 @@ sidebar:
     <text class="fas fa-medal" x="450" y="168" style="font-size:36px">&#xf5a2;</text>
   </a>
 </svg>
-</div>
+</div> -->
 
 <!-- <p id="desc"></p>
 <script>
