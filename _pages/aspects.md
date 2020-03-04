@@ -34,6 +34,9 @@ sidebar:
 .round-button:hover {
    opacity: 0.5;
 }
+.circle:hover{
+  opacity: 0.5;
+}
 i{
   z-index: 2;
   position:absolute;
