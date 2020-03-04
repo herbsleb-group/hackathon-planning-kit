@@ -86,7 +86,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
   <a href="https://www.w3schools.com/graphics/">
     <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
-    <text class="fas fa-graduation-cap" x="365" y="160" style="font-size:36px">&#xf19d;</text>
+    <!-- <text class="fas fa-graduation-cap" x="365" y="160" style="font-size:36px">&#xf19d;</text> -->
   </a>
 
   <a href="https://www.w3schools.com/graphics/">
