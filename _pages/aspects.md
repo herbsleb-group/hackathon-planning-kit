@@ -172,10 +172,16 @@ Desiging a hackahton involves taking consideration of several important aspects 
   </div>
 </div> -->
 
-<div id="p" class="containerTab" style="display:none;background:green">
+<div id="p" class="containerTab" style="display:none;background:#4285F4">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Box 1</h2>
-  <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+  <h2>Projects</h2>
+  <ul>
+    <li>Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code</li>
+    <li>Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</li>
+    <li>Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify</li>
+    <li>Content complexity: The degree to which the requirements of the project are precise and complete</li>
+    <li>Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</li>
+  </ul>
 </div>
 
 <script>
