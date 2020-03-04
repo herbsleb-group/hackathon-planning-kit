@@ -53,7 +53,6 @@ svg text{
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 
-<body>
 <p>
 Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.
 </p>
@@ -81,28 +80,28 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <svg height="250" width="700">
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
     <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
     <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="230" y="160">&#xf0c0;</text>
   </a>
 
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
     <text class="fas fa-users" x="310" y="160">&#xf0c0;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
     <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8" class="chover"/>
     <text class="fas fa-graduation-cap" x="390" y="160">&#xf19d;</text>
   </a>
 
-  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/" target="_blank">
+  <a xlink:href="https://eipapa.github.io/hackathon-planning-kit/">
     <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8" class="chover"/>
     <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
   </a>
@@ -270,4 +269,3 @@ Desiging a hackahton involves taking consideration of several important aspects 
   <td style="width:70%">This refers to the voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
 </table>
-</body>
