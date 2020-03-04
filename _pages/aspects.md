@@ -99,7 +99,7 @@ border: 1px solid white;
   padding: 20px 20px;
   font-size: 30px;
   width: 300px;
-  height: 200px;
+  height: 300px;
 }
 
 .item1 {
@@ -202,8 +202,8 @@ Desiging a hackahton involves taking consideration of several important aspects 
   <ul style="font-size: 16px;">
     <li>Innovativeness: The degree to which the project solves a real-world problem either creating new or reusing existing code</li>
     <li>Scope: The degree to which the goals, tasks, and deliverables of the project are archivable within the specified time limit</li>
-    <li>Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify<br>
-    Content complexity: The degree to which the requirements of the project are precise and complete</li>
+    <li>Technical complexity: The degree to which the implemented system has the design or implementation that is difficult to understand and verify</li>
+    <li>Content complexity: The degree to which the requirements of the project are precise and complete</li>
     <li>Sustainability: The degree to which the implemented system or code will be available to use and continue to be maintained even after the hackathon</li>
   </ul>
 </div>
@@ -275,21 +275,12 @@ function openTab(tabName) {
 
 <!-- Option 2 starts -->
 <div class="grid-container">
-  <div class="item1" style="background-color: #4285F4">
-  <center>Projects</center>
-    <ul style="font-size: 16px;">
-      <li>Innovativeness</li>
-      <li>Scope</li>
-      <li>Technical complexity</li>
-      <li>Content complexity</li>
-      <li>Sustainability</li>
-    </ul>
+  <div class="item1" style="background-color: #4285F4">1
   </div>
   <div class="item2" style="background-color: lightblue">2</div>
   <div class="item3">3</div>  
   <div class="item4">4</div>
   <div class="item5">5</div>
-  <div class="item6">6</div>
 </div>
 <!-- Option 2 ends -->
 <!-- <p id="desc"></p>
