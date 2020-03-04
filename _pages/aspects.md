@@ -15,9 +15,9 @@ sidebar:
   td {
     vertical-align: top;
   }
-  svg text {
+  <!-- svg text {
    font-family: FontAwesome;
- }
+ } -->
  .round-button {
    display:block;
    width:100px;
@@ -41,15 +41,27 @@ i{
   z-index: 2;
   position:absolute;
 }
+svg{
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+svg text{
+  font-size: 36px;
+  font-family: sans-serif;
+  text-anchor: middle;
+}
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 
+<body>
 <p>
 Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.
 </p>
 
+<!-- <div id="cc"></div> -->
 <!-- <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.
 
 <button type="button" name="btn1" class="round-button" style="left: 50px; top: 200px; background: #4285F4;"></button>
@@ -68,7 +80,8 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <i class="fas fa-medal" style="font-size:36px; left: 370px; top: 50px;" aria-hidden="true"></i>
 </p> -->
 
-<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
+<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->                       
+
 <div align="center">
 <svg height="250" width="700">
   <a href="https://www.w3schools.com/graphics/">
@@ -260,3 +273,4 @@ Desiging a hackahton involves taking consideration of several important aspects 
   <td style="width:70%">This refers to the voting system by which the winner(s) is decided for the hackathon. In jury system, the winner is elected only when the majority of judges have voted for them. In popular vote, the team which received a majority vote from the event attendees and pre-specified social channels is elected as the winner.</td>
 </tr>
 </table>
+</body>
