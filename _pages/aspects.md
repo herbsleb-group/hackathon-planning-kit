@@ -74,7 +74,8 @@ hr.new1 {
 border: 1px solid white;
 }
 .containerTab {
-  padding: 20px;
+  padding: 10px;
+  color: white;
   width: 700px;
   text-align: left;
   opacity: 0.8;
@@ -189,7 +190,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <div id="t" class="containerTab" style="display:none; background:#3b99a7; border-radius: 10%; font-size: 16px;">
-  <h2>Teams</h2>
+  <center><h2>Teams</h2></center>
   <ul style="font-size: 16px;">
     <li>Motivation(s): What participants want to get out of their hackathon participation</li>
     <li>Background(s): Participants' education and experience before the hackathon</li>
@@ -202,7 +203,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <div id="pr" class="containerTab" style="display:none; background:#78C257; border-radius: 10%; font-size: 16px;">
-  <h2>Process</h2>
+  <center><h2>Process</h2></center>
   <ul style="font-size: 16px;">
     <li>Pre-hackathon events: Agenda of activities that take place before the hackathons as individually or a team</li>
     <li>Ideation: Teams generating, developing, and combining ideas to form the projects</li>
@@ -216,7 +217,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <div id="m" class="containerTab" style="display:none; background:#F4B400; border-radius: 10%; font-size: 16px;">
-  <h2>Mentors</h2>
+  <center><h2>Mentors</h2></center>
   <ul style="font-size: 16px;">
     <li>Engagement with teams: Explaining projects to the participants, teaching them basic computing skills required for their projects, and helping them with the development environment setup</li>
     <li>Technical support: Helping teams / participants to solve their technical difficulties during the hackathon</li>
@@ -228,7 +229,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <div id="c" class="containerTab" style="display:none; background:#DB4437; border-radius: 10%; font-size: 16px;">
-  <h2>Competition</h2>
+  <center><h2>Competition</h2></center>
   <ul style="font-size: 16px;">
   <li>Competitive vs Non-competitive events: Incentive mechanism of the hackathon. In competitive hackathons, teams compete for prizes. In non-competitive hackathons, teams work toward a common goal such as contributing code to advance existing or create new computing infrastructure.<br>
   Judging criteria: This refers to criteria used by the judges to evaluate the hackathon projects such as creativity and appeal to the market</li>
