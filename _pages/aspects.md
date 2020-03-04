@@ -8,19 +8,23 @@ sidebar:
   nav: "main"
 ---
 <head>
-  <style>
-    tr {
+<style>
+  tr {
       align: top;
     }
-    td {
-      vertical-align: top;
-    }
-  </style>
+  td {
+    vertical-align: top;
+  }
+  svg text {
+   font-family: FontAwesome;
+  }
+</style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
-  <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 
+<div align="center">
 <svg height="250" width="700">
   <a xlink:href="https://www.w3schools.com/graphics/">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
@@ -47,6 +51,7 @@ sidebar:
     <text class="fas fa-medal" x="450" y="168" style="font-size:36px">&#xf5a2;</text>
   </a>
 </svg>
+</div>
 
 <table>
 <tr style="border-bottom: thin dotted grey;">
