@@ -24,6 +24,11 @@ sidebar:
 </head>
 <p>Desiging a hackahton involves taking consideration of several important aspects depending on the organizational goals. We provides a list of important hackahton aspects which are then grouped into five main categories: <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>.</p>
 
+<div align="center">
+  <i class="fas fa-briefcase" x="130" y="160" style="font-size:36px" aria-hidden="true"></i>
+  <button type="button" name="btn1" class="round-button"><i class="fas fa-briefcase" x="130" y="160" style="font-size:36px" aria-hidden="true"></i></button>
+</div>
+
 <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->
 <div align="center">
 <svg height="250" width="700" align="center">
@@ -54,6 +59,10 @@ sidebar:
   </a>
 </svg>
 </div>
+
+<!-- <p id="desc"></p>
+<script>
+</script> -->
 
 <table>
 <tr style="border-bottom: thin dotted grey;">
