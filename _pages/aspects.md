@@ -115,7 +115,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <div align="center">
 <svg height="250" width="700">
-  <a href="" onclick="openTab('p');">
+  <a href="#p" onclick="openTab('p');">
     <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
     <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
   </a>
