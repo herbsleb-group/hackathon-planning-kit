@@ -18,6 +18,22 @@ sidebar:
   svg text {
    font-family: FontAwesome;
  }
+ .round-button {
+   display:block;
+   width:100px;
+   height:100px;
+   line-height:80px;
+   text-align:center;
+   border: 0px solid #4285F4;
+   border-radius: 50%;
+   background: #4285F4;
+   opacity: 0.8;
+   z-index: -1;
+
+}
+.round-button:hover {
+   opacity: 0.5;
+}
 </style>
   <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
