@@ -66,19 +66,28 @@ img {
   <td style="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;"></td>
+  <td class="ver-cell ver-has-bar">
+    <span class="ver-line ver-color-3"></span>
+    <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;">
+  </td>
   <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Scientist</td>
   <td style="vertical-align: bottom;">GitHub</td>
   <td style="vertical-align: bottom; text-align: right;">annafil [at] gmail.com</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
+  <td class="ver-cell ver-has-bar">
+    <span class="ver-line ver-color-4"></span>
+    <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;">
+  </td>
   <td style="vertical-align: bottom;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: bottom; text-align: right;">alexander.nolte [at] ut.ee</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
+  <td class="ver-cell ver-has-bar">
+    <span class="ver-line ver-color-4"></span>
+    <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;">
+  </td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: bottom; text-align: right;">eipa [at] cmu.edu</td>
