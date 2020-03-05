@@ -329,7 +329,7 @@ function openTab(tabName) {
       <circle cx="65" cy="100" r="2px"/>
       <text x="135" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project selection</text>
       <circle cx="65" cy="120" r="2px"/>
-      <text x="135" y="125" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scoping checkpoints</text>
+      <text x="145" y="125" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scoping checkpoints</text>
       <circle cx="65" cy="140" r="2px"/>
       <text x="135" y="145" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Duration / Breaks</text>
       <circle cx="65" cy="160" r="2px"/>
