@@ -297,7 +297,7 @@ function openTab(tabName) {
       <text x="150" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
   </g>
   <g>
-      <circle cx="400" cy="50" r="20" stroke="#3b99a7" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <circle cx="400" cy="50" r="20" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8"/>
       <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
       <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Teams</text>
       <circle cx="440" cy="65" r="2px"/>
@@ -317,7 +317,7 @@ function openTab(tabName) {
 <div align="center">
 <svg height="200" width="700">
   <g>
-      <circle cx="25" cy="25" r="20" stroke="#78C257" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <circle cx="25" cy="25" r="20" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
       <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
       <text x="90" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Process</text>
       <circle cx="65" cy="40" r="2px"/>
@@ -336,7 +336,7 @@ function openTab(tabName) {
       <text x="160" y="165" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
   <g>
-      <circle cx="350" cy="25" r="20" stroke="#F4B400" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <circle cx="350" cy="25" r="20" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
       <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
       <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
       <circle cx="395" cy="40" r="2px"/>
@@ -349,7 +349,7 @@ function openTab(tabName) {
       <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
   </g>
   <g>
-    <circle cx="500" cy="25" r="20" stroke="#DB4437" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+    <circle cx="500" cy="25" r="20" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
     <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
     <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
     <circle cx="395" cy="40" r="2px"/>
