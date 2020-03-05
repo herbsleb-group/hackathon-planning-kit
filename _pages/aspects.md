@@ -262,15 +262,17 @@ function openTab(tabName) {
 <table>
   <tr>
     <td>
+    <svg width="50" height="50">
       <circle cx="50" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="50" y="55" style="font-size:18px; fill:white; text-anchor:middle;">01</text>
+    </svg>
     </td>
     <td>
       Projects
       <ul>
         <li>Innovativeness</li>
         <li>Scope</li>
-      <ul>
+      </ul>
     </td>
   </tr>
 <table>
