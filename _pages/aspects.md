@@ -299,17 +299,17 @@ function openTab(tabName) {
   <g>
       <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
-      <text x="520" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Teams</text>
-      <circle cx="495" cy="65" r="2px"/>
-      <text x="555" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Motivation(s)</text>
-      <circle cx="495" cy="85" r="2px"/>
-      <text x="530" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Background(s)</text>
-      <circle cx="495" cy="105" r="2px"/>
-      <text x="575" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Skill(s)</text>
-      <circle cx="495" cy="125" r="2px"/>
-      <text x="570" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Familiarity</text>
-      <circle cx="495" cy="145" r="2px"/>
-      <text x="550" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Role distribution</text>
+      <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Teams</text>
+      <circle cx="440" cy="65" r="2px"/>
+      <text x="500" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Motivation(s)</text>
+      <circle cx="440" cy="85" r="2px"/>
+      <text x="505" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Background(s)</text>
+      <circle cx="440" cy="105" r="2px"/>
+      <text x="480" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Skill(s)</text>
+      <circle cx="440" cy="125" r="2px"/>
+      <text x="490" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Familiarity</text>
+      <circle cx="440" cy="145" r="2px"/>
+      <text x="510" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Role distribution</text>
   </g>
 </svg>
 </div>
