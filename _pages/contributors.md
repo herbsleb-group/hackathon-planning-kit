@@ -11,6 +11,9 @@ classes: wide
 .td {
   vertical-align: bottom;
 }
+img {
+  border-radius: 50%;
+}
 </style>
 
 <table style="width: 100%;">
