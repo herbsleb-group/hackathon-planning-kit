@@ -317,19 +317,23 @@ function openTab(tabName) {
 <div align="center">
 <svg height="250" width="700">
   <g>
-      <circle cx="30" cy="30" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="30" y="35" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">01</text>
-      <text x="120" y="35" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Process</text>
-      <circle cx="95" cy="65" r="2px"/>
-      <text x="155" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Innovativeness</text>
-      <circle cx="95" cy="85" r="2px"/>
-      <text x="130" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scope</text>
-      <circle cx="95" cy="105" r="2px"/>
-      <text x="175" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical complexity</text>
-      <circle cx="95" cy="125" r="2px"/>
-      <text x="170" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Content complexity</text>
-      <circle cx="95" cy="145" r="2px"/>
-      <text x="150" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
+      <circle cx="25" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">01</text>
+      <text x="90" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Process</text>
+      <circle cx="65" cy="40" r="2px"/>
+      <text x="130" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Pre-hackathon (events)</text>
+      <circle cx="65" cy="60" r="2px"/>
+      <text x="105" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Ideation</text>
+      <circle cx="65" cy="80" r="2px"/>
+      <text x="150" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Team formation</text>
+      <circle cx="65" cy="100" r="2px"/>
+      <text x="145" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project selection</text>
+      <circle cx="65" cy="120" r="2px"/>
+      <text x="125" y="125" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scoping checkpoints</text>
+      <circle cx="65" cy="140" r="2px"/>
+      <text x="125" y="145" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Duration / Breaks</text>
+      <circle cx="65" cy="160" r="2px"/>
+      <text x="125" y="160" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
   <!-- <g>
       <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
