@@ -315,69 +315,54 @@ function openTab(tabName) {
 </div>
 
 <div align="center">
-<svg height="200" width="700">
+<svg height="250" width="900">
   <g>
-      <circle cx="25" cy="25" r="20" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"/>
+      <circle cx="25" cy="25" r="20" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8"></circle>
       <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
       <text x="90" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Process</text>
-      <circle cx="65" cy="40" r="2px"/>
+      <circle cx="65" cy="40" r="2px"></circle>
       <text x="155" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Pre-hackathon (events)</text>
-      <circle cx="65" cy="60" r="2px"/>
+      <circle cx="65" cy="60" r="2px"></circle>
       <text x="105" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Ideation</text>
-      <circle cx="65" cy="80" r="2px"/>
+      <circle cx="65" cy="80" r="2px"></circle>
       <text x="130" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Team formation</text>
-      <circle cx="65" cy="100" r="2px"/>
+      <circle cx="65" cy="100" r="2px"></circle>
       <text x="135" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project selection</text>
-      <circle cx="65" cy="120" r="2px"/>
+      <circle cx="65" cy="120" r="2px"></circle>
       <text x="145" y="125" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scoping checkpoints</text>
-      <circle cx="65" cy="140" r="2px"/>
+      <circle cx="65" cy="140" r="2px"></circle>
       <text x="135" y="145" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Duration / Breaks</text>
-      <circle cx="65" cy="160" r="2px"/>
+      <circle cx="65" cy="160" r="2px"></circle>
       <text x="160" y="165" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
   <g>
-      <circle cx="350" cy="25" r="20" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"/>
-      <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
-      <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
-      <circle cx="395" cy="40" r="2px"/>
-      <text x="490" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
-      <circle cx="395" cy="60" r="2px"/>
-      <text x="470" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical support</text>
-      <circle cx="395" cy="80" r="2px"/>
-      <text x="465" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
-      <circle cx="65" cy="100" r="2px"/>
-      <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
+      <circle cx="300" cy="25" r="20" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8"></circle>
+      <text x="300" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
+      <text x="365" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
+      <circle cx="340" cy="40" r="2px"></circle>
+      <text x="430" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
+      <circle cx="340" cy="60" r="2px"></circle>
+      <text x="410" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical support</text>
+      <circle cx="340" cy="80" r="2px"></circle>
+      <text x="410" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
+      <circle cx="340" cy="100" r="2px"></circle>
+      <text x="420" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
   </g>
   <g>
-    <circle cx="500" cy="25" r="20" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"/>
-    <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
-    <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
-    <circle cx="395" cy="40" r="2px"/>
-    <text x="490" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Competitive vs Non-competitive events</text>
-    <circle cx="395" cy="60" r="2px"/>
-    <text x="470" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Judging criteria</text>
-    <circle cx="395" cy="80" r="2px"/>
-    <text x="465" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;"># Prizes</text>
-    <circle cx="65" cy="100" r="2px"/>
-    <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Monetary vs Non-monetary</text>
-    <circle cx="65" cy="100" r="2px"/>
-    <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Jury vs Popular vote</text>
+    <circle cx="600" cy="25" r="20" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8"></circle>
+    <text x="600" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">05</text>
+    <text x="680" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
+    <circle cx="640" cy="40" r="2px"></circle>
+    <text x="770" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Competitive vs Non-competitive events</text>
+    <circle cx="640" cy="60" r="2px"></circle>
+    <text x="700" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Judging criteria</text>
+    <circle cx="640" cy="80" r="2px"></circle>
+    <text x="680" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;"># Prizes</text>
+    <circle cx="640" cy="100" r="2px"></circle>
+    <text x="740" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Monetary vs Non-monetary</text>
+    <circle cx="640" cy="120" r="2px"></circle>
+    <text x="720" y="125" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Jury vs Popular vote</text>
   </g>
-  <!-- <g>
-      <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
-      <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
-      <circle cx="440" cy="65" r="2px"/>
-      <text x="500" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Motivation(s)</text>
-      <circle cx="440" cy="85" r="2px"/>
-      <text x="505" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Background(s)</text>
-      <circle cx="440" cy="105" r="2px"/>
-      <text x="480" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Skill(s)</text>
-      <circle cx="440" cy="125" r="2px"/>
-      <text x="490" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Familiarity</text>
-      <circle cx="440" cy="145" r="2px"/>
-      <text x="510" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Role distribution</text>
-  </g> -->
 </svg>
 </div>
 <!-- Option 2 ends -->
