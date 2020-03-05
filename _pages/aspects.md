@@ -336,17 +336,17 @@ function openTab(tabName) {
       <text x="160" y="165" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
   <g>
-      <circle cx="200" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
-      <text x="290" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
-      <circle cx="65" cy="40" r="2px"/>
-      <text x="255" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
-      <circle cx="65" cy="60" r="2px"/>
-      <text x="205" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical support</text>
-      <circle cx="65" cy="80" r="2px"/>
-      <text x="230" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
+      <circle cx="350" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
+      <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
+      <circle cx="395" cy="40" r="2px"/>
+      <text x="490" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
+      <circle cx="395" cy="60" r="2px"/>
+      <text x="470" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical support</text>
+      <circle cx="395" cy="80" r="2px"/>
+      <text x="465" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
       <circle cx="65" cy="100" r="2px"/>
-      <text x="235" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
+      <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
   </g>
   <!-- <g>
       <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
