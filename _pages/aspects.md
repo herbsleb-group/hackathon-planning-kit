@@ -335,22 +335,20 @@ function openTab(tabName) {
       <circle cx="65" cy="160" r="2px"/>
       <text x="160" y="165" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
-  <!-- <g>
-      <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
-      <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentor</text>
-      <circle cx="440" cy="65" r="2px"/>
-      <text x="500" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Motivation(s)</text>
-      <circle cx="440" cy="85" r="2px"/>
-      <text x="505" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Background(s)</text>
-      <circle cx="440" cy="105" r="2px"/>
-      <text x="480" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Skill(s)</text>
-      <circle cx="440" cy="125" r="2px"/>
-      <text x="490" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Familiarity</text>
-      <circle cx="440" cy="145" r="2px"/>
-      <text x="510" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Role distribution</text>
-  </g>
   <g>
+      <circle cx="200" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
+      <text x="290" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
+      <circle cx="65" cy="40" r="2px"/>
+      <text x="255" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
+      <circle cx="65" cy="60" r="2px"/>
+      <text x="205" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical support</text>
+      <circle cx="65" cy="80" r="2px"/>
+      <text x="230" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
+      <circle cx="65" cy="100" r="2px"/>
+      <text x="235" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
+  </g>
+  <!-- <g>
       <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
       <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
