@@ -297,7 +297,7 @@ function openTab(tabName) {
       <text x="150" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
   </g>
   <g>
-      <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <circle cx="400" cy="50" r="20" stroke="#3b99a7" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="400" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">02</text>
       <text x="460" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Teams</text>
       <circle cx="440" cy="65" r="2px"/>
@@ -317,7 +317,7 @@ function openTab(tabName) {
 <div align="center">
 <svg height="200" width="700">
   <g>
-      <circle cx="25" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <circle cx="25" cy="25" r="20" stroke="#78C257" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="25" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
       <text x="90" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Process</text>
       <circle cx="65" cy="40" r="2px"/>
@@ -336,8 +336,8 @@ function openTab(tabName) {
       <text x="160" y="165" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Post-hackathon follow-up</text>
   </g>
   <g>
-      <circle cx="350" cy="25" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">03</text>
+      <circle cx="350" cy="25" r="20" stroke="#F4B400" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+      <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
       <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Mentors</text>
       <circle cx="395" cy="40" r="2px"/>
       <text x="490" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Engagement with teams</text>
@@ -347,6 +347,21 @@ function openTab(tabName) {
       <text x="465" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Project feedback</text>
       <circle cx="65" cy="100" r="2px"/>
       <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Mobile vs Embedded</text>
+  </g>
+  <g>
+    <circle cx="500" cy="25" r="20" stroke="#DB4437" stroke-width="3" fill="#4285F4" opacity="0.8"/>
+    <text x="350" y="30" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">04</text>
+    <text x="420" y="25" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Competition</text>
+    <circle cx="395" cy="40" r="2px"/>
+    <text x="490" y="45" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Competitive vs Non-competitive events</text>
+    <circle cx="395" cy="60" r="2px"/>
+    <text x="470" y="65" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Judging criteria</text>
+    <circle cx="395" cy="80" r="2px"/>
+    <text x="465" y="85" style="font-size:14px; text-anchor:left; font-family:sans-serif;"># Prizes</text>
+    <circle cx="65" cy="100" r="2px"/>
+    <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Monetary vs Non-monetary</text>
+    <circle cx="65" cy="100" r="2px"/>
+    <text x="480" y="105" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Jury vs Popular vote</text>
   </g>
   <!-- <g>
       <circle cx="400" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
