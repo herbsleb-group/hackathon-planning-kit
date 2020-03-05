@@ -268,13 +268,13 @@ function openTab(tabName) {
       <circle cx="95" cy="65" r="2px"/>
       <text x="155" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Innovativeness</text>
       <circle cx="95" cy="85" r="2px"/>
-      <text x="155" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scope</text>
+      <text x="130" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scope</text>
       <circle cx="95" cy="105" r="2px"/>
-      <text x="155" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical complexity</text>
+      <text x="175" y="110" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Technical complexity</text>
       <circle cx="95" cy="125" r="2px"/>
-      <text x="155" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Content complexity</text>
+      <text x="170" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Content complexity</text>
       <circle cx="95" cy="145" r="2px"/>
-      <text x="155" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
+      <text x="150" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
   </a>
 </svg>
 </div>
