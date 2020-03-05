@@ -11,13 +11,28 @@ classes: wide
 .td {
   vertical-align: bottom;
 }
+.ver-line {
+    position: absolute;
+    display: inline-block;
+    height: 100%;
+    width: 6px;
+    left: 0;
+    top:0
+}
+.ver-color-1 {
+    background: #4285F4;
+}
+.ver-color-2 {
+    background:#4285F4;
+}
 img {
   border-radius: 50%;
 }
 </style>
 
 <table style="width: 100%;">
-<tr>
+<tr style="border-top: 2px solid gray;>
+  <td class="ver-line ver-color-1  ver-color-2"></td>
   <td><img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
@@ -35,25 +50,25 @@ img {
   <td style="vertical-align: bottom;">Microsoft Research</td>
   <td style="vertical-align: bottom; text-align: right;">cbird [at] microsoft.com</td>
 </tr> -->
-<tr style="border-top: thin dotted grey; align:bottom">
+<tr style="border-top: 2px solid gray; align:bottom">
   <td><img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher</td>
   <td style="vertical-align: bottom;">Fidelity Investments</td>
   <td style="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
 </tr>
-<tr style="border-top: thin dotted grey; align:bottom">
+<tr style="border-top: 2px solid gray; align:bottom">
   <td><img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Scientist</td>
   <td style="vertical-align: bottom;">GitHub</td>
   <td style="vertical-align: bottom; text-align: right;">annafil [at] gmail.com</td>
 </tr>
-<tr style="border-top: thin dotted grey; align:bottom">
+<tr style="border-top: 2px solid gray; align:bottom">
   <td><img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: bottom; text-align: right;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="border-top: thin dotted grey; border-bottom: thin dotted grey; align:bottom">
+<tr style="border-top: 2px solid gray; border-bottom: thin dotted grey; align:bottom">
   <td><img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
