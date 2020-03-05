@@ -85,7 +85,7 @@ img {
 </tr>
 <tr style="border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-4"></span>
+    <span class="ver-line ver-color-5"></span>
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;">
   </td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
