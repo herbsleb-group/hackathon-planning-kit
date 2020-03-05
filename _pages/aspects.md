@@ -134,7 +134,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
   <a href="#pr" onclick="openTab('pr');">
     <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
-    <text class="fas fa-users" x="310" y="160">&#xf0c0;</text>
+    <text class="fas fa-chart-line" x="310" y="160">&#xf201;</text>
   </a>
 
   <a href="#m" onclick="openTab('m');">
