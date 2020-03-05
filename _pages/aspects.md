@@ -281,9 +281,9 @@ function openTab(tabName) {
 
 <div align="center">
 <svg height="250" width="700">
-  <a href="">
+  <g>
       <circle cx="50" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
-      <text x="50" y="55" style="font-size:18px; fill:white; text-anchor:middle;">01</text>
+      <text x="50" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">01</text>
       <text x="120" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Projects</text>
       <circle cx="95" cy="65" r="2px"/>
       <text x="155" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Innovativeness</text>
@@ -295,7 +295,7 @@ function openTab(tabName) {
       <text x="170" y="130" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Content complexity</text>
       <circle cx="95" cy="145" r="2px"/>
       <text x="150" y="150" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Sustainability</text>
-  </a>
+  </g>
 </svg>
 </div>
 <!-- Option 2 ends -->
