@@ -264,7 +264,7 @@ function openTab(tabName) {
   <a href="">
       <circle cx="50" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
       <text x="50" y="55" style="font-size:18px;fill:white; text-anchor:middle;">01</text>
-      <text x="100" y="50" style="font-size:16px; text-anchor:left;">Projects</text>
+      <text x="130" y="50" style="font-size:16px; text-anchor:left;">Projects</text>
       <circle cx="85" cy="65" r="2px"/>
       <text x="95" y="70" style="font-size:14px; text-anchor:left;">Inovativeness</text>
       <circle cx="85" cy="85" r="2px"/>
