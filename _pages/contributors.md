@@ -31,7 +31,7 @@ img {
 </style>
 
 <table style="width: 100%;">
-<tr style="border-top: 1px solid gray;>
+<tr style="border-top: 1px solid gray;">
   <td><span class="ver-line ver-color-1  ver-color-2"></span></td>
   <td><img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;"></td>
   <td style="vertical-align: bottom;"><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science</td>
