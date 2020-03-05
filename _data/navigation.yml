@@ -6,14 +6,10 @@ main:
         url: /contributors/
 
   - title: "Planning Kit"
-    url: /planningkit/
+    url: /aspects/
     children:
-      - title: "Key Questions"
-        url: /key-questions/
-      - title: "Key Hackathon Aspects"
+      - title: "Key Aspects"
         url: /aspects/
-      - title: "General Guidelines"
-        url: /general-guidelines/
       - title: "Example Hackathons"
         url: /example-trees/
         children:
@@ -21,6 +17,10 @@ main:
             url: /entrepreneurship-tree/
           - title: "Community Building"
             url: /community-building-tree/
+      - title: "Key Questions"
+        url: /key-questions/
+      - title: "General Guidelines"
+        url: /general-guidelines/
       # - title: "Entrapreneurship Hackathon"
       #   url: /entrapreneurship-tree/
       # - title: "Community Building Hackathon"
