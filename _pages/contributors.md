@@ -100,7 +100,7 @@ img {
 <hr>
 <p>We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
 
-<div class="col2">
+<!-- <div class="col2">
 <ol>
   <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
   <li>Dannon Baker (Johns Hopkins University)</li>
@@ -125,7 +125,7 @@ img {
   <li>Jane Hoffswell (University of Washington)</li>
   <li>Chris Holdgraf (University of California, Berkeley)</li>
 </ol>
-</div>
+</div> -->
 <table style="width: 100%;">
   <tr>
     <td  style="vertical-align: top; width:50%">
