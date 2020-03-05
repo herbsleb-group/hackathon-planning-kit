@@ -23,7 +23,16 @@ classes: wide
     background: #4285F4;
 }
 .ver-color-2 {
-    background:#4285F4;
+    background:#3b99a7;
+}
+.ver-color-3 {
+    background:#78C257;
+}
+.ver-color-4 {
+    background:#F4B400;
+}
+.ver-color-5 {
+    background:#DB4437;
 }
 .ver-cell.ver-has-bar {
     position:relative
@@ -36,9 +45,8 @@ img {
 <table style="width: 100%;">
 <tr style="border-top: 1px solid #eeeeee;">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-1 ver-color-2"></span>
+    <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;">
-  </td>
   </td>
   <td style="vertical-align: bottom;">
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
@@ -46,21 +54,14 @@ img {
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: bottom; text-align: right;">jdh [at] cs.cmu.edu</td>
 </tr>
-<!-- <tr style="border-top: thin solid; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/sscallen.jpg" alt="Steve Scallen" style="width:100px;height:100px;"></td>
-  <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/steve-scallen-2221893/"><strong>Steve Scallen</strong></a><br>Principal Design Researcher</td>
-  <td style="vertical-align: bottom;">Microsoft Garage</td>
-  <td style="vertical-align: bottom; text-align: right;">sscallen [at] microsoft.com</td>
-</tr>
-<tr style="border-top: thin solid; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/cbird.jpg" alt="Christian Bird" style="width:100px;height:100px;"></td>
-  <td style="vertical-align: bottom;"><a href="https://www.microsoft.com/en-us/research/people/cbird/"><strong>Christian Bird</strong></a><br>Researcher</td>
-  <td style="vertical-align: bottom;">Microsoft Research</td>
-  <td style="vertical-align: bottom; text-align: right;">cbird [at] microsoft.com</td>
-</tr> -->
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
-  <td><img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;"></td>
-  <td style="vertical-align: bottom;"><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher</td>
+  <td class="ver-cell ver-has-bar">
+    <span class="ver-line ver-color-2"></span>
+    <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;">
+  </td>
+  <td style="vertical-align: bottom;">
+    <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
+  </td>
   <td style="vertical-align: bottom;">Fidelity Investments</td>
   <td style="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
 </tr>
