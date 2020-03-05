@@ -25,6 +25,9 @@ classes: wide
 .ver-color-2 {
     background:#4285F4;
 }
+.ver-cell.ver-has-bar {
+    position:relative
+}
 img {
   border-radius: 50%;
 }
@@ -32,7 +35,7 @@ img {
 
 <table style="width: 100%;">
 <tr style="border-top: 1px solid #eeeeee;">
-  <td>
+  <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1 ver-color-2"></span>
   </td>
   <td>
