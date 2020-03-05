@@ -73,7 +73,7 @@ img {
     <span class="ver-line ver-color-3"></span>
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;">
   </td>
-  <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Scientist</td>
+  <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
   <td style="vertical-align: bottom;">GitHub</td>
   <td style="vertical-align: bottom; text-align: right;">annafil [at] gmail.com</td>
 </tr>
