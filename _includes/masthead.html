@@ -47,7 +47,7 @@
             <li class="masthead__menu-item">
               <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             <!-- S: Added by EP -->
-            {% if link.children != null %}
+            <!-- {% if link.children != null %}
             <ul class="dropdown-content">
               {% for child in link.children %}
                 <!-- {% comment %} internal/external URL check {% endcomment %} -->
@@ -63,11 +63,11 @@
                 {% else %}
                   {% assign active = "" %}
                 {% endif %} -->
-                <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+                <!-- <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
               {% endfor %}
             </ul>
             {% endif %}
-          </li>
+          </li> -->
             <!-- E: Added by EP -->
           {%- endfor -%}
         </ul>
