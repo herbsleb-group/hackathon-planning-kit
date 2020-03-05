@@ -40,6 +40,9 @@ classes: wide
 img {
   border-radius: 50%;
 }
+.col2 {
+  column-count: 2;
+}
 </style>
 
 <table style="width: 100%;">
@@ -95,7 +98,34 @@ img {
 </table>
 
 <hr>
-<p>We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.<p>
+<p>We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
+
+<div class="col2">
+<ol>
+  <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
+  <li>Dannon Baker (Johns Hopkins University)</li>
+  <li>Karen Bhavnani (MCI Group)</li>
+  <li>Christian Bird (Microsoft Research)</li>
+  <li>Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)</li>
+  <li>Sian Brooke (Oxford Internet Institute, University of Oxford)</li>
+  <li>John M. Carroll (Pennsylvania State University)</li>
+  <li>Brad Chapman (Harvard T.H. Chan School of Public Health)</li>
+  <li>Ryan Curtin (Symantec Corporation)</li>
+  <li>Dharma Dailey (University of Washington)</li>
+  <li>James Damon (Harvard-Smithsonian Center for Astrophysics)</li>
+  <li>Margaret Drouhard (University of Washington)</li>
+  <li>Rosta Farzan (University of Pittsburgh)</li>
+  <li>Brittany Fiore-Gartland (University of Washington)</li>
+  <li>Eureka Chen Yew Foong (Northwestern University)</li>
+  <li>R. Stuart Geiger (Berkeley Institute for Data Science)</li>
+  <li>Liz Gerber (Northwestern University)</li>
+  <li>Sourobh Ghosh (Harvard Business School)</li>
+  <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
+  <li>Erin Hoffman (University of Washington)</li>
+  <li>Jane Hoffswell (University of Washington)</li>
+  <li>Chris Holdgraf (University of California, Berkeley)</li>
+</ol>
+</div>
 <table style="width: 100%;">
   <tr>
     <td  style="vertical-align: top; width:50%">
