@@ -259,7 +259,7 @@ function openTab(tabName) {
 
 
 <!-- Option 2 starts -->
-<div align="center">
+<!-- <div align="center">
 <table>
   <tr>
     <td>
@@ -277,9 +277,9 @@ function openTab(tabName) {
     </td>
   </tr>
 <table>
-</div>
+</div> -->
 
-<div>
+<div align="center">
 <svg height="250" width="700">
   <a href="">
       <circle cx="50" cy="50" r="20" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8"/>
