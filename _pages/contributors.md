@@ -108,7 +108,6 @@ img {
 </tr>
 </table>
 
-<hr>
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018.</p>
 <p style="font-size: 18px;">The names are listed in an alphabetical order by surnames.</p>
 <div class="row">
@@ -167,59 +166,103 @@ img {
   </div>
 </div>
 
-<!-- <div class="col2">
-<ol>
-  <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
-  <li>Dannon Baker (Johns Hopkins University)</li>
-  <li>Karen Bhavnani (MCI Group)</li>
-  <li>Christian Bird (Microsoft Research)</li>
-  <li>Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)</li>
-  <li>Sian Brooke (Oxford Internet Institute, University of Oxford)</li>
-  <li>John M. Carroll (Pennsylvania State University)</li>
-  <li>Brad Chapman (Harvard T.H. Chan School of Public Health)</li>
-  <li>Ryan Curtin (Symantec Corporation)</li>
-  <li>Dharma Dailey (University of Washington)</li>
-  <li>James Damon (Harvard-Smithsonian Center for Astrophysics)</li>
-  <li>Margaret Drouhard (University of Washington)</li>
-  <li>Rosta Farzan (University of Pittsburgh)</li>
-  <li>Brittany Fiore-Gartland (University of Washington)</li>
-  <li>Eureka Chen Yew Foong (Northwestern University)</li>
-  <li>R. Stuart Geiger (Berkeley Institute for Data Science)</li>
-  <li>Liz Gerber (Northwestern University)</li>
-  <li>Sourobh Ghosh (Harvard Business School)</li>
-  <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
-  <li>Erin Hoffman (University of Washington)</li>
-  <li>Jane Hoffswell (University of Washington)</li>
-  <li>Chris Holdgraf (University of California, Berkeley)</li>
-</ol>
-</div> -->
-<!-- <table style="width: 100%;">
-  <tr>
-    <td  style="vertical-align: top; width:50%">
-    Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)<br>
-    Dannon Baker (Johns Hopkins University)<br>
-    Karen Bhavnani (MCI Group)<br>
-    Christian Bird (Microsoft Research)<br>
-    Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)<br>
-    Sian Brooke (Oxford Internet Institute, University of Oxford)<br>
-    John M. Carroll (Pennsylvania State University)<br>
-    Brad Chapman (Harvard T.H. Chan School of Public Health)<br>
-    Ryan Curtin (Symantec Corporation)<br>
-    Dharma Dailey (University of Washington)<br>
-    James Damon (Harvard-Smithsonian Center for Astrophysics)<br>
-    Margaret Drouhard (University of Washington)<br>
-    Rosta Farzan (University of Pittsburgh)<br>
-    Brittany Fiore-Gartland (University of Washington)<br>
-    Eureka Chen Yew Foong (Northwestern University)<br>
-    R. Stuart Geiger (Berkeley Institute for Data Science)<br>
-    Liz Gerber (Northwestern University)<br>
-    Sourobh Ghosh (Harvard Business School)<br>
-    Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)<br>
-    Erin Hoffman (University of Washington)<br>
-    Jane Hoffswell (University of Washington)<br>
-    Chris Holdgraf (University of California, Berkeley)<br>
+<table style="width: 100%;">
+  <th>Name</th>
+  <th>Institution</th>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Areej Al-Wabil</td>
+    <td style="width:60%; float=left;">Center for Complex Engineering at KACST and MIT</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Dannon Baker</td>
+    <td style="width:60%; float=left;">Johns Hopkins University</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Karen Bhavnani</td>
+    <td style="width:60%; float=left;">MCI Group</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Christian Bird</td>
+    <td style="width:60%; float=left;">Microsoft Research</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Daina Bouquin</td>
+    <td style="width:60%; float=left;">Harvard-Smithsonian Center for Astrophysics</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Sian Brooke</td>
+    <td style="width:60%; float=left;">Oxford Internet Institute, University of Oxford</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">John M. Carroll</td>
+    <td style="width:60%; float=left;">Pennsylvania State University</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Brad Chapman</td>
+    <td style="width:60%; float=left;">Harvard T.H. Chan School of Public Health</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Ryan Curtin</td>
+    <td style="width:60%; float=left;">Symantec Corporation</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Dharma Dailey</td>
+    <td style="width:60%; float=left;">University of Washington</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">James Damon</td>
+    <td style="width:60%; float=left;">Harvard-Smithsonian Center for Astrophysics</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Margaret Drouhard</td>
+    <td style="width:60%; float=left;">University of Washington</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Rosta Farzan</td>
+    <td style="width:60%; float=left;">University of Pittsburgh</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Brittany Fiore-Gartland</td>
+    <td style="width:60%; float=left;">University of Washington</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Eureka Chen Yew Foong</td>
+    <td style="width:60%; float=left;">Northwestern University</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">R. Stuart Geiger</td>
+    <td style="width:60%; float=left;">Berkeley Institute for Data Science</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Liz Gerber</td>
+    <td style="width:60%; float=left;">Northwestern University</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Sourobh Ghosh</td>
+    <td style="width:60%; float=left;">Harvard Business School</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Robert Gradeck</td>
+    <td style="width:60%; float=left;">Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Erin Hoffman</td>
+    <td style="width:60%; float=left;">University of Washington</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Jane Hoffswell</td>
+    <td style="width:60%; float=left;">University of Washington</td>
+  </tr>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
+    <td style="width:40%; float=left;">Chris Holdgraf</td>
+    <td style="width:60%; float=left;">University of California, Berkeley</td>
+  </tr>
+</table>
 
-    </td>
+
+
+
+    <!--
     <td style="vertical-align: top; width:50%">
     Krithika Jagannath (University of California, Irvine)<br>
     Bonnie E. John (Bloomberg LP)<br>
