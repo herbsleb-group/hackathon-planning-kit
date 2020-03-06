@@ -349,7 +349,7 @@ var link = g.selectAll(".link")
          .delay(function(d, i) { return i * 100; })
          .on("start", function repeat() {
            d3.active(this)
-              .style("stroke-width", 10)
+              .attr("stroke-width", 10)
               .style("stroke", function(d){
                 return linkColor(d.data.level);})
              // .transition()
