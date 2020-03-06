@@ -123,7 +123,7 @@ img {
 </table>
 
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018.</p>
-<p style="font-size: 18px;">The names are listed in an alphabetical order by surnames.</p>
+<p style="font-size: 18px;"><em>Names are listed in an alphabetical order by surnames.</em></p>
 <!-- <div class="row"> -->
   <div class="col">
     <ul style="font-size: 18px;">
@@ -180,7 +180,7 @@ img {
   </div>
 <!-- </div> -->
 
-<table style="width: 100%;">
+<!-- <table style="width: 100%;">
   <th class="td-con-1">Name</th>
   <th class="td-con-1">Institution</th>
   <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee; border-top: 1px solid #eeeeee;">
@@ -271,7 +271,7 @@ img {
     <td class="td-con-1">Chris Holdgraf</td>
     <td class="td-con-2">University of California, Berkeley</td>
   </tr>
-</table>
+</table> -->
 
 
 
