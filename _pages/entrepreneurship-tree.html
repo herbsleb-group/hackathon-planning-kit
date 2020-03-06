@@ -312,8 +312,8 @@ var link = g.selectAll(".link")
     .attr("class", "link")
     // .style("stroke", function(d) { return d.data.level; })
     // .attr("stroke-opacity", 0.4)
-    .style("stroke", function(d){
-      return linkColor(d.data.level);})
+    // .style("stroke", function(d){
+    //   return linkColor(d.data.level);})
     .attr("d", function(d) {
       return "M" + d.x + "," + d.y
                + "C" + d.x + "," + (d.y + d.parent.y) / 2
