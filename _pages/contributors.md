@@ -46,15 +46,13 @@ img {
   text-align: left;
 }
 .col {
-  <!-- position: relative;
+  position: relative;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
   float: left;
   width: 100%;
-  text-align: left; -->
-  column-count: 2;
-  height: 820px;
+  text-align: left;
 }
 .tr-con {
   vertical-align: top;
@@ -123,8 +121,8 @@ img {
 </table>
 
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018.</p>
-<p style="font-size: 18px;"><em>Names are listed in an alphabetical order by surnames.</em></p>
-<!-- <div class="row"> -->
+<p style="font-size: 18px;">The names are listed in an alphabetical order by surnames.</p>
+<div class="row">
   <div class="col">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
@@ -149,10 +147,10 @@ img {
       <li>Erin Hoffman (University of Washington)</li>
       <li>Jane Hoffswell (University of Washington)</li>
       <li>Chris Holdgraf (University of California, Berkeley)</li>
-    <!-- </ul>
+    </ul>
   </div>
   <div class="col">
-    <ul style="font-size: 18px;"> -->
+    <ul style="font-size: 18px;">
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
       <li>Kenneth Joseph (Northeastern University)</li>
@@ -178,7 +176,7 @@ img {
       <li>Mona Wong (San Diego Supercomputer Center, Science Gateways Community)</li>
     </ul>
   </div>
-<!-- </div> -->
+</div>
 
 <!-- <table style="width: 100%;">
   <th class="td-con-1">Name</th>
@@ -273,11 +271,7 @@ img {
   </tr>
 </table> -->
 
-
-
-
-    <!--
-    <td style="vertical-align: top; width:50%">
+    <!-- <td style="vertical-align: top; width:50%">
     Krithika Jagannath (University of California, Irvine)<br>
     Bonnie E. John (Bloomberg LP)<br>
     Kenneth Joseph (Northeastern University)<br>
@@ -301,6 +295,4 @@ img {
     Jamie Whitacre (Project Jupyter)<br>
     Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)<br>
     Mona Wong (San Diego Supercomputer Center, Science Gateways Community)<br>
-    </td>
-  </tr>
-</table> -->
+    </td> -->
