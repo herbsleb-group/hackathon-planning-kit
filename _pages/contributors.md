@@ -43,7 +43,7 @@ img {
 .row {
   margin-right: -15px;
   margin-left: -15px;
-  text-align: center;
+  text-align: left;
 }
 .col {
   position: relative;
@@ -52,7 +52,7 @@ img {
   padding-left: 15px;
   float: left;
   width: 50%;
-  text-align: center;
+  text-align: left;
 }
 </style>
 
@@ -113,7 +113,7 @@ img {
 <p style="font-size: 14px;">The names are listed in an alphabetical order by surnames.</p>
 <div class="row">
   <div class="col">
-    <ul style="line-height: 20px;">
+    <ul style="line-height: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
       <li>Karen Bhavnani (MCI Group)</li>
@@ -139,7 +139,7 @@ img {
     </ul>
   </div>
   <div class="col">
-    <ul style="line-height: 20px;">
+    <ul style="line-height: 18px;">
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
       <li>Kenneth Joseph (Northeastern University)</li>
