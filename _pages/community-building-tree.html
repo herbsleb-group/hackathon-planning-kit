@@ -375,23 +375,7 @@ var node = g.selectAll(".node")
 node.append("circle")
   .attr("r", function(d) { return d.data.value; })
   .style("stroke", function(d) { return d.data.type; })
-  // .style("fill", function(d) { return d.data.type; })
-  .transition()
-    .delay(function(d, i) { return i * 100; })
-    .on("start", function repeat() {
-      d3.active(this)
-          .style("fill", function(d) { return d.data.type; })
-          // .style("stroke", function(d){
-          // return linkColor(d.data.level);})
-          // .transition()
-          //   .style("stroke", function(d){
-          //   return linkColor(d.data.level);})
-            // .style("fill", "green")
-          // .transition()
-          //   .style("fill", "blue")
-        .transition()
-          .on("start", repeat);
-    });
+  .style("fill", function(d) { return d.data.type; });
 
 // adds the text to the node
 node.append("text")
