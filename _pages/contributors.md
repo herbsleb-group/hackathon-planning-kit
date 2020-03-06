@@ -46,13 +46,13 @@ img {
   text-align: left;
 }
 .col {
-  position: relative;
+  <!-- position: relative;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
   float: left;
-  width: 50%;
-  text-align: left;
+  width: 100%;
+  text-align: left; -->
   column-count: 2;
 }
 .tr-con {
