@@ -53,6 +53,7 @@ img {
   float: left;
   width: 50%;
   text-align: left;
+  column-count: 2;
 }
 .tr-con {
   vertical-align: top;
@@ -122,7 +123,7 @@ img {
 
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018.</p>
 <p style="font-size: 18px;">The names are listed in an alphabetical order by surnames.</p>
-<div class="row">
+<!-- <div class="row"> -->
   <div class="col">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
@@ -147,10 +148,10 @@ img {
       <li>Erin Hoffman (University of Washington)</li>
       <li>Jane Hoffswell (University of Washington)</li>
       <li>Chris Holdgraf (University of California, Berkeley)</li>
-    </ul>
+    <!-- </ul>
   </div>
   <div class="col">
-    <ul style="font-size: 18px;">
+    <ul style="font-size: 18px;"> -->
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
       <li>Kenneth Joseph (Northeastern University)</li>
@@ -176,11 +177,11 @@ img {
       <li>Mona Wong (San Diego Supercomputer Center, Science Gateways Community)</li>
     </ul>
   </div>
-</div>
+<!-- </div> -->
 
 <table style="width: 100%;">
-  <th>Name</th>
-  <th>Institution</th>
+  <th class="td-con-1">Name</th>
+  <th class="td-con-1">Institution</th>
   <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee; border-top: 1px solid #eeeeee;">
     <td class="td-con-1">Areej Al-Wabil</td>
     <td class="td-con-2">Center for Complex Engineering at KACST and MIT</td>
