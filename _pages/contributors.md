@@ -54,6 +54,7 @@ img {
   width: 100%;
   text-align: left; -->
   column-count: 2;
+  height: 820px;
 }
 .tr-con {
   vertical-align: top;
