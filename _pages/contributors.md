@@ -139,7 +139,7 @@ img {
     </ul>
   </div>
   <div class="col">
-    <ul style="line-height: 18px;">
+    <ul style="font-size: 18px;">
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
       <li>Kenneth Joseph (Northeastern University)</li>
