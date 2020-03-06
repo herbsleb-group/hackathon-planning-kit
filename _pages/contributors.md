@@ -124,7 +124,7 @@ img {
 <!-- <div class="row">
   <div class="col"> -->
   <div style="column-count: 2; height: 1000px; width: 100%">
-    <ul style="font-size: 18px;">
+    <ol style="font-size: 18px; vertical-align: top;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
       <li>Karen Bhavnani (MCI Group)</li>
@@ -174,7 +174,7 @@ img {
       <li>Jamie Whitacre (Project Jupyter)</li>
       <li>Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)</li>
       <li>Mona Wong (San Diego Supercomputer Center, Science Gateways Community)</li>
-    </ul>
+    </ol>
   <!-- </div> -->
 </div>
 
