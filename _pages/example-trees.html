@@ -28,7 +28,6 @@ sidebar:
 <p>The two most common goals that today's hackathon organizers aim to achieve are <span style="color:#4285F4">community building</span> and <span style="color:#DB4437">entrepreneurship</span>. The organizers and participants may often have other goals in mind which may be orthogonal to the primary goals stated above. Hackathon organizers therefore need to understand that there is no one-size-fit-all solution to hackathon design and there is a trade-off.</p>
 <p>We recommend optimal hackathon features for <span style="color:#4285F4">community building</span>, and <span style="color:#DB4437">entrepreneurship</span>.</p>
 </section>
-<section>
 <div class="row">
   <div class="col">
     <span>
@@ -49,4 +48,15 @@ sidebar:
     <!-- <span style="color:#DB4437"><center>Entrepreneurship</center></span> -->
   </div>
 </div>
-</section>
+<script>
+  function brakechain() {
+  var a;
+  a = document.getElementById("col");
+  a.innerHTML = "&#xf0c1;";
+  setTimeout(function () {
+      a.innerHTML = "&#xf127;";
+    }, 1000);
+  }
+  brakechain();
+  setInterval(brakechain, 2000);
+</script>
