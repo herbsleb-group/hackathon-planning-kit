@@ -22,6 +22,17 @@ sidebar:
     width: 50%;
     text-align: center;
   }
+  .zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </style>
 <section>
@@ -30,7 +41,7 @@ sidebar:
 </section>
 <br>
 <div class="row">
-  <div class="col" id="t1">
+  <div class="col zoom" id="t1">
     <span>
       <a href="{{ relative_url }}/hackathon-planning-kit/community-building-tree">
         <i class="fas fa-tree" style="font-size:120px;color:#4285F4"></i>
@@ -39,7 +50,7 @@ sidebar:
     </span>
     <span style="color:#4285F4"><center>Community Building</center></span>
   </div>
-  <div class="col">
+  <div class="col zoom">
     <span>
       <a href="{{ relative_url }}/hackathon-planning-kit/entrepreneurship-tree">
         <i class="fas fa-tree" style="font-size:120px;color:#DB4437"></i>
