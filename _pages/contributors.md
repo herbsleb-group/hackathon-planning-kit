@@ -51,7 +51,7 @@ img {
   padding-right: 15px;
   padding-left: 15px;
   float: left;
-  width: 100%;
+  width: 50%;
   text-align: left;
 }
 .tr-con {
