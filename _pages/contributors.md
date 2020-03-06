@@ -40,8 +40,19 @@ classes: wide
 img {
   border-radius: 50%;
 }
-.col2 {
-  column-count: 2;
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  text-align: center;
+}
+.col {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+  width: 50%;
+  text-align: center;
 }
 </style>
 
@@ -98,7 +109,63 @@ img {
 </table>
 
 <hr>
-<p>We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
+<p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018.</p>
+<p style="font-size: 14px;">The names are listed in an alphabetical order by surnames.</p>
+<div class="row">
+  <div class="col">
+    <ul style="line-height: 20px;">
+      <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
+      <li>Dannon Baker (Johns Hopkins University)</li>
+      <li>Karen Bhavnani (MCI Group)</li>
+      <li>Christian Bird (Microsoft Research)</li>
+      <li>Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)</li>
+      <li>Sian Brooke (Oxford Internet Institute, University of Oxford)</li>
+      <li>John M. Carroll (Pennsylvania State University)</li>
+      <li>Brad Chapman (Harvard T.H. Chan School of Public Health)</li>
+      <li>Ryan Curtin (Symantec Corporation)</li>
+      <li>Dharma Dailey (University of Washington)</li>
+      <li>James Damon (Harvard-Smithsonian Center for Astrophysics)</li>
+      <li>Margaret Drouhard (University of Washington)</li>
+      <li>Rosta Farzan (University of Pittsburgh)</li>
+      <li>Brittany Fiore-Gartland (University of Washington)</li>
+      <li>Eureka Chen Yew Foong (Northwestern University)</li>
+      <li>R. Stuart Geiger (Berkeley Institute for Data Science)</li>
+      <li>Liz Gerber (Northwestern University)</li>
+      <li>Sourobh Ghosh (Harvard Business School)</li>
+      <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
+      <li>Erin Hoffman (University of Washington)</li>
+      <li>Jane Hoffswell (University of Washington)</li>
+      <li>Chris Holdgraf (University of California, Berkeley)</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul style="line-height: 20px;">
+      <li>Krithika Jagannath (University of California, Irvine)</li>
+      <li>Bonnie E. John (Bloomberg LP)</li>
+      <li>Kenneth Joseph (Northeastern University)</li>
+      <li>Arun Kalyanasundaram (Carnegie Mellon University)</li>
+      <li>Javed Khan (Eindhoven University of Technology)</li>
+      <li>Greg Kiar (McGill University)</li>
+      <li>Meris Mandernach (Ohio State University)</li>
+      <li>Jonathan Morgan (Wikimedia)</li>
+      <li>Aurelia Moser (Mozilla Science Lab)</li>
+      <li>Peter Müller (Technical University Munich)</li>
+      <li>Arnab Nandi (Ohio State University)</li>
+      <li>Je'aime Powell (The Texas Advanced Computing Center)</li>
+      <li>Brooke Sansosti (Carnegie Library of Pittsburgh)</li>
+      <li>Steve Scallen (Microsoft Garage)</li>
+      <li>Brittany Smith</li>
+      <li>Victoria Sosik (Google)</li>
+      <li>Arlin Stoltzfus (NIST)</li>
+      <li>Anissa Tanweer (University of Washington)</li>
+      <li>Anthony Viviano (Bloomberg L.P.)</li>
+      <li>Shahtab Wahid (Bloomberg LP)</li>
+      <li>Jamie Whitacre (Project Jupyter)</li>
+      <li>Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)</li>
+      <li>Mona Wong (San Diego Supercomputer Center, Science Gateways Community)</li>
+    </ul>
+  </div>
+</div>
 
 <!-- <div class="col2">
 <ol>
@@ -126,7 +193,7 @@ img {
   <li>Chris Holdgraf (University of California, Berkeley)</li>
 </ol>
 </div> -->
-<table style="width: 100%;">
+<!-- <table style="width: 100%;">
   <tr>
     <td  style="vertical-align: top; width:50%">
     Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)<br>
@@ -179,4 +246,4 @@ img {
     Mona Wong (San Diego Supercomputer Center, Science Gateways Community)<br>
     </td>
   </tr>
-</table>
+</table> -->
