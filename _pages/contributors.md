@@ -121,10 +121,9 @@ img {
 </table>
 <br>
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
-<!-- <div class="row">
-  <div class="col"> -->
-  <div style="column-count: 2; height: 950px; width: 100%">
-    <ol style="font-size: 18px; vertical-align: top;">
+<div class="row">
+  <div class="col">
+    <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
       <li>Karen Bhavnani (MCI Group)</li>
@@ -146,6 +145,10 @@ img {
       <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
       <li>Erin Hoffman (University of Washington)</li>
       <li>Jane Hoffswell (University of Washington)</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul style="font-size: 18px;">
       <li>Chris Holdgraf (University of California, Berkeley)</li>
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
@@ -170,7 +173,8 @@ img {
       <li>Jamie Whitacre (Project Jupyter)</li>
       <li>Nancy Wilkins-Diehr (San Diego Supercomputer Center, Science Gateways Community)</li>
       <li>Mona Wong (San Diego Supercomputer Center, Science Gateways Community)</li>
-    </ol>
+    </ul>
+  </div>
 </div>
 
 <!-- <table style="width: 100%;">
