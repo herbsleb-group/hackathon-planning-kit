@@ -38,9 +38,9 @@
             {% endif %}
 
             <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
-            {% if nav.nav.children != null %}
+            {% if nav.children.children != null %}
             <ul>
-              {% for child in nav.nav.children %}
+              {% for child in nav.children.children %}
                 {% comment %} internal/external URL check {% endcomment %}
                 {% if child.url contains "://" %}
                   {% assign child_url = child.url %}
