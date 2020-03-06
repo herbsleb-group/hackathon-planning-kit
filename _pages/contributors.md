@@ -54,6 +54,18 @@ img {
   width: 50%;
   text-align: left;
 }
+.tr-con {
+  vertical-align: top;
+  border-bottom: 1px solid #eeeeee;
+}
+.td-con-1 {
+  width: 20%;
+  float: left;
+}
+.td-con-2 {
+  width: 30%;
+  float: left;
+}
 </style>
 
 <table style="width: 100%;">
@@ -169,93 +181,93 @@ img {
 <table style="width: 100%;">
   <th>Name</th>
   <th>Institution</th>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Areej Al-Wabil</td>
-    <td style="width:60%; float=left;">Center for Complex Engineering at KACST and MIT</td>
+  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee; border-top: 1px solid #eeeeee;">
+    <td class="td-con-1">Areej Al-Wabil</td>
+    <td class="td-con-2">Center for Complex Engineering at KACST and MIT</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Dannon Baker</td>
-    <td style="width:60%; float=left;">Johns Hopkins University</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Dannon Baker</td>
+    <td class="td-con-2">Johns Hopkins University</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Karen Bhavnani</td>
-    <td style="width:60%; float=left;">MCI Group</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Karen Bhavnani</td>
+    <td class="td-con-2">MCI Group</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Christian Bird</td>
-    <td style="width:60%; float=left;">Microsoft Research</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Christian Bird</td>
+    <td class="td-con-2">Microsoft Research</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Daina Bouquin</td>
-    <td style="width:60%; float=left;">Harvard-Smithsonian Center for Astrophysics</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Daina Bouquin</td>
+    <td class="td-con-2">Harvard-Smithsonian Center for Astrophysics</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Sian Brooke</td>
-    <td style="width:60%; float=left;">Oxford Internet Institute, University of Oxford</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Sian Brooke</td>
+    <td class="td-con-2">Oxford Internet Institute, University of Oxford</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">John M. Carroll</td>
-    <td style="width:60%; float=left;">Pennsylvania State University</td>
+  <tr class="tr-con">
+    <td class="td-con-1">John M. Carroll</td>
+    <td class="td-con-2">Pennsylvania State University</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Brad Chapman</td>
-    <td style="width:60%; float=left;">Harvard T.H. Chan School of Public Health</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Brad Chapman</td>
+    <td class="td-con-2">Harvard T.H. Chan School of Public Health</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Ryan Curtin</td>
-    <td style="width:60%; float=left;">Symantec Corporation</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Ryan Curtin</td>
+    <td class="td-con-2">Symantec Corporation</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Dharma Dailey</td>
-    <td style="width:60%; float=left;">University of Washington</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Dharma Dailey</td>
+    <td class="td-con-2">University of Washington</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">James Damon</td>
-    <td style="width:60%; float=left;">Harvard-Smithsonian Center for Astrophysics</td>
+  <tr class="tr-con">
+    <td class="td-con-1">James Damon</td>
+    <td class="td-con-2">Harvard-Smithsonian Center for Astrophysics</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Margaret Drouhard</td>
-    <td style="width:60%; float=left;">University of Washington</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Margaret Drouhard</td>
+    <td class="td-con-2">University of Washington</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Rosta Farzan</td>
-    <td style="width:60%; float=left;">University of Pittsburgh</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Rosta Farzan</td>
+    <td class="td-con-2">University of Pittsburgh</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Brittany Fiore-Gartland</td>
-    <td style="width:60%; float=left;">University of Washington</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Brittany Fiore-Gartland</td>
+    <td class="td-con-2">University of Washington</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Eureka Chen Yew Foong</td>
-    <td style="width:60%; float=left;">Northwestern University</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Eureka Chen Yew Foong</td>
+    <td class="td-con-2">Northwestern University</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">R. Stuart Geiger</td>
-    <td style="width:60%; float=left;">Berkeley Institute for Data Science</td>
+  <tr class="tr-con">
+    <td class="td-con-1">R. Stuart Geiger</td>
+    <td class="td-con-2">Berkeley Institute for Data Science</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Liz Gerber</td>
-    <td style="width:60%; float=left;">Northwestern University</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Liz Gerber</td>
+    <td class="td-con-2">Northwestern University</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Sourobh Ghosh</td>
-    <td style="width:60%; float=left;">Harvard Business School</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Sourobh Ghosh</td>
+    <td class="td-con-2">Harvard Business School</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Robert Gradeck</td>
-    <td style="width:60%; float=left;">Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Robert Gradeck</td>
+    <td class="td-con-2">Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Erin Hoffman</td>
-    <td style="width:60%; float=left;">University of Washington</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Erin Hoffman</td>
+    <td class="td-con-2">University of Washington</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Jane Hoffswell</td>
-    <td style="width:60%; float=left;">University of Washington</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Jane Hoffswell</td>
+    <td class="td-con-2">University of Washington</td>
   </tr>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee;">
-    <td style="width:40%; float=left;">Chris Holdgraf</td>
-    <td style="width:60%; float=left;">University of California, Berkeley</td>
+  <tr class="tr-con">
+    <td class="td-con-1">Chris Holdgraf</td>
+    <td class="td-con-2">University of California, Berkeley</td>
   </tr>
 </table>
 
