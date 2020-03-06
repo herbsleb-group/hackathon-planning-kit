@@ -123,7 +123,7 @@ img {
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
 <!-- <div class="row">
   <div class="col"> -->
-  <div style="column-count: 2; height: 500px">
+  <div style="column-count: 2; height: 1000px; width: 100%">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
