@@ -22,11 +22,9 @@ sidebar:
     width: 30%;
     text-align: center;
   }
-  .zoom {
-}
-.zoom:hover {
-  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
+.img:hover {
+  opacity: 0.5;
+  }
   <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </style>
 <section>
@@ -35,20 +33,20 @@ sidebar:
 </section>
 <br>
 <div class="row">
-  <div class="col zoom" id="t1">
+  <div class="col">
     <span>
       <a href="{{ relative_url }}/hackathon-planning-kit/community-building-tree">
-        <i class="fas fa-tree" style="font-size:120px;color:#4285F4"></i>
-        <!-- <img src="/hackathon-planning-kit/images/community-tree.png" alt="Community Building Hackathon" style="width:300px; height:300px; border-radius:30%;"> -->
+        <!-- <i class="fas fa-tree" style="font-size:120px;color:#4285F4"></i> -->
+        <img src="/hackathon-planning-kit/images/community-tree.png" alt="Community Building Hackathon" style="width:300px; height:300px; border-radius:30%;">
       </a>
     </span>
     <span style="color:#4285F4"><center>Community Building</center></span>
   </div>
-  <div class="col zoom">
+  <div class="col">
     <span>
       <a href="{{ relative_url }}/hackathon-planning-kit/entrepreneurship-tree">
-        <i class="fas fa-tree" style="font-size:120px;color:#DB4437"></i>
-        <!-- <img src="/hackathon-planning-kit/images/entrepreneurship-tree.png" alt="Entrepreneurship Hackathon" style="width:300px;height:300px; border-radius:30%;"> -->
+        <!-- <i class="fas fa-tree" style="font-size:120px;color:#DB4437"></i> -->
+        <img src="/hackathon-planning-kit/images/entrepreneurship-tree.png" alt="Entrepreneurship Hackathon" style="width:300px;height:300px; border-radius:30%;">
       </a>
     </span>
     <span style="color:#DB4437"><center>Entrepreneurship</center></span>
