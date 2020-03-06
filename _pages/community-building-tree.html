@@ -312,14 +312,29 @@ var link = g.selectAll(".link")
     .attr("class", "link")
     // .style("stroke", function(d) { return d.data.level; })
     // .attr("stroke-opacity", 0.4)
-    .style("stroke", function(d){
-      return linkColor(d.data.level);})
+    // .style("stroke", function(d){
+    //   return linkColor(d.data.level);})
     .attr("d", function(d) {
       return "M" + d.x + "," + d.y
                + "C" + d.x + "," + (d.y + d.parent.y) / 2
                + " " + d.parent.x + "," +  (d.y + d.parent.y) / 2
                + " " + d.parent.x + "," + d.parent.y;
-       });
+       })
+       .transition()
+         .delay(function(d, i) { return i * 100; })
+         .on("start", function repeat() {
+           d3.active(this)
+               .style("stroke", function(d){
+               return linkColor(d.data.level);})
+               // .transition()
+               //   .style("stroke", function(d){
+               //   return linkColor(d.data.level);})
+                 // .style("fill", "green")
+               // .transition()
+               //   .style("fill", "blue")
+             .transition()
+               .on("start", repeat);
+         });
 
 // adds each node as a group
 var node = g.selectAll(".node")

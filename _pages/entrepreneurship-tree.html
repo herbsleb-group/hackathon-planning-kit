@@ -30,7 +30,7 @@ sidebar:
   stroke-width: 2px;
 }
 </style>
-<p>The entrepreneurship hackathons are used to
+<p>The entrepreneurship hackathons are used to X.
   The tree below is an excellent example of a hackathon that could be used for <span style="color:#DB4437">entrepreneurship or creating start-ups</span>.</p>
 
 <p>The highlighted paths in the tree illustrate the important aspects that organizers should focus on but the paths that are greyed out should not be discarded.</p>
@@ -319,7 +319,22 @@ var link = g.selectAll(".link")
                + "C" + d.x + "," + (d.y + d.parent.y) / 2
                + " " + d.parent.x + "," +  (d.y + d.parent.y) / 2
                + " " + d.parent.x + "," + d.parent.y;
-       });
+       })
+       .transition()
+         .delay(function(d, i) { return i * 100; })
+         .on("start", function repeat() {
+           d3.active(this)
+               .style("stroke", function(d){
+               return linkColor(d.data.level);})
+               // .transition()
+               //   .style("stroke", function(d){
+               //   return linkColor(d.data.level);})
+                 // .style("fill", "green")
+               // .transition()
+               //   .style("fill", "blue")
+             .transition()
+               .on("start", repeat);
+         });
 
 // adds each node as a group
 var node = g.selectAll(".node")
