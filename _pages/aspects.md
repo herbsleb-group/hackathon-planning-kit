@@ -117,38 +117,40 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <i class="fas fa-medal" style="font-size:36px; left: 370px; top: 50px;" aria-hidden="true"></i>
 </p> -->
 
-<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->                       
+<!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->  
 
-<div align="center">
-<svg height="250" width="700">
-  <a href="#p" onclick="openTab('p');">
-    <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
-    <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
-  </a>
+{% if chromeAgent = userAgentString.indexOf("Chrome") > -1 %} {}
+{% else %}
+  <div align="center">
+  <svg height="250" width="700">
+    <a href="#p" onclick="openTab('p');">
+      <circle cx="150" cy="150" r="50" stroke="#4285F4" stroke-width="3" fill="#4285F4" opacity="0.8" class="chover"/>
+      <text class="fas fa-briefcase" x="150" y="160">&#xf0b1;</text>
+    </a>
 
-  <a href="#t" onclick="openTab('t');">
-    <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8" class="chover"/>
-    <text class="fas fa-users" x="230" y="160">&#xf0c0;</text>
-  </a>
+    <a href="#t" onclick="openTab('t');">
+      <circle cx="230" cy="150" r="50" stroke="#3b99a7" stroke-width="3" fill="#3b99a7" opacity="0.8" class="chover"/>
+      <text class="fas fa-users" x="230" y="160">&#xf0c0;</text>
+    </a>
 
 
-  <a href="#pr" onclick="openTab('pr');">
-    <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
-    <text class="fas fa-chart-line" x="310" y="160">&#xf201;</text>
-  </a>
+    <a href="#pr" onclick="openTab('pr');">
+      <circle cx="310" cy="150" r="50" stroke="#78C257" stroke-width="3" fill="#78C257" opacity="0.8" class="chover"/>
+      <text class="fas fa-chart-line" x="310" y="160">&#xf201;</text>
+    </a>
 
-  <a href="#m" onclick="openTab('m');">
-    <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8" class="chover"/>
-    <text class="fas fa-graduation-cap" x="390" y="160">&#xf19d;</text>
-  </a>
+    <a href="#m" onclick="openTab('m');">
+      <circle cx="390" cy="150" r="50" stroke="#F4B400" stroke-width="3" fill="#F4B400" opacity="0.8" class="chover"/>
+      <text class="fas fa-graduation-cap" x="390" y="160">&#xf19d;</text>
+    </a>
 
-  <a href="#c" onclick="openTab('c');">
-    <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8" class="chover"/>
-    <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
-  </a>
-</svg>
-</div>
-
+    <a href="#c" onclick="openTab('c');">
+      <circle cx="470" cy="150" r="50" stroke="#DB4437" stroke-width="3" fill="#DB4437" opacity="0.8" class="chover"/>
+      <text class="fas fa-medal" x="470" y="168">&#xf5a2;</text>
+    </a>
+  </svg>
+  </div>
+{% endif %}
 
 <!-- <div class="container">
   <div class="col fontnew" style="background: #4285F4;">
