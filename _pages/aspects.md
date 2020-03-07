@@ -119,7 +119,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
 
 <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->  
 
-{% if chromeAgent = userAgentString.indexOf("Chrome") > -1 %} {}
+{% if userAgentString.indexOf("Chrome") > -1 %} {}
 {% else %}
   <div align="center">
   <svg height="250" width="700">
