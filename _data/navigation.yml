@@ -13,10 +13,10 @@ main:
       - title: "Example Hackathons"
         url: /example-trees/
         children:
-          - title: "Entrepreneurship"
-            url: /entrepreneurship-tree/
           - title: "Community Building"
             url: /community-building-tree/
+          - title: "Entrepreneurship"
+            url: /entrepreneurship-tree/
       - title: "Key Questions"
         url: /key-questions/
       - title: "General Guidelines"
