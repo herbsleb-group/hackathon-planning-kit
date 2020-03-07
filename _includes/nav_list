@@ -38,6 +38,7 @@
             {% endif %}
 
             <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+
             {% if child.children != null %}
             <ul>
               {% for child in child.children %}
