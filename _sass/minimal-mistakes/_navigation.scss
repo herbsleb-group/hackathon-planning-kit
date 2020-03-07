@@ -515,6 +515,10 @@
     border-top-right-radius: $border-radius;
   }
 
+  .nav__title{
+    padding-left: 0.75rem;
+  }
+
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
     @include yiq-contrasted($active-color);
@@ -565,7 +569,4 @@
   li ul li ul li ul li ul li ul > li a {
     padding-left: 3.25rem
   }
-}
-ul.ul.li.ul > li a {
-padding-left: 0.75rem;
 }
