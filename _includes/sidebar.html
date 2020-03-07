@@ -22,13 +22,6 @@
   {% endif %}
   </div> -->
   <button class="openbtn" onclick="openNav()">☰</button>
-  <div id="mySidepanel" class="sidepanel">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Clients</a>
-    <a href="#">Contact</a>
-  </div>
 {% endif %}
 <style>
 .sidepanel  {
@@ -78,6 +71,13 @@
   background-color:#444;
 }
 </style>
+<div id="mySidepanel" class="sidepanel">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
 <script>
 function openNav() {
   document.getElementById("mySidepanel").style.width = "250px";
