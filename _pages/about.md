@@ -3,6 +3,9 @@ layout: single
 permalink: /aboutus/
 title: "About"
 author_profile: false
+classes: wide
+sidebar:
+  nav: "main"
 ---
 
 <!-- Based on our empirical study of 14 hackathons including:
