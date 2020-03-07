@@ -14,7 +14,8 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 <br>
 
 <hr> -->
-This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.<br><br>
+<p>This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.</p>
+<div style="text-align:center">
 <table style="width: 100%;">
   <tr>
     <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:auto;"></td>
@@ -27,10 +28,12 @@ This research project is the joint effort of [Institute for Software Research][1
     <td><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width:450px;height:auto;"></td>
   </tr>
 </table>
+</div>
 
 <hr>
-We are also supported by Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), and Science Gateways Community Institute (SGCI). <br><br>
-<table>
+<p>We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackahtons.</p>
+<div style="text-align:center">
+<table style="width: 100%;">
   <tr style="width: 100%;">
     <td><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -41,6 +44,7 @@ We are also supported by Microsoft Research, Microsoft Garage, Space Telescope S
     <td><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></td>
   </tr>
 </table>
+</div>
 
 [1]:  https://www.isri.cmu.edu/
 [2]:  https://www.cs.ut.ee/en
