@@ -21,7 +21,7 @@ twitter_username: username
 repository: "eipapa/hackathon-planning-kit"
 minimal_mistakes_skin: default # aqua
 search: true
-breadcrumbs: true
+breadcrumbs: false
 url:  "https://eipapa.github.io"
 baseurl: "/hackathon-planning-kit"
 
