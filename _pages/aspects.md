@@ -120,9 +120,9 @@ Desiging a hackahton involves taking consideration of several important aspects 
 <!-- <text class="fas fa-briefcase" x="130" y="160" style="font-size:36px">&#xf0b1;</text> -->  
 
 {% if userAgentString.indexOf("Chrome") > -1 %} {
-  <p>The user is using the Chrome browser.</p>
+  <p>The user is using Chrome browser.</p>
 }
-{% else %}
+{% else %}{
   <div align="center">
   <svg height="250" width="700">
     <a href="#p" onclick="openTab('p');">
@@ -152,6 +152,7 @@ Desiging a hackahton involves taking consideration of several important aspects 
     </a>
   </svg>
   </div>
+}
 {% endif %}
 
 <!-- <div class="container">
