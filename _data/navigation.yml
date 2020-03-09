@@ -10,6 +10,10 @@ main:
     children:
       - title: "Key Aspects"
         url: /aspects/
+      - title: "Key Questions"
+        url: /key-questions/
+      - title: "General Guidelines"
+        url: /general-guidelines/
       - title: "Example Hackathons"
         url: /example-trees/
         children:
@@ -17,10 +21,6 @@ main:
             url: /community-building-tree/
           - title: "Entrepreneurship"
             url: /entrepreneurship-tree/
-      - title: "Key Questions"
-        url: /key-questions/
-      - title: "General Guidelines"
-        url: /general-guidelines/
       # - title: "Entrapreneurship Hackathon"
       #   url: /entrapreneurship-tree/
       # - title: "Community Building Hackathon"
