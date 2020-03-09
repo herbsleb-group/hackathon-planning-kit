@@ -58,7 +58,8 @@ classes: wide
   <div id="tree"></div>
 <!-- </div> -->
 <!-- <div class="col-r"> -->
-<div>In the tree above:
+<div>
+  In the tree above:
   <ul>
     <li>the root node represents the goal,</li>
     <li>all interior nodes are decision nodes and contain high-level features (e.g., <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>)</li>
@@ -343,7 +344,7 @@ var margin = {top: 20, right: 50, bottom: 10, left: 50},
 
 // declares a tree layout and assigns the size
 var treemap = d3.tree()
-    .size([width, height]);
+    .size([height, width]);
 
 //  assigns the data to a hierarchy using parent-child relationships
 var nodes = d3.hierarchy(treeData, function(d) {
@@ -452,4 +453,3 @@ function linkColor(linkCode) {
 }
 
 </script>
-<!-- </body> -->
