@@ -53,12 +53,12 @@ classes: wide
 </style>
   <p>The entrepreneurship hackathons are typically held for <span style="color:#DB4437">creating start-ups</span>. One important aspect in this type of hackathon is the follow-up activities that increase the sustainability of projects. Specifically, organizers should connect the hackathon teams with potential stakeholders and create opportunities to present and showcase the hackathon projects to a larger audience beyond the event participants.</p>
   <p>The following tree with activated links is a great example of hackathon for entrepreneurship or creating start-ups.</p>
-  <!-- <div class="row">
-    <div class="col-l"> -->
-      <div id="tree" class=".col-l"></div>
-    <!-- </div>
-    <div class="col-r"> -->
-      <div style="font-size: 18px">In the tree above,
+  <div class="row">
+    <div class="col-l">
+      <div id="tree"></div>
+    </div>
+    <div class="col-r">
+      <div style="font-size: 16px">In the tree above,
         <ul>
           <li>the root node represents the goal,</li>
           <li>all interior nodes are decision nodes and contain high-level features (e.g., <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>)</li>
@@ -66,8 +66,8 @@ classes: wide
           <li>the activated links colored in <span style="color:#DB4437">red</span> show the paths to the important features that the organizers need to focus on but the inactivated links should not be discarded.</li>
         </ul>
       </div>
-  <!-- </div>
-</div> -->
+  </div>
+</div>
 
 <!-- load the d3.js library -->
 <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -341,7 +341,7 @@ var treeData =
 //     width = 1000 - margin.left - margin.right,
 //     height = 900 - margin.top - margin.bottom;
 var margin = {top: 20, right: 10, bottom: 10, left: 10},
-    width = 900 - margin.left - margin.right,
+    width = 600 - margin.left - margin.right,
     height = 900 - margin.top - margin.bottom;
 
 // declares a tree layout and assigns the size
