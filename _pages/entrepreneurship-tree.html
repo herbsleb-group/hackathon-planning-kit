@@ -341,13 +341,13 @@ var treeData =
 //     width = 1000 - margin.left - margin.right,
 //     height = 900 - margin.top - margin.bottom;
 var margin = {top: 20, right: 10, bottom: 10, left: 10},
-    width = 750 - margin.left - margin.right,
-    height = 900 - margin.top - margin.bottom;
+    width = 900 - margin.left - margin.right,
+    height = 750 - margin.top - margin.bottom;
 
 // declares a tree layout and assigns the size
 var treemap = d3.tree()
-    .size([height, width])
-    .separation(() => 1);
+    .size([width, height])
+    // .separation(() => 1);
 
 //  assigns the data to a hierarchy using parent-child relationships
 var nodes = d3.hierarchy(treeData, function(d) {
