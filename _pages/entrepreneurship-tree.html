@@ -1,15 +1,17 @@
 ---
-layout: archive
+layout: single
 title: "Hackathon for Entrepreneurship"
 permalink: /entrepreneurship-tree/
 author_profile: false
+classes: wide
 sidebar:
   nav: "main"
-classes: wide
 ---
+
 <!-- <!DOCTYPE html>
 <meta charset="utf-8"> -->
 <style> /* set the CSS */
+
 .node circle {
   fill: #fff;
   stroke: steelblue;
@@ -27,49 +29,17 @@ classes: wide
   stroke: #ccc;
   stroke-width: 2px;
 }
-.row {
-  margin-right: -15px;
-  margin-left: -15px;
-  text-align: left;
-}
-.col-l {
-  position: relative;
-  min-height: 1px;
-  padding-right: 0px;
-  padding-left: 0px;
-  float: left;
-  width: 60%;
-  text-align: left;
-}
-.col-r {
-  position: relative;
-  min-height: 1px;
-  padding-right: 0px;
-  padding-left: 0px;
-  float: left;
-  width: 40%;
-  text-align: left;
-}
 </style>
-  <div id="tree" style="text-align: center;"></div>
-  <p>The entrepreneurship hackathons are typically held for <span style="color:#DB4437">creating start-ups</span>. One important aspect in this type of hackathon is the follow-up activities that increase the sustainability of projects. Specifically, organizers should connect the hackathon teams with potential stakeholders and create opportunities to present and showcase the hackathon projects to a larger audience beyond the event participants.</p>
-  <p>The following tree with activated links is a great example of hackathon for entrepreneurship or creating start-ups.</p>
-  <div class="row">
-    <div class="col-l">
-      <!-- <div id="tree"></div> -->
-    </div>
-    <div class="col-r">
-      <div style="font-size: 18px">In the tree above,
-        <ul>
-          <li>the root node represents the goal,</li>
-          <li>all interior nodes are decision nodes and contain high-level features (e.g., <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>)</li>
-          <li>the leaf nodes contain low-level features, and</li>
-          <li>the activated links colored in <span style="color:#DB4437">red</span> show the paths to the important features that the organizers need to focus on but the inactivated links should not be discarded.</li>
-        </ul>
-      </div>
-  </div>
+<p>The entrepreneurship hackathons are typically held for <span style="color:#DB4437">entrepreneurship or creating start-ups</span>. One important aspect of this type of hackathon is follow-up activities that could increase the sustainability of projects. Specifically, organizers should connect the hackathon teams with potential stakeholders and create opportunities to present and showcase the hackathon projects to a larger audience beyond the event participants.</p>
+<div>The following tree with activated links is a great example of hackathon for entrepreneurship or creating start-ups. In this tree,
+  <ul>
+    <li>the root node represents the goal,</li>
+    <li>all interior nodes are decision nodes and contain high-level features (e.g., <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>)</li>
+    <li>the leaf nodes contain low-level features, and</li>
+    <li>the activated links colored in <span style="color:#4285F4">blue</span> show the paths to the important features that the organizers need to focus on but the inactivated links should not be discarded.</li>
+  </ul>
 </div>
-
+<div id="tree"></div>
 <!-- load the d3.js library -->
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
@@ -178,41 +148,13 @@ var treeData =
             "name": "Team formation",
             "value": 5,
             "type": "#78C257",
-            "level": "#B8B8B8",
-            "children": [
-              {
-                "name": "Pre-hackathon",
-                "value": 5,
-                "type": "#78C257",
-                "level": "#B8B8B8"
-              },
-              {
-                "name": "Hackathon",
-                "value": 5,
-                "type": "#78C257",
-                "level": "#B8B8B8"
-              }
-            ]
+            "level": "#B8B8B8"
           },
           {
             "name": "Project selection",
             "value": 5,
             "type": "#78C257",
-            "level": "#DB4437",
-            "children": [
-              {
-                "name": "Pre-hackathon",
-                "value": 5,
-                "type": "#78C257",
-                "level": "#B8B8B8"
-              },
-              {
-                "name": "Hackathon",
-                "value": 5,
-                "type": "#78C257",
-                "level": "#B8B8B8"
-              }
-            ]
+            "level": "#DB4437"
           },
           {
             "name": "Checkpoints and Scoping",
@@ -341,14 +283,13 @@ var treeData =
 // var margin = {top: 20, right: 40, bottom: 20, left: 40},
 //     width = 1000 - margin.left - margin.right,
 //     height = 900 - margin.top - margin.bottom;
-var margin = {top: 20, right: 10, bottom: 10, left: 10},
+var margin = {top: 20, right: 50, bottom: 10, left: 50},
     width = 900 - margin.left - margin.right,
-    height = 1100 - margin.top - margin.bottom;
+    height = 900 - margin.top - margin.bottom;
 
 // declares a tree layout and assigns the size
 var treemap = d3.tree()
-    .size([width, height]);
-    // .separation(() => 1);
+    .size([height, width]);
 
 //  assigns the data to a hierarchy using parent-child relationships
 var nodes = d3.hierarchy(treeData, function(d) {
