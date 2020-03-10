@@ -7,12 +7,6 @@ sidebar:
   nav: "main"
 classes: wide
 ---
-<style>
-table.tr.td {
-font-size: 1em;
-}
-</style>
-
 <p>The following table presents the general event planning guidelines that are specific to all hackathons in three phases: pre-hackathon, during-hackathon, and post-hackathon.</p>
 
 <div>
