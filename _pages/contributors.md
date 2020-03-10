@@ -82,7 +82,7 @@ img {
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-2"></span>
+    <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;">
   </td>
   <td style="vertical-align: bottom;">
@@ -93,7 +93,7 @@ img {
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-3"></span>
+    <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;">
   </td>
   <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
@@ -102,7 +102,7 @@ img {
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-4"></span>
+    <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;">
   </td>
   <td style="vertical-align: bottom;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
@@ -111,7 +111,7 @@ img {
 </tr>
 <tr style="border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
-    <span class="ver-line ver-color-5"></span>
+    <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;">
   </td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
