@@ -70,15 +70,15 @@ img {
 <div>
 <table style="width:100%; margin-left:auto; margin-right:auto;">
 <tr style="border: thin solid #d3d3d3;">
-  <td class="ver-cell ver-has-bar">
+  <td class="ver-cell ver-has-bar" width="15%">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;">
   </td>
-  <td style="vertical-align: bottom;">
+  <td style="vertical-align: bottom;" width="30%">
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
   </td>
-  <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="vertical-align: bottom;">jdh [at] cs.cmu.edu</td>
+  <td style="vertical-align: bottom;" width="30%">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="vertical-align: bottom;" width="25%">jdh [at] cs.cmu.edu</td>
 </tr>
 <tr style="border: thin solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
@@ -122,9 +122,9 @@ img {
 </div>
 <br>
 <div class="row">
-<p style="font-size:1.2em;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
-  <div class="col">
-    <ul style="font-size: 1.2em;">
+<p style="font-size:1em;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
+  <div class="col" style="font-size: 1em;">
+    <ul>
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
       <li>Karen Bhavnani (MCI Group)</li>
