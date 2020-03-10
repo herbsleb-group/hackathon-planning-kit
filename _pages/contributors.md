@@ -68,8 +68,8 @@ img {
 }
 </style>
 
-<table style="width: 100%; border: 1px solid #d3d3d3;">
-<tr style="border-top: 1px solid #eeeeee;">
+<table style="width: 100%;">
+<tr style="border: 1px solid #d3d3d3;">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;">
@@ -80,7 +80,7 @@ img {
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: bottom;">jdh [at] cs.cmu.edu</td>
 </tr>
-<tr style="border-top: 1px solid #eeeeee; align:bottom">
+<tr style="border: 1px solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;">
@@ -91,7 +91,7 @@ img {
   <td style="vertical-align: bottom;">Fidelity Investments</td>
   <td style="vertical-align: bottom;">etrainer [at] cs.cmu.edu</td>
 </tr>
-<tr style="border-top: 1px solid #eeeeee; align:bottom">
+<tr style="border: 1px solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;">
@@ -100,7 +100,7 @@ img {
   <td style="vertical-align: bottom;">GitHub</td>
   <td style="vertical-align: bottom;">annafil [at] gmail.com</td>
 </tr>
-<tr style="border-top: 1px solid #eeeeee; align:bottom">
+<tr style="border: 1px solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;">
@@ -109,7 +109,7 @@ img {
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: bottom;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; align:bottom">
+<tr style="border: 1px solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;">
