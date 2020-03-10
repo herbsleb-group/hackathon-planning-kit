@@ -67,8 +67,8 @@ img {
   float: left;
 }
 </style>
-<div style="text-align: center">
-<table style="width: 100%;">
+<div>
+<table style="width:100%; margin-left:auto; margin-right:auto;">
 <tr style="border: 1px solid #d3d3d3;">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
@@ -120,6 +120,7 @@ img {
 </tr>
 </table>
 </div>
+<br>
 <div class="row">
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
   <div class="col">
