@@ -119,7 +119,6 @@ img {
   <td style="vertical-align: bottom;">eipa [at] cmu.edu</td>
 </tr>
 </table>
-<br>
 <p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
 <div class="row">
   <div class="col">
