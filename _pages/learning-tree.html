@@ -1,0 +1,428 @@
+---
+layout: single
+title: "Hackathon for Learning"
+permalink: /learning-tree/
+author_profile: false
+classes: wide
+sidebar:
+  nav: "main"
+---
+
+<!-- <!DOCTYPE html>
+<meta charset="utf-8"> -->
+<style> /* set the CSS */
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text { font: 12px sans-serif; }
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+</style>
+<p>The hackathons for learning are typically used as a means to provide <span style="color:#78C257">informal or extracurricular learning activities where participants can learn how to solve specific challenges or learn new skills. The essential aspects of this type of hackathon are matching the technical complexity of projects with participants' skills, having a mix of skills in the teams, and having mentors as team members or on-demand.</p>
+<p>The following tree with activated links is a great example of hackathon for learning.</p>
+<div id="tree"></div>
+<div>
+  In the tree above,
+  <ul>
+    <li>the root node represents the goal,</li>
+    <li>all interior nodes are decision nodes and contain high-level features (e.g., <span style="color:#4285F4">projects</span>, <span style="color:#3b99a7">teams</span>, <span style="color:#78C257">process</span>, <span style="color:#F4B400">mentor</span>, and <span style="color:#DB4437">competition</span>)</li>
+    <li>the leaf nodes contain low-level features, and</li>
+    <li>the activated links colored in <span style="color:#DB4437">red</span> show the paths to the important features that the organizers need to focus on but the inactivated links should not be discarded.</li>
+  </ul>
+</div>
+<!-- load the d3.js library -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+  var treeData =
+    {
+      "name": "Learning",
+      "value": 10,
+      "type": "#DB4437",
+      "level": "#78C257",
+      "children": [
+        {
+          "name": "Projects",
+          "value": 10,
+          "type": "#4285F4",
+          "level": "#B8B8B8",
+          "children": [
+            {
+              "name": "Innovativeness",
+              "value": 5,
+              "type": "#4285F4",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Scope",
+              "value": 5,
+              "type": "#4285F4",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Technical complexity",
+              "value": 5,
+              "type": "#4285F4",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Content complexity",
+              "value": 5,
+              "type": "#4285F4",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Sustainability",
+              "value": 5,
+              "type": "#4285F4",
+              "level": "#B8B8B8"
+            },
+          ]
+        },
+        {
+          "name": "Teams",
+          "value": 10,
+          "type": "#3b99a7",
+          "level": "#78C257",
+          "children": [
+            {
+              "name": "Motivation(s)",
+              "value": 5,
+              "type": "#3b99a7",
+              "level": "#78C257"
+            },
+            {
+              "name": "Background(s)",
+              "value": 5,
+              "type": "#3b99a7",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Skills",
+              "value": 5,
+              "type": "#3b99a7",
+              "level": "#78C257"
+            },
+            {
+              "name": "Familiarity",
+              "value": 5,
+              "type": "#3b99a7",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Role distribution",
+              "value": 5,
+              "type": "#3b99a7",
+              "level": "#DB4437"
+            },
+          ]
+        },
+        {
+          "name": "Process",
+          "value": 10,
+          "type": "#78C257",
+          "level": "#78C257",
+          "children": [
+            {
+              "name": "Pre-hackathon events",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#78C257"
+            },
+            {
+              "name": "Ideation",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Team formation",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#B8B8B8",
+              "children": [
+                {
+                  "name": "Pre-hackathon",
+                  "value": 5,
+                  "type": "#78C257",
+                  "level": "#B8B8B8"
+                },
+                {
+                  "name": "Hackathon",
+                  "value": 5,
+                  "type": "#78C257",
+                  "level": "#B8B8B8"
+                }
+              ]
+            },
+            {
+              "name": "Project selection",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#DB4437",
+              "children": [
+                {
+                  "name": "Pre-hackathon",
+                  "value": 5,
+                  "type": "#78C257",
+                  "level": "#B8B8B8"
+                },
+                {
+                  "name": "Hackathon",
+                  "value": 5,
+                  "type": "#78C257",
+                  "level": "#B8B8B8"
+                }
+              ]
+            },
+            {
+              "name": "Checkpoints and Scoping",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Duration / Breaks",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#B8B8B8"
+            },
+            {
+              "name": "Post-hackathon follow-up",
+              "value": 5,
+              "type": "#78C257",
+              "level": "#78C257"
+            },
+          ]
+        },
+        {
+          "name": "Mentors",
+          "value": 10,
+          "type": "#F4B400",
+          "level": "#78C257",
+          "children": [
+            {
+              "name": "Engagement with teams",
+              "value": 5,
+              "type": "#F4B400",
+              "level": "#78C257"
+            },
+            {
+              "name": "Technical support",
+              "value": 5,
+              "type": "#F4B400",
+              "level": "#78C257"
+            },
+            {
+              "name": "Project feedback",
+              "value": 5,
+              "type": "#F4B400",
+              "level": "#78C257"
+            },
+            {
+              "name": "Mobile vs embedded",
+              "value": 5,
+              "type": "#F4B400",
+              "level": "#78C257"
+            },
+          ]
+        },
+        {
+          "name": "Competition",
+          "value": 10,
+          "type": "#DB4437",
+          "level": "#78C257",
+          "children": [
+            {
+              "name": "Competitive",
+              "value": 5,
+              "type": "#DB4437",
+              "level": "#DB4437",
+              "children":[
+                {
+                  "name": "Judging criteria",
+                  "value": 5,
+                  "type": "#DB4437",
+                  "level": "#DB4437"
+                },
+                {
+                  "name": "Prizes",
+                  "value": 5,
+                  "type": "#DB4437",
+                  "level": "#DB4437",
+                  "children": [
+                    {
+                      "name": "Monetary",
+                      "value": 3,
+                      "type": "#DB4437",
+                      "level": "#DB4437"
+                    },
+                    {
+                      "name": "Non-monetary",
+                      "value": 3,
+                      "type": "#DB4437",
+                      "level": "#DB4437"
+                    }
+                  ]
+                },
+                {
+                  "name": "Voting",
+                  "value": 5,
+                  "type": "#DB4437",
+                  "level": "#B8B8B8",
+                  "children": [
+                    {
+                      "name": "Jury",
+                      "value": 3,
+                      "type": "#DB4437",
+                      "level": "#DB4437"
+                    },
+                    {
+                      "name": "Popular vote",
+                      "value": 3,
+                      "type": "#DB4437",
+                      "level": "#DB4437"
+                    }
+                  ]
+                }
+              ],
+            },
+            {
+              "name": "Non-competitive",
+              "value": 5,
+              "type": "#DB4437",
+              "level": "#B8B8B8"
+            }
+          ]
+        }//end of Competition
+      ]
+    };
+// set the dimensions and margins of the diagram
+// var margin = {top: 20, right: 40, bottom: 20, left: 40},
+//     width = 1000 - margin.left - margin.right,
+//     height = 900 - margin.top - margin.bottom;
+var margin = {top: 20, right: 50, bottom: 10, left: 50},
+    width = 900 - margin.left - margin.right,
+    height = 900 - margin.top - margin.bottom;
+
+// declares a tree layout and assigns the size
+var treemap = d3.tree()
+    .size([height, width]);
+
+//  assigns the data to a hierarchy using parent-child relationships
+var nodes = d3.hierarchy(treeData, function(d) {
+    return d.children;
+  });
+
+// maps the node data to the tree layout
+nodes = treemap(nodes);
+
+// append the svg object to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("#tree").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom),
+    g = svg.append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+// adds the links between the nodes
+var link = g.selectAll(".link")
+    .data( nodes.descendants().slice(1))
+  .enter().append("path")
+    .attr("class", "link")
+    // .style("stroke", function(d) { return d.data.level; })
+    // .attr("stroke-opacity", 0.4)
+    // .style("stroke", function(d){
+    //   return linkColor(d.data.level);})
+    .attr("d", function(d) {
+      return "M" + d.x + "," + d.y
+               + "C" + d.x + "," + (d.y + d.parent.y) / 2
+               + " " + d.parent.x + "," +  (d.y + d.parent.y) / 2
+               + " " + d.parent.x + "," + d.parent.y;
+       })
+       .transition()
+         .delay(function(d, i) { return i * 100; })
+         .on("start", function repeat() {
+           d3.active(this)
+               .style("stroke", function(d){
+               return linkColor(d.data.level);})
+               // .transition()
+               //   .style("stroke", function(d){
+               //   return linkColor(d.data.level);})
+                 // .style("fill", "green")
+               // .transition()
+               //   .style("fill", "blue")
+             .transition()
+               .on("start", repeat);
+         });
+
+// adds each node as a group
+var node = g.selectAll(".node")
+    .data(nodes.descendants())
+  .enter().append("g")
+    .attr("class", function(d) {
+      return "node" +
+        (d.children ? " node--internal" : " node--leaf"); })
+    .attr("transform", function(d) {
+      return "translate(" + d.x + "," + d.y + ")"; });
+
+// adds the circle to the node
+node.append("circle")
+  .attr("r", function(d) { return d.data.value; })
+  .style("stroke", function(d) { return d.data.type; })
+  .style("fill", function(d) { return d.data.type; });
+
+// adds the text to the node
+node.append("text")
+  .attr("dy", ".35em")
+  .attr("x", function(d) { return d.children ?
+    (d.data.value + 4) * -1 : d.data.value + 4 })
+  .style("text-anchor", function(d) {
+    return d.children ? "end" : "start"; })
+  .text(function(d) { return d.data.name; })
+  .style("font-size", "12px")
+  // .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
+  // .attr("transform", function(d){
+  //   return d.data.vlaue > 5 ? "rotate(90)" : null;
+  // });
+  // .attr("transform", d => d.y >= Math.PI ? "rotate(90)" : null);
+  .attr("transform", d => d.data.value <= 5 ? "rotate(90)" : null);
+
+
+function linkColor(linkCode) {
+	switch (linkCode)
+	{
+	  case '#DB4437':
+	  	return '#DB4437';//blue
+	    break;
+	  case 'Task Actions':
+	  	return '#FF7F00';//orange
+	  	break;
+	  case 'App Actions':
+		return '#FF0000';//red
+		break;
+	  case 'Insight Actions':
+		return '#7F007F';//purple
+		break;
+	  case 'Meta Actions':
+		  return '#00FFFF';//cyan
+		  break;
+	  default:
+		  return 'lightgray';//generic blue
+		  break;
+	}
+}
+</script>
