@@ -68,7 +68,7 @@ img {
 }
 </style>
 
-<table style="width: 100%;">
+<table style="width: 100%; border: 1px solid #d3d3d3;">
 <tr style="border-top: 1px solid #eeeeee;">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
@@ -78,7 +78,7 @@ img {
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
   </td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="vertical-align: bottom; text-align: right;">jdh [at] cs.cmu.edu</td>
+  <td style="vertical-align: bottom;">jdh [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
@@ -89,7 +89,7 @@ img {
     <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
   </td>
   <td style="vertical-align: bottom;">Fidelity Investments</td>
-  <td style="vertical-align: bottom; text-align: right;">etrainer [at] cs.cmu.edu</td>
+  <td style="vertical-align: bottom;">etrainer [at] cs.cmu.edu</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
@@ -98,7 +98,7 @@ img {
   </td>
   <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
   <td style="vertical-align: bottom;">GitHub</td>
-  <td style="vertical-align: bottom; text-align: right;">annafil [at] gmail.com</td>
+  <td style="vertical-align: bottom;">annafil [at] gmail.com</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
@@ -107,7 +107,7 @@ img {
   </td>
   <td style="vertical-align: bottom;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
-  <td style="vertical-align: bottom; text-align: right;">alexander.nolte [at] ut.ee</td>
+  <td style="vertical-align: bottom;">alexander.nolte [at] ut.ee</td>
 </tr>
 <tr style="border-top: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; align:bottom">
   <td class="ver-cell ver-has-bar">
@@ -116,7 +116,7 @@ img {
   </td>
   <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="vertical-align: bottom; text-align: right;">eipa [at] cmu.edu</td>
+  <td style="vertical-align: bottom;">eipa [at] cmu.edu</td>
 </tr>
 </table>
 <br>
