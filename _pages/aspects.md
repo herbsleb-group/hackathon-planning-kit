@@ -302,7 +302,7 @@ function openTab(tabName) {
       <text x="50" y="55" style="font-size:18px; fill:white; text-anchor:middle; font-family:sans-serif;">01</text>
       <text x="120" y="50" style="font-size:16px; text-anchor:left; font-family:sans-serif;">Projects</text>
       <circle cx="95" cy="65" r="2px"/>
-      <text x="155" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;"><div class="tooltip">Innovativeness<span class="tooltiptext">Tooltip text</span></div></text>
+      <text x="155" y="70" style="font-size:14px; text-anchor:left; font-family:sans-serif;"><span class="tooltip">Innovativeness<span class="tooltiptext">Tooltip text</span></span></text>
       <circle cx="95" cy="85" r="2px"/>
       <text x="130" y="90" style="font-size:14px; text-anchor:left; font-family:sans-serif;">Scope</text>
       <circle cx="95" cy="105" r="2px"/>
