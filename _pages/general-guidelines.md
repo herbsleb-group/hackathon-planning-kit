@@ -13,8 +13,8 @@ classes: wide
 <div>
 <table style="width: 100%;">
   <tr style="border-bottom: thin solid #d3d3d3;">
-    <th style="font-size:1.2em; width:20%"><strong>When</strong></th>
-    <th style="font-size:1.2em; width:80%"><strong>Instructions</strong></th>
+    <th style="font-size:1.8em; width:20%"><strong>When</strong></th>
+    <th style="font-size:1.8em; width:80%"><strong>Instructions</strong></th>
   </tr>
   <tr style="border-top: thin solid #d3d3d3;">
     <td style="width: 20%; vertical-align: top;"><strong>Pre-Hackathon</strong></td>

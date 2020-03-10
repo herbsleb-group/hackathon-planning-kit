@@ -69,7 +69,7 @@ img {
 </style>
 <div>
 <table style="width:100%; margin-left:auto; margin-right:auto;">
-<tr style="border: 1px solid #d3d3d3;">
+<tr style="border: thin solid #d3d3d3;">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;">
@@ -80,7 +80,7 @@ img {
   <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: bottom;">jdh [at] cs.cmu.edu</td>
 </tr>
-<tr style="border: 1px solid #d3d3d3; align:bottom">
+<tr style="border: thin solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer" style="width:100px;height:100px;">
@@ -91,7 +91,7 @@ img {
   <td style="vertical-align: bottom;">Fidelity Investments</td>
   <td style="vertical-align: bottom;">etrainer [at] cs.cmu.edu</td>
 </tr>
-<tr style="border: 1px solid #d3d3d3; align:bottom">
+<tr style="border: thin solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova" style="width:100px;height:100px;">
@@ -100,7 +100,7 @@ img {
   <td style="vertical-align: bottom;">GitHub</td>
   <td style="vertical-align: bottom;">annafil [at] gmail.com</td>
 </tr>
-<tr style="border: 1px solid #d3d3d3; align:bottom">
+<tr style="border: thin solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte" style="width:100px;height:100px;">
@@ -109,7 +109,7 @@ img {
   <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: bottom;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="border: 1px solid #d3d3d3; align:bottom">
+<tr style="border: thin solid #d3d3d3; align:bottom">
   <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than" style="width:100px;height:100px;">
@@ -122,7 +122,7 @@ img {
 </div>
 <br>
 <div class="row">
-<p style="font-size: 18px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
+<p style="font-size:1.8em;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
   <div class="col">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
@@ -181,7 +181,7 @@ img {
 <!-- <table style="width: 100%;">
   <th class="td-con-1">Name</th>
   <th class="td-con-1">Institution</th>
-  <tr style="vertical-align: top; border-bottom: 1px solid #eeeeee; border-top: 1px solid #eeeeee;">
+  <tr style="vertical-align: top; border-bottom: thin solid #eeeeee; border-top: thin solid #eeeeee;">
     <td class="td-con-1">Areej Al-Wabil</td>
     <td class="td-con-2">Center for Complex Engineering at KACST and MIT</td>
   </tr>
