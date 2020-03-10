@@ -124,7 +124,7 @@ img {
 <div class="row">
 <p style="font-size:1em;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
   <div class="col">
-    <ul style="font-size: 1em;>
+    <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
       <li>Dannon Baker (Johns Hopkins University)</li>
       <li>Karen Bhavnani (MCI Group)</li>
@@ -149,7 +149,7 @@ img {
     </ul>
   </div>
   <div class="col">
-    <ul style="font-size: 1em;">
+    <ul style="font-size: 18px;">
       <li>Chris Holdgraf (University of California, Berkeley)</li>
       <li>Krithika Jagannath (University of California, Irvine)</li>
       <li>Bonnie E. John (Bloomberg LP)</li>
