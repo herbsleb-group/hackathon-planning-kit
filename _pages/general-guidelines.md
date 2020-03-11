@@ -57,7 +57,7 @@ classes: wide
         <span style="padding-left: 12px;"><strong>Pre-Hackathon</strong></span>
     </td>
     <td style="width: 80%;">
-      <ul>
+      <ul style="padding-top: 1px;">
         <li>Define goals and expected outcomes for organizers</li>
         <li>Identify potential goals for participants</li>
         <li>Create initial agenda and rules of engagement</li>
@@ -106,7 +106,7 @@ classes: wide
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-1"></span>
-        <span style="padding-left: 12px;"><strong>Post-Hackathon</strong></span></span>
+        <span style="padding-left: 12px;"><strong>Post-Hackathon</strong></span>
     </td>
     <td style="width: 80%;">
       <ul>
