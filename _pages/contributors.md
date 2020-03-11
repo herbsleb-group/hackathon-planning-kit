@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 <style>
-td {
+.td {
   vertical-align: center;
 }
 .ver-line {
