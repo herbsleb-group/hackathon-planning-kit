@@ -92,7 +92,7 @@ classes: wide
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
   </td>
   <td style="width: 40%;">
-    <span><strong>James D. Herbsleb</strong></span><br>
+    <span><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a></span><br>
     <span>Professor of Computer Science</span><br>
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
@@ -108,7 +108,7 @@ classes: wide
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
   </td>
   <td style="width: 40%;">
-    <span><strong>Erik Trainer</strong></span><br>
+    <span><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a></span><br>
     <span>Principal UX Researcher</span><br>
     <span>Fidelity Investments</span>
   </td>
@@ -123,7 +123,7 @@ classes: wide
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
   <td style="width: 40%;">
-    <span><strong>Anna Filippova</strong></span><br>
+    <span><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a></span><br>
     <span>Senior Manager, Data Science</span><br>
     <span>GitHub</span>
   </td>
@@ -138,7 +138,7 @@ classes: wide
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
   </td>
   <td style="width: 40%;">
-    <span><strong>Alexander Nolte</strong></span><br>
+    <span><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a></span><br>
     <span>Assistant Professor</span><br>
     <span>Institute of Computer Science</span><br>
     <span>University of Tartu</span>
@@ -154,7 +154,7 @@ classes: wide
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
   </td>
   <td style="width: 40%;">
-    <span><strong>Ei Pa Pa Pe-Than</strong></span><br>
+    <span><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a></span><br>
     <span>Postdoctoral Associate</span><br>
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
