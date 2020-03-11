@@ -13,8 +13,7 @@ table {
     width: 100%;
 }
 th, td {
-    padding: 5px;
-    margin-bottom: 5px;
+    padding: 5px 10px;
     vertical-align: center;
 }
 tr {
@@ -90,10 +89,10 @@ img {
   <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
   </td>
-  <td style="width:30%">
+  <td style="width:32%">
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
   </td>
-  <td style="width:30%">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="width:32%">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="width:25%">jdh [at] cs.cmu.edu</td>
 </tr>
 <tr>
@@ -101,10 +100,10 @@ img {
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
   </td>
-  <td style="width:30%">
+  <td style="width:32%">
     <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
   </td>
-  <td style="width:30%">Fidelity Investments</td>
+  <td style="width:32%">Fidelity Investments</td>
   <td style="width:25%">etrainer [at] cs.cmu.edu</td>
 </tr>
 <tr>
@@ -112,8 +111,8 @@ img {
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
-  <td style="width:30%"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
-  <td style="width:30%">GitHub</td>
+  <td style="width:32%"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
+  <td style="width:32%">GitHub</td>
   <td style="width:25%">annafil [at] gmail.com</td>
 </tr>
 <tr>
@@ -121,8 +120,8 @@ img {
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
   </td>
-  <td style="width:30%"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-  <td style="width:30%">Institute of Computer Science<br>University of Tartu</td>
+  <td style="width:32%"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td style="width:32%">Institute of Computer Science<br>University of Tartu</td>
   <td style="width:25%">alexander.nolte [at] ut.ee</td>
 </tr>
 <tr>
@@ -130,8 +129,8 @@ img {
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
   </td>
-  <td style="width:30%"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
-  <td style="width:30%">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="width:32%"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
+  <td style="width:32%">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="width:25%">eipa [at] cmu.edu</td>
 </tr>
 </table>
