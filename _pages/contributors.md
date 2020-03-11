@@ -71,7 +71,7 @@ img {
 }
 </style>
 <div align="center">
-<table style="width:100%;">
+<table width="100%;">
 <tr style="border: thin solid #d3d3d3; width:100%;">
   <td class="ver-cell ver-has-bar" style="width:15%">
   <!-- <span class="ver-line ver-color-1"></span> -->
