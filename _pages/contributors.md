@@ -72,11 +72,14 @@ classes: wide
     img {
       width: 100px;
       height: 100px;
-      border: 1px solid #4285F4;
+      border: 2px solid #4285F4;
       border-radius: 50%;
     }
     p {
         text-align: justify;
+    }
+    tr {
+        height: 120px;
     }
 </style>
 <div>
