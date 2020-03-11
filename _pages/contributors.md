@@ -10,12 +10,15 @@ classes: wide
 <style>
 table, th, td {
     /*border: thin solid #d3d3d3;*/
-    border: none;
+    border-bottom: thin solid #d3d3d3;
     width: 100%;
 }
 th, td {
     padding: 5px;
     vertical-align: center;
+}
+tr {
+    width: 100%;
 }
 .ver-line {
     position: absolute;
