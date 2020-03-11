@@ -10,8 +10,6 @@ sidebar:
 <style>
   .p-loc {
     text-align: justify;
-    padding-left: 100px;
-    padding-right: 100px;
   }
   .ul-1 {
       white-space: nowrap;
