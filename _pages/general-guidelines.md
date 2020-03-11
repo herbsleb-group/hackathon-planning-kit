@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 <style>
-    td {
+    th, td {
         font-size: 18px;
         border-right: thin solid #d3d3d3;
     }
