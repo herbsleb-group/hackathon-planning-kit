@@ -77,10 +77,9 @@ img {
   border-radius: 50%;
 }
 </style>
-<div align="center">
+
 <table style="width:100%">
-<tbody style="width: 100%">
-<tr style="width:100%;">
+<tr>
   <td class="ver-cell ver-has-bar" style="width:15%">
   <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
@@ -91,7 +90,7 @@ img {
   <td style="vertical-align: center; width:30%">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: center; width:25%">jdh [at] cs.cmu.edu</td>
 </tr>
-<tr style="width:100%;">
+<tr>
   <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
@@ -102,7 +101,7 @@ img {
   <td style="vertical-align: center; width:30%">Fidelity Investments</td>
   <td style="vertical-align: center; width:25%">etrainer [at] cs.cmu.edu</td>
 </tr>
-<tr style="width:100%;">
+<tr>
   <td class="ver-cell ver-has-bar" style="width:15%;">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
@@ -111,7 +110,7 @@ img {
   <td style="vertical-align: center; width:30%;">GitHub</td>
   <td style="vertical-align: center; width:25%;">annafil [at] gmail.com</td>
 </tr>
-<tr style="width:100%;">
+<tr>
   <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
@@ -120,7 +119,7 @@ img {
   <td style="vertical-align: center; width: 30%;">Institute of Computer Science<br>University of Tartu</td>
   <td style="vertical-align: center; width: 25%;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="width:100%">
+<tr>
   <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
@@ -129,9 +128,8 @@ img {
   <td style="vertical-align: center; width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
   <td style="vertical-align: center; width: 25%;">eipa [at] cmu.edu</td>
 </tr>
-</tbody>
 </table>
-</div>
+
 <br>
 <div class="row">
 <p style="font-size:1em;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
