@@ -15,7 +15,7 @@ classes: wide
     }
     tr {
         border-top: thin solid #d3d3d3;
-        border-bottom: thin solid #d3d3d3;
+        border-bottom: thin solid #eeeeee;
     }
     .ver-line {
         position: absolute;
