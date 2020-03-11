@@ -19,10 +19,10 @@ main:
         children:
           - title: "Community Building"
             url: /community-building-tree/
-          - title: "Entrepreneurship"
-            url: /entrepreneurship-tree/
           - title: "Learning"
             url: /learning-tree/
+          - title: "Entrepreneurship"
+            url: /entrepreneurship-tree/
       # - title: "Entrapreneurship Hackathon"
       #   url: /entrapreneurship-tree/
       # - title: "Community Building Hackathon"
