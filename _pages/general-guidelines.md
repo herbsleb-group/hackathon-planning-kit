@@ -12,7 +12,7 @@ classes: wide
         font-size: 18px;
     }
     tr {
-        border-top: thin solid #d3d3d3;
+        /*border-top: thin solid #d3d3d3;*/
         border-bottom: thin solid #d3d3d3;
     }
     .ver-line {
@@ -25,6 +25,12 @@ classes: wide
     }
     .ver-color-1 {
         background: #4285F4;
+    }
+    .ver-color-2 {
+        background:#3b99a7;
+    }
+    .ver-color-3 {
+        background:#78C257;
     }
     .ver-cell.ver-has-bar {
     position:relative
@@ -69,8 +75,11 @@ classes: wide
       </ul>
     </td>
   </tr>
-  <tr style="border-top: thin solid #d3d3d3;">
-    <td style="width: 20%; vertical-align: top;"><strong>During-Hackathon</strong></td>
+  <tr>
+    <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
+        <span class="ver-line ver-color-2"></span>
+        <strong>During-Hackathon</strong>
+    </td>
     <td style="width: 80%;">
       <ul>
         <li>Set up space and technology</li>
@@ -87,8 +96,11 @@ classes: wide
       </ul>
     </td>
   </tr>
-  <tr style="border-top: thin solid #d3d3d3; border-bottom: thin solid #d3d3d3;">
-    <td style="width: 20%; vertical-align: top;"><strong>Post-Hackathon</strong></td>
+  <tr>
+    <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
+        <span class="ver-line ver-color-3"></span>
+        <strong>Post-Hackathon</strong>
+    </td>
     <td style="width: 80%;">
       <ul>
         <li>Distribute pictures, sound-bites and other relevant outcomes through adequate channels (preparation)</li>

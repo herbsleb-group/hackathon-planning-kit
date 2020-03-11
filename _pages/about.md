@@ -16,7 +16,7 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 <br>
 
 <hr> -->
-<p>This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.</p>
+This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.
 <div style="text-align:center">
 <table style="width: 100%;">
   <tr>
