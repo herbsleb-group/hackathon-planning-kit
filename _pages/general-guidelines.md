@@ -19,7 +19,7 @@ classes: wide
     .ver-line {
     position: absolute;
     display: inline-block;
-    height: 40px;
+    height: 60px;
     width: 12px;
     left: 0;
     top:0
@@ -85,7 +85,7 @@ classes: wide
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-3"></span>
-        <strong>Hackathon</strong>
+        <span style="padding-left: 12px;"><strong>Hackathon</strong></span>
     </td>
     <td style="width: 80%;">
       <ul>
@@ -106,7 +106,7 @@ classes: wide
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-1"></span>
-        <strong>Post-Hackathon</strong>
+        <span style="padding-left: 12px;"><strong>Post-Hackathon</strong></span></span>
     </td>
     <td style="width: 80%;">
       <ul>
