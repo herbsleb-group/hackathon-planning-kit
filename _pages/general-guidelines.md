@@ -26,6 +26,9 @@ classes: wide
     .ver-color-1 {
         background: #4285F4;
     }
+    .ver-cell.ver-has-bar {
+    position:relative
+    }
 </style>
 <p>The following table presents the general event planning guidelines that are specific to all hackathons in three phases: pre-hackathon, during-hackathon, and post-hackathon.</p>
 
@@ -36,7 +39,7 @@ classes: wide
     <th style="font-size:1.4em; width:80%"><strong>What to do</strong></th>
   </tr>
   <tr>
-    <td style="width: 20%; vertical-align: top;">
+    <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-1"></span>
         <span><strong>Pre-Hackathon</strong></span>
     </td>

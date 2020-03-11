@@ -43,9 +43,6 @@ classes: wide
     .ver-cell.ver-has-bar {
         position:relative
     }
-    img {
-      border-radius: 50%;
-    }
     .row {
       margin-right: -15px;
       margin-left: -15px;
