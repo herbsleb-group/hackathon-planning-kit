@@ -87,20 +87,19 @@ classes: wide
 <div>
 <table style="width: 100%;">
 <tr>
-  <td style="width: 15%;">
+  <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
   </td>
-  <td style="width: 31%;">
+  <td style="width: 40%;">
     <span><strong>James D. Herbsleb</strong></span><br>
     <span>Professor of Computer Science</span><br>
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
   </td>
-  <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="width: 30%;">
-    <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="mailto:jdh@cs.cmu.edu" target="_top">&nbsp;jdh [at] cs.cmu.edu</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i><a href="https://herbsleb.org/">&nbsp;https://herbsleb.org/</a></span>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="mailto:jdh@cs.cmu.edu" target="_top">&nbsp;&nbsp;jdh [at] cs.cmu.edu</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i><a href="https://herbsleb.org/">&nbsp;&nbsp;https://herbsleb.org/</a></span>
   </td>
 </tr>
 <tr>
