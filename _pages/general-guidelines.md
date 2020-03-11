@@ -54,7 +54,7 @@ classes: wide
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-5"></span>
-        <span><strong>Pre-Hackathon</strong></span>
+        <span style="padding-left: 12px;"><strong>Pre-Hackathon</strong></span>
     </td>
     <td style="width: 80%;">
       <ul>
