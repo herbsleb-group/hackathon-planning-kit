@@ -15,67 +15,67 @@ classes: wide
     tr {
         border-bottom: thin solid #d3d3d3;
     }
-.ver-line {
-    position: absolute;
-    display: inline-block;
-    height: 100%;
-    width: 6px;
-    left: 0;
-    top:0
-}
-.ver-color-1 {
-    background: #4285F4;
-}
-.ver-color-2 {
-    background:#3b99a7;
-}
-.ver-color-3 {
-    background:#78C257;
-}
-.ver-color-4 {
-    background:#F4B400;
-}
-.ver-color-5 {
-    background:#DB4437;
-}
-.ver-cell.ver-has-bar {
-    position:relative
-}
-img {
-  border-radius: 50%;
-}
-.row {
-  margin-right: -15px;
-  margin-left: -15px;
-  text-align: left;
-}
-.col {
-  position: relative;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
-  float: left;
-  width: 50%;
-  text-align: left;
-}
-.tr-con {
-  vertical-align: top;
-  border-center: 1px solid #eeeeee;
-}
-.td-con-1 {
-  width: 20%;
-  float: left;
-}
-.td-con-2 {
-  width: 30%;
-  float: left;
-}
-img {
-  width:100px;
-  height:100px;
-  border:2px solid #4285F4;
-  border-radius: 50%;
-}
+    .ver-line {
+        position: absolute;
+        display: inline-block;
+        height: 100%;
+        width: 6px;
+        left: 0;
+        top:0
+    }
+    .ver-color-1 {
+        background: #4285F4;
+    }
+    .ver-color-2 {
+        background:#3b99a7;
+    }
+    .ver-color-3 {
+        background:#78C257;
+    }
+    .ver-color-4 {
+        background:#F4B400;
+    }
+    .ver-color-5 {
+        background:#DB4437;
+    }
+    .ver-cell.ver-has-bar {
+        position:relative
+    }
+    img {
+      border-radius: 50%;
+    }
+    .row {
+      margin-right: -15px;
+      margin-left: -15px;
+      text-align: left;
+    }
+    .col {
+      position: relative;
+      min-height: 1px;
+      padding-right: 15px;
+      padding-left: 15px;
+      float: left;
+      width: 50%;
+      text-align: left;
+    }
+    .tr-con {
+      vertical-align: top;
+      border-center: 1px solid #eeeeee;
+    }
+    .td-con-1 {
+      width: 20%;
+      float: left;
+    }
+    .td-con-2 {
+      width: 30%;
+      float: left;
+    }
+    img {
+      width:100px;
+      height:100px;
+      border:2px solid #4285F4;
+      border-radius: 50%;
+    }
 </style>
 <div>
 <table style="width: 100%;">
@@ -84,10 +84,10 @@ img {
       <!-- <span class="ver-line ver-color-1"></span> -->
         <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
       </td>
-      <td style="width: 35%;">
+      <td style="width: 33%;">
         <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
       </td>
-      <td style="width: 25%;">Institute for Software Research<br>Carnegie Mellon University</td>
+      <td style="width: 27%;">Institute for Software Research<br>Carnegie Mellon University</td>
       <td style="width: 25%;">jdh [at] cs.cmu.edu</td>
     </tr>
     <tr>
@@ -95,10 +95,10 @@ img {
         <!-- <span class="ver-line ver-color-1"></span> -->
         <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
       </td>
-      <td style="width: 35%;">
+      <td style="width: 33%;">
         <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
       </td>
-      <td style="width: 25%;">Fidelity Investments</td>
+      <td style="width: 27%;">Fidelity Investments</td>
       <td style="width: 25%;">etrainer [at] cs.cmu.edu</td>
     </tr>
     <tr>
@@ -106,8 +106,8 @@ img {
         <!-- <span class="ver-line ver-color-1"></span> -->
         <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
       </td>
-      <td style="width: 35%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
-      <td style="width: 25%;">GitHub</td>
+      <td style="width: 33%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
+      <td style="width: 27%;">GitHub</td>
       <td style="width: 25%;">annafil [at] gmail.com</td>
     </tr>
     <tr>
@@ -115,8 +115,8 @@ img {
         <!-- <span class="ver-line ver-color-1"></span> -->
         <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
       </td>
-      <td style="width: 35%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-      <td style="width: 25%;">Institute of Computer Science<br>University of Tartu</td>
+      <td style="width: 33%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+      <td style="width: 27%;">Institute of Computer Science<br>University of Tartu</td>
       <td style="width: 25%;">alexander.nolte [at] ut.ee</td>
     </tr>
     <tr>
@@ -124,8 +124,8 @@ img {
         <!-- <span class="ver-line ver-color-1"></span> -->
         <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
       </td>
-      <td style="width: 35%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
-      <td style="width: 25%;">Institute for Software Research<br>Carnegie Mellon University</td>
+      <td style="width: 33%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
+      <td style="width: 27%;">Institute for Software Research<br>Carnegie Mellon University</td>
       <td style="width: 25%;">eipa [at] cmu.edu</td>
     </tr>
 </table>
