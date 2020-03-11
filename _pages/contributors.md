@@ -99,7 +99,7 @@ classes: wide
   </td>
   <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jdh@cs.cmu.edu" target="_top">jdh [at] cs.cmu.edu</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
   </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ classes: wide
   </td>
   <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:etrainer@cs.cmu.edu" target="_top">etrainer [at] cs.cmu.edu</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://www.cs.cmu.edu/~etrainer/">https://www.cs.cmu.edu/~etrainer/</a></span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cs.cmu.edu/~etrainer/">https://www.cs.cmu.edu/~etrainer/</a></span>
   </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ classes: wide
   </td>
   <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:annafil@gmail.com" target="_top">annafil [at] gmail.com</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/annafilippova">https://www.linkedin.com/in/annafilippova</a></span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/annafilippova">https://www.linkedin.com/in/annafilippova</a></span>
   </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ classes: wide
   </td>
   <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alexander.nolte@ut.ee" target="_top">alexander.nolte [at] ut.ee</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="http://www.anolte.com">http://www.anolte.com</a></span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anolte.com">http://www.anolte.com</a></span>
   </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ classes: wide
   </td>
   <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:eipa@cmu.edu" target="_top">eipa [at] cmu.edu</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://eipapa.github.io/">https://eipapa.github.io/</a></span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eipapa.github.io/">https://eipapa.github.io/</a></span>
   </td>
 </tr>
 </table>
