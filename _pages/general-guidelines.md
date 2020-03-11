@@ -43,7 +43,7 @@ classes: wide
         background:#DB4437;
     }
 </style>
-<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
+<p style="align:justify;">We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
 
 <div>
 <table style="width: 100%;">
