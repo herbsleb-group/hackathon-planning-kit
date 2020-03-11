@@ -27,16 +27,16 @@ classes: wide
         background: #4285F4;
     }
     .ver-color-2 {
-        background:#3b99a7;
+        background: #3b99a7;
     }
     .ver-color-3 {
-        background:#78C257;
+        background: #78C257;
     }
     .ver-cell.ver-has-bar {
     position:relative
     }
 </style>
-<p>The following table presents the general event planning guidelines that are specific to all hackathons in three phases: pre-hackathon, during-hackathon, and post-hackathon.</p>
+<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #4285F4">pre-hackathon</span>, <span style="color: #3b99a7;">during-hackathon</span>, and <span style="color: #78C257;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
 
 <div>
 <table style="width: 100%;">
@@ -110,3 +110,4 @@ classes: wide
     </td>
   </tr>
 </table>
+</div>
