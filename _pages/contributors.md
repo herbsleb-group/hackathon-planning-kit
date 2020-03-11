@@ -9,7 +9,7 @@ classes: wide
 ---
 <style>
 .td {
-  vertical-align: bottom;
+  vertical-align: center;
 }
 .ver-line {
     position: absolute;
@@ -56,7 +56,7 @@ img {
 }
 .tr-con {
   vertical-align: top;
-  border-bottom: 1px solid #eeeeee;
+  border-center: 1px solid #eeeeee;
 }
 .td-con-1 {
   width: 20%;
@@ -73,55 +73,55 @@ img {
 }
 </style>
 <div align="center">
-<table style="width:100%; margin-left:auto; margin-right:auto;">
-<tr style="border: thin solid #d3d3d3;">
-  <td class="ver-cell ver-has-bar">
+<table style="width:100%;">
+<tr style="border: thin solid #d3d3d3; width:100%;">
+  <td class="ver-cell ver-has-bar" style="width:15%">
   <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
   </td>
-  <td style="vertical-align: bottom;" width="30%">
+  <td style="vertical-align: center; width:30%">
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
   </td>
-  <td style="vertical-align: bottom;" width="30%">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="vertical-align: bottom;" width="25%">jdh [at] cs.cmu.edu</td>
+  <td style="vertical-align: center; width:30%">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="vertical-align: center; width:25%">jdh [at] cs.cmu.edu</td>
 </tr>
-<tr style="border: thin solid #d3d3d3; align:bottom">
-  <td class="ver-cell ver-has-bar">
+<tr style="border: thin solid #d3d3d3; width:100%;">
+  <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
   </td>
-  <td style="vertical-align: bottom;">
+  <td style="vertical-align: center; width:30%">
     <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
   </td>
-  <td style="vertical-align: bottom;">Fidelity Investments</td>
-  <td style="vertical-align: bottom;">etrainer [at] cs.cmu.edu</td>
+  <td style="vertical-align: center; width:30%">Fidelity Investments</td>
+  <td style="vertical-align: center; width:25%">etrainer [at] cs.cmu.edu</td>
 </tr>
-<tr style="border: thin solid #d3d3d3; align:bottom">
-  <td class="ver-cell ver-has-bar">
+<tr style="border: thin solid #d3d3d3; width:100%;">
+  <td class="ver-cell ver-has-bar" style="width:15%;">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
-  <td style="vertical-align: bottom;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
-  <td style="vertical-align: bottom;">GitHub</td>
-  <td style="vertical-align: bottom;">annafil [at] gmail.com</td>
+  <td style="vertical-align: center; width:30%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
+  <td style="vertical-align: center; width:30%;">GitHub</td>
+  <td style="vertical-align: center; width:25%;">annafil [at] gmail.com</td>
 </tr>
-<tr style="border: thin solid #d3d3d3; align:bottom">
-  <td class="ver-cell ver-has-bar">
+<tr style="border: thin solid #d3d3d3; width:100%;">
+  <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
   </td>
-  <td style="vertical-align: bottom;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-  <td style="vertical-align: bottom;">Institute of Computer Science<br>University of Tartu</td>
-  <td style="vertical-align: bottom;">alexander.nolte [at] ut.ee</td>
+  <td style="vertical-align: center; width:30%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td style="vertical-align: center; width: 30%;">Institute of Computer Science<br>University of Tartu</td>
+  <td style="vertical-align: center; width: 25%;">alexander.nolte [at] ut.ee</td>
 </tr>
-<tr style="border: thin solid #d3d3d3; align:bottom">
-  <td class="ver-cell ver-has-bar">
+<tr style="border: thin solid #d3d3d3; width:100%">
+  <td class="ver-cell ver-has-bar" style="width:15%">
     <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
   </td>
-  <td style="vertical-align: bottom;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
-  <td style="vertical-align: bottom;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="vertical-align: bottom;">eipa [at] cmu.edu</td>
+  <td style="vertical-align: center; width: 30%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
+  <td style="vertical-align: center; width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="vertical-align: center; width: 25%;">eipa [at] cmu.edu</td>
 </tr>
 </table>
 </div>
