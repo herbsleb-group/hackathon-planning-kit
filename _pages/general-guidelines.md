@@ -11,17 +11,35 @@ classes: wide
     td {
         font-size: 18px;
     }
+    tr {
+        border-top: thin solid #d3d3d3;
+        border-bottom: thin solid #d3d3d3;
+    }
+    .ver-line {
+    position: absolute;
+    display: inline-block;
+    height: 100%;
+    width: 6px;
+    left: 0;
+    top:0
+    }
+    .ver-color-1 {
+        background: #4285F4;
+    }
 </style>
 <p>The following table presents the general event planning guidelines that are specific to all hackathons in three phases: pre-hackathon, during-hackathon, and post-hackathon.</p>
 
 <div>
 <table style="width: 100%;">
-  <tr style="border-bottom: thin solid #d3d3d3;">
+  <tr>
     <th style="font-size:1.4em; width:20%"><strong>When</strong></th>
     <th style="font-size:1.4em; width:80%"><strong>What to do</strong></th>
   </tr>
-  <tr style="border-top: thin solid #d3d3d3;">
-    <td style="width: 20%; vertical-align: top;"><strong>Pre-Hackathon</strong></td>
+  <tr>
+    <td style="width: 20%; vertical-align: top;">
+        <span class="ver-line ver-color-1"></span>
+        <span><strong>Pre-Hackathon</strong></span>
+    </td>
     <td style="width: 80%;">
       <ul>
         <li>Define goals and expected outcomes for organizers</li>
