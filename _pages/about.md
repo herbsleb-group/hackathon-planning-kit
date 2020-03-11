@@ -39,18 +39,16 @@ This research project is the joint effort of [Institute for Software Research][1
 
 <hr>
 <p>We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackahtons.</p>
-<div style="text-align: center;">
-<table style="width: 100%;">
-  <tr style="width: 100%;">
-    <td><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></td>
-  </tr>
-</table>
+<div>
+  <ul class="ul-1">
+    <li class="li-1"><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></li>
+    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li class="li-1"><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></li>
+    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li class="li-1"><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></li>
+    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li class="li-1"><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></li>
+  </ul>
 </div>
 
 [1]:  https://www.isri.cmu.edu/
