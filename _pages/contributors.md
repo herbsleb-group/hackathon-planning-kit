@@ -70,8 +70,8 @@ classes: wide
       float: left;
     }
     img {
-      width:100px;
-      height:100px;
+      width:75px;
+      height:75px;
       border:2px solid #4285F4;
       border-radius: 50%;
     }
@@ -132,7 +132,7 @@ classes: wide
 
 <br>
 <div class="row">
-<p style="font-size:19px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
+<p style="font-size:20px;">We would also like to acknowledge invaluable contributions of the following individuals who participated in our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names are listed in an alphabetical order by surnames.</p>
   <div class="col">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
