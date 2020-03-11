@@ -8,17 +8,18 @@ sidebar:
 classes: wide
 ---
 <style>
-table, th, td {
+table {
     /*border: thin solid #d3d3d3;*/
-    border-bottom: thin solid #d3d3d3;
     width: 100%;
 }
 th, td {
     padding: 5px;
+    margin-bottom: 5px;
     vertical-align: center;
 }
 tr {
     width: 100%;
+    border-bottom: thin solid #d3d3d3;
 }
 .ver-line {
     position: absolute;
