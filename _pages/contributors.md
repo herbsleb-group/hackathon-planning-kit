@@ -14,7 +14,7 @@ classes: wide
         /*border: thin solid #d3d3d3;*/
     }
     tr {
-        border-top: thin solid #d3d3d3;
+        border-top: thin solid #eeeeee;
         border-bottom: thin solid #eeeeee;
     }
     .ver-line {
@@ -74,6 +74,9 @@ classes: wide
       height:75px;
       border:2px solid #4285F4;
       border-radius: 50%;
+    }
+    p {
+        text-align: justify;
     }
 </style>
 <div>

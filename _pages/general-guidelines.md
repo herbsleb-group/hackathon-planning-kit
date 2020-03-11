@@ -10,10 +10,10 @@ classes: wide
 <style>
     th, td {
         font-size: 18px;
-        border-right: thin solid #d3d3d3;
+        border-right: thin solid #eeeeee;
     }
     tr {
-        border: thin solid #d3d3d3;
+        border: thin solid #eeeeee;
         /*border-bottom: thin solid #d3d3d3;*/
     }
     .ver-line {
