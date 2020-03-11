@@ -86,57 +86,59 @@ classes: wide
 <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 <div>
 <table style="width: 100%;">
-    <tr>
-      <td style="width: 15%;">
-      <!-- <span class="ver-line ver-color-1"></span> -->
-        <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
-      </td>
-      <td style="width: 31%;">
-        <span><strong>James D. Herbsleb</strong></span><br>
-        <span>Professor of Computer Science</span><br>
-        <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
-      </td>
-      <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-      <td style="width: 30%;">jdh [at] cs.cmu.edu</td>
-    </tr>
-    <tr>
-      <td style="width: 15%;">
-        <!-- <span class="ver-line ver-color-1"></span> -->
-        <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
-      </td>
-      <td style="width: 31%;">
-        <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
-      </td>
-      <td style="width: 30%;">Fidelity Investments</td>
-      <td style="width: 30%;">etrainer [at] cs.cmu.edu</td>
-    </tr>
-    <tr>
-      <td style="width: 15%;">
-        <!-- <span class="ver-line ver-color-1"></span> -->
-        <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
-      </td>
-      <td style="width: 31%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
-      <td style="width: 30%;">GitHub</td>
-      <td style="width: 30%;">annafil [at] gmail.com</td>
-    </tr>
-    <tr>
-      <td style="width: 15%;">
-        <!-- <span class="ver-line ver-color-1"></span> -->
-        <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
-      </td>
-      <td style="width: 31%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-      <td style="width: 30%;">Institute of Computer Science<br>University of Tartu</td>
-      <td style="width: 30%;">alexander.nolte [at] ut.ee</td>
-    </tr>
-    <tr>
-      <td style="width: 15%;">
-        <!-- <span class="ver-line ver-color-1"></span> -->
-        <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
-      </td>
-      <td style="width: 31%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
-      <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-      <td style="width: 30%;">eipa [at] cmu.edu</td>
-    </tr>
+<tr>
+  <td style="width: 15%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
+  </td>
+  <td style="width: 31%;">
+    <span><strong>James D. Herbsleb</strong></span><br>
+    <span>Professor of Computer Science</span><br>
+  </td>
+  <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="width: 30%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="mailto:jdh@cs.cmu.edu" target="_top">jdh [at] cs.cmu.edu</span>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i><a href="https://herbsleb.org/">&nbsp;https://herbsleb.org/</a></span>
+  </td>
+</tr>
+<tr>
+  <td style="width: 15%;">
+    <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
+  </td>
+  <td style="width: 31%;">
+    <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
+  </td>
+  <td style="width: 30%;">Fidelity Investments</td>
+  <td style="width: 30%;">etrainer [at] cs.cmu.edu</td>
+</tr>
+<tr>
+  <td style="width: 15%;">
+    <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
+  </td>
+  <td style="width: 31%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
+  <td style="width: 30%;">GitHub</td>
+  <td style="width: 30%;">annafil [at] gmail.com</td>
+</tr>
+<tr>
+  <td style="width: 15%;">
+    <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
+  </td>
+  <td style="width: 31%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
+  <td style="width: 30%;">Institute of Computer Science<br>University of Tartu</td>
+  <td style="width: 30%;">alexander.nolte [at] ut.ee</td>
+</tr>
+<tr>
+  <td style="width: 15%;">
+    <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
+  </td>
+  <td style="width: 31%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
+  <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
+  <td style="width: 30%;">eipa [at] cmu.edu</td>
+</tr>
 </table>
 </div>
 
