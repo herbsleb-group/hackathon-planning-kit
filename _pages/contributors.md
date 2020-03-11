@@ -84,8 +84,8 @@ classes: wide
     }
 </style>
 <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
-<div style="text-align: center;">
-<table style="width: 100%;">
+<div>
+<table style="width: 100%; align-content: center;">
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
