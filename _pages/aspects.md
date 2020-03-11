@@ -9,106 +9,104 @@ sidebar:
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-  tr {
+    tr {
       align: top;
     }
-  td {
+    td {
     vertical-align: top;
-  }
- .round-button {
-   display:block;
-   width:100px;
-   height:100px;
-   line-height:80px;
-   text-align:center;
-   border: 0px solid;
-   border-radius: 50%;
-   opacity: 0.8;
-   z-index: 1;
-   position:absolute;
-
-}
-.round-button:hover {
-   opacity: 0.5;
-}
-.chover:hover{
-  opacity: 0.5;
-}
-i{
-  z-index: 2;
-  position:absolute;
-}
-svg{
-  margin-left: auto;
-  margin-right: auto;
-  <!-- border: 1px solid black; -->
-}
-svg text{
-  font-size: 36px;
-  font-family: FontAwesome;
-  text-anchor: middle;
-}
-.container{
-  text-align: center;
-}
-.col {
-  padding: 10px;
-  width: 70%;
-  height: 350px;
-  opacity: 1;
-  border-radius: 5px;
-  border: 1px solid white;
-  display: inline-block;
-  text-align: left;
-  margin: 0 auto;
-  z-index:-1;
-  opacity: 0.8;
-}
-.fontnew {
-font-size: 18px;
-font-family: sans-serif;
-color: inherit;
-}
-
-hr.new1 {
-border: 1px solid white;
-}
-.containerTab {
-  padding: 20px 20px;
-  color: white;
-  width: 700px;
-  text-align: left;
-  opacity: 0.8;
-}
-<!-- .closebtn {
-  float: right;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-} -->
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
+    }
+    .round-button {
+       display:block;
+       width:100px;
+       height:100px;
+       line-height:80px;
+       text-align:center;
+       border: 0px solid;
+       border-radius: 50%;
+       opacity: 0.8;
+       z-index: 1;
+       position:absolute;
+    }
+    .round-button:hover {
+       opacity: 0.5;
+    }
+    .chover:hover{
+      opacity: 0.5;
+    }
+    i{
+      z-index: 2;
+      position:absolute;
+    }
+    svg{
+      margin-left: auto;
+      margin-right: auto;
+      <!-- border: 1px solid black; -->
+    }
+    svg text{
+      font-size: 36px;
+      font-family: FontAwesome;
+      text-anchor: middle;
+    }
+    .container{
+      text-align: center;
+    }
+    .col {
+      padding: 10px;
+      width: 70%;
+      height: 350px;
+      opacity: 1;
+      border-radius: 5px;
+      border: 1px solid white;
+      display: inline-block;
+      text-align: left;
+      margin: 0 auto;
+      z-index:-1;
+      opacity: 0.8;
+    }
+    .fontnew {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: inherit;
+    }
+    hr.new1 {
+    border: 1px solid white;
+    }
+    .containerTab {
+      padding: 20px 20px;
+      color: white;
+      width: 700px;
+      text-align: left;
+      opacity: 0.8;
+    }
+    <!-- .closebtn {
+      float: right;
+      color: white;
+      font-size: 35px;
+      cursor: pointer;
+    } -->
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      border-bottom: 1px dotted black;
+    }
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 120px;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0; 
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+    p {
+    text-align: justify;
+    }
 </style>
 <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
 <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
