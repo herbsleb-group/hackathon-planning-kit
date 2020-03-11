@@ -8,12 +8,15 @@ sidebar:
 classes: wide
 ---
 <style>
+    table {
+        border: thin solid #d3d3d3;
+    }
     td {
         font-size: 18px;
     }
     tr {
         /*border-top: thin solid #d3d3d3;*/
-        border-bottom: thin solid #d3d3d3;
+        /*border-bottom: thin solid #d3d3d3;*/
     }
     .ver-line {
     position: absolute;
