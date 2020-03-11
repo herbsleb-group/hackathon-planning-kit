@@ -9,13 +9,13 @@ classes: wide
 ---
 <style>
     table {
-        border: thin solid #d3d3d3;
+        /*border: thin solid #d3d3d3;*/
     }
     td {
         font-size: 18px;
     }
     tr {
-        /*border-top: thin solid #d3d3d3;*/
+        border: thin solid #d3d3d3;
         /*border-bottom: thin solid #d3d3d3;*/
     }
     .ver-line {
@@ -26,6 +26,9 @@ classes: wide
     left: 0;
     top:0
     }
+    .ver-cell.ver-has-bar {
+        position:relative
+    }
     .ver-color-1 {
         background: #4285F4;
     }
@@ -35,8 +38,11 @@ classes: wide
     .ver-color-3 {
         background: #78C257;
     }
-    .ver-cell.ver-has-bar {
-    position:relative
+        .ver-color-4 {
+        background:#F4B400;
+    }
+    .ver-color-5 {
+        background:#DB4437;
     }
 </style>
 <p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #4285F4">pre-hackathon</span>, <span style="color: #3b99a7;">during-hackathon</span>, and <span style="color: #78C257;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
