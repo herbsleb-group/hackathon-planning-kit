@@ -83,6 +83,7 @@ classes: wide
         width: 100%;
     }
 </style>
+<script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 <div>
 <table style="width: 100%;">
     <tr>
@@ -91,7 +92,9 @@ classes: wide
         <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
       </td>
       <td style="width: 31%;">
-        <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
+        <span><strong>James D. Herbsleb</strong></span><br>
+        <span>Professor of Computer Science</span><br>
+        <span></span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
       </td>
       <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
       <td style="width: 30%;">jdh [at] cs.cmu.edu</td>
