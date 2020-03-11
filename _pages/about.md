@@ -7,15 +7,7 @@ classes: wide
 sidebar:
   nav: "main"
 ---
-<style>
-  ul {
-      white-space: nowrap;
-      list-style-type: none;
-  }
-  li {
-    display: inline-block;
-  }
-</style>
+
 <!-- Based on our empirical study of 14 hackathons including:
 - a large-scale corporate hackathon by Microsoft,
 - events hosted by universities, and
@@ -26,29 +18,34 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 <hr> -->
 This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.
 <div style="text-align: center;">
-  <ul>
-    <li><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width: 120px; height: auto;"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width: 200px; height: auto;"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu" style="width: 300px; height: auto"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></li>
-  </ul>
+<table style="width: 100%;">
+  <tr>
+    <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width:300px;height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <!-- <td><img src="/hackathon-planning-kit/images/tartu.jpg" alt="University of Tartu" style="width:450px;height:80px;"></td> -->
+    <td><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu" style="width:450px; height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width:450px;height:auto;"></td>
+  </tr>
+</table>
 </div>
 
 <hr>
 <p>We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackahtons.</p>
 <div style="text-align: center;">
-  <ul>
-    <li><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></li>
-  </ul>
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></td>
+  </tr>
+</table>
 </div>
 
 [1]:  https://www.isri.cmu.edu/
