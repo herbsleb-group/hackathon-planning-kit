@@ -8,8 +8,8 @@ sidebar:
 classes: wide
 ---
 <style>
-td {
-  vertical-align: top;
+.td {
+  vertical-align: center;
 }
 .ver-line {
     position: absolute;
@@ -66,7 +66,7 @@ img {
   width: 30%;
   float: left;
 }
-img {
+.img {
   width:100px;
   height:100px;
   border:2px solid #4285F4;
