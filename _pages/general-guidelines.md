@@ -45,7 +45,7 @@ classes: wide
         background:#DB4437;
     }
 </style>
-<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #4285F4">pre-hackathon</span>, <span style="color: #3b99a7;">during-hackathon</span>, and <span style="color: #78C257;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
+<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">during-hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
 
 <div>
 <table style="width: 100%;">
@@ -55,7 +55,7 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-1"></span>
+        <span class="ver-line ver-color-5"></span>
         <span><strong>Pre-Hackathon</strong></span>
     </td>
     <td style="width: 80%;">
@@ -86,8 +86,8 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-2"></span>
-        <strong>During-Hackathon</strong>
+        <span class="ver-line ver-color-3"></span>
+        <strong>Hackathon</strong>
     </td>
     <td style="width: 80%;">
       <ul>
@@ -107,7 +107,7 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-3"></span>
+        <span class="ver-line ver-color-1"></span>
         <strong>Post-Hackathon</strong>
     </td>
     <td style="width: 80%;">
