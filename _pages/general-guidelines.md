@@ -19,8 +19,8 @@ classes: wide
     .ver-line {
     position: absolute;
     display: inline-block;
-    height: 10px;
-    width: 6px;
+    height: 40px;
+    width: 12px;
     left: 0;
     top:0
     }
@@ -43,7 +43,7 @@ classes: wide
         background:#DB4437;
     }
 </style>
-<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">during-hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
+<p>We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
 
 <div>
 <table style="width: 100%;">
