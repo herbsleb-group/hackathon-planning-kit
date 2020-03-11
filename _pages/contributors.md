@@ -84,7 +84,7 @@ classes: wide
     }
 </style>
 <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
-<div>
+<div style="text-align: center;">
 <table style="width: 100%;">
 <tr>
   <td style="width: 20%;">
@@ -98,47 +98,71 @@ classes: wide
     <span>Carnegie Mellon University</span>
   </td>
   <td style="width: 40%;">
-    <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="mailto:jdh@cs.cmu.edu" target="_top">&nbsp;&nbsp;jdh [at] cs.cmu.edu</a></span><br>
-    <span><i class="fas fa-globe" style="font-size:16px;"></i><a href="https://herbsleb.org/">&nbsp;&nbsp;https://herbsleb.org/</a></span>
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jdh@cs.cmu.edu" target="_top">jdh [at] cs.cmu.edu</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
   </td>
 </tr>
 <tr>
-  <td style="width: 15%;">
-    <!-- <span class="ver-line ver-color-1"></span> -->
+  <td style="width: 20%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
   </td>
-  <td style="width: 31%;">
-    <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
+  <td style="width: 40%;">
+    <span><strong>Erik Trainer</strong></span><br>
+    <span>Principal UX Researcher</span><br>
+    <span>Fidelity Investments</span>
   </td>
-  <td style="width: 30%;">Fidelity Investments</td>
-  <td style="width: 30%;">etrainer [at] cs.cmu.edu</td>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:etrainer@cs.cmu.edu" target="_top">etrainer [at] cs.cmu.edu</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://www.cs.cmu.edu/~etrainer/">https://www.cs.cmu.edu/~etrainer/</a></span>
+  </td>
 </tr>
 <tr>
-  <td style="width: 15%;">
-    <!-- <span class="ver-line ver-color-1"></span> -->
+  <td style="width: 20%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
-  <td style="width: 31%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
-  <td style="width: 30%;">GitHub</td>
-  <td style="width: 30%;">annafil [at] gmail.com</td>
+  <td style="width: 40%;">
+    <span><strong>Anna Filippova</strong></span><br>
+    <span>Senior Manager, Data Science</span><br>
+    <span>GitHub</span>
+  </td>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:annafil@gmail.com" target="_top">annafil [at] gmail.com</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/annafilippova">https://www.linkedin.com/in/annafilippova</a></span>
+  </td>
 </tr>
 <tr>
-  <td style="width: 15%;">
-    <!-- <span class="ver-line ver-color-1"></span> -->
+  <td style="width: 20%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
   </td>
-  <td style="width: 31%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
-  <td style="width: 30%;">Institute of Computer Science<br>University of Tartu</td>
-  <td style="width: 30%;">alexander.nolte [at] ut.ee</td>
+  <td style="width: 40%;">
+    <span><strong>Alexander Nolte</strong></span><br>
+    <span>Assistant Professor</span><br>
+    <span>Institute of Computer Science</span><br>
+    <span>University of Tartu</span>
+  </td>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alexander.nolte@ut.ee" target="_top">alexander.nolte [at] ut.ee</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="http://www.anolte.com">http://www.anolte.com</a></span>
+  </td>
 </tr>
 <tr>
-  <td style="width: 15%;">
-    <!-- <span class="ver-line ver-color-1"></span> -->
+  <td style="width: 20%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
   </td>
-  <td style="width: 31%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
-  <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-  <td style="width: 30%;">eipa [at] cmu.edu</td>
+  <td style="width: 40%;">
+    <span><strong>Ei Pa Pa Pe-Than</strong></span><br>
+    <span>Postdoctoral Associate</span><br>
+    <span>Institute for Software Research</span><br>
+    <span>Carnegie Mellon University</span>
+  </td>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:eipa@cmu.edu" target="_top">eipa [at] cmu.edu</a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;<a href="https://eipapa.github.io/">https://eipapa.github.io/</a></span>
+  </td>
 </tr>
 </table>
 </div>
