@@ -11,10 +11,11 @@ classes: wide
     td {
         padding: 5px 10px;
         vertical-align: center;
-        border: thin solid #d3d3d3;
+        /*border: thin solid #d3d3d3;*/
     }
     tr {
-        /*border-bottom: thin solid #d3d3d3;*/
+        border-top: thin solid #d3d3d3;
+        border-bottom: thin solid #d3d3d3;
     }
     .ver-line {
         position: absolute;
