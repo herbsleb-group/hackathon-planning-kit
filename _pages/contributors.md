@@ -94,7 +94,7 @@ classes: wide
       <td style="width: 31%;">
         <span><strong>James D. Herbsleb</strong></span><br>
         <span>Professor of Computer Science</span><br>
-        <span></span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
+        <span><i class="fas fa-envelope" style="font-size:16px;"></i><a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
       </td>
       <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
       <td style="width: 30%;">jdh [at] cs.cmu.edu</td>
