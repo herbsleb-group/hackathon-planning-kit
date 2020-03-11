@@ -70,9 +70,9 @@ classes: wide
       float: left;
     }
     img {
-      width:75px;
-      height:75px;
-      border:2px solid #4285F4;
+      width: 100px;
+      height: 100px;
+      border: 1px solid #4285F4;
       border-radius: 50%;
     }
     p {
