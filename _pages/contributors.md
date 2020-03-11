@@ -67,12 +67,12 @@ img {
   float: left;
 }
 </style>
-<div>
+<div align="center">
 <table style="width:100%; margin-left:auto; margin-right:auto;">
 <tr style="border: thin solid #d3d3d3;">
-  <td class="ver-cell ver-has-bar" width="15%">
+  <td class="ver-cell ver-has-bar">
     <span class="ver-line ver-color-1"></span>
-    <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px;height:100px;">
+    <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb" style="width:100px; height:100px; border:2px solid ##4285F4;">
   </td>
   <td style="vertical-align: bottom;" width="30%">
     <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
