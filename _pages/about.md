@@ -17,7 +17,7 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 
 <hr> -->
 This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.
-<div style="text-align:center">
+<div style="text-align: center;">
 <table style="width: 100%;">
   <tr>
     <td><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width:450px;height:auto;"></td>
@@ -34,7 +34,7 @@ This research project is the joint effort of [Institute for Software Research][1
 
 <hr>
 <p>We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackahtons.</p>
-<div style="text-align:center">
+<div style="text-align: center;">
 <table style="width: 100%;">
   <tr style="width: 100%;">
     <td><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></td>

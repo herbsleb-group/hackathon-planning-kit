@@ -11,24 +11,26 @@ sidebar:
 <!-- <!DOCTYPE html>
 <meta charset="utf-8"> -->
 <style> /* set the CSS */
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
+  }
 
-.node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 3px;
-}
+  .node text { font: 12px sans-serif; }
 
-.node text { font: 12px sans-serif; }
+  .node--internal text {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+  }
 
-.node--internal text {
-  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
-}
-
-.link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 2px;
-}
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+  }
+  p {
+    text-align: justify;
+  }
 </style>
 <p>The hackathons for learning are typically used as a means to provide <span style="color:#78C257">informal or extracurricular learning activities where participants can learn how to solve specific challenges or learn new skills</span>.</p>
 <p>The essential aspects of this type of hackathon are matching the technical complexity of projects with participants' skills, having a mix of skills in the teams, and having mentors as team members or on-demand.</p>
