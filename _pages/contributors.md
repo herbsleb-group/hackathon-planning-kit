@@ -80,6 +80,7 @@ classes: wide
     }
     tr {
         height: 120px;
+        width: 100%;
     }
 </style>
 <div>
@@ -93,7 +94,7 @@ classes: wide
         <a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a><br>Professor of Computer Science
       </td>
       <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-      <td style="width: 24%;">jdh [at] cs.cmu.edu</td>
+      <td style="width: 30%;">jdh [at] cs.cmu.edu</td>
     </tr>
     <tr>
       <td style="width: 15%;">
@@ -104,7 +105,7 @@ classes: wide
         <a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a><br>Principal UX Researcher
       </td>
       <td style="width: 30%;">Fidelity Investments</td>
-      <td style="width: 24%;">etrainer [at] cs.cmu.edu</td>
+      <td style="width: 30%;">etrainer [at] cs.cmu.edu</td>
     </tr>
     <tr>
       <td style="width: 15%;">
@@ -113,7 +114,7 @@ classes: wide
       </td>
       <td style="width: 31%;"><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a><br>Senior Manager, Data Science</td>
       <td style="width: 30%;">GitHub</td>
-      <td style="width: 24%;">annafil [at] gmail.com</td>
+      <td style="width: 30%;">annafil [at] gmail.com</td>
     </tr>
     <tr>
       <td style="width: 15%;">
@@ -122,7 +123,7 @@ classes: wide
       </td>
       <td style="width: 31%;"><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a><br>Assistant Professor</td>
       <td style="width: 30%;">Institute of Computer Science<br>University of Tartu</td>
-      <td style="width: 24%;">alexander.nolte [at] ut.ee</td>
+      <td style="width: 30%;">alexander.nolte [at] ut.ee</td>
     </tr>
     <tr>
       <td style="width: 15%;">
@@ -131,7 +132,7 @@ classes: wide
       </td>
       <td style="width: 31%;"><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a><br>Postdoctoral Associate</td>
       <td style="width: 30%;">Institute for Software Research<br>Carnegie Mellon University</td>
-      <td style="width: 24%;">eipa [at] cmu.edu</td>
+      <td style="width: 30%;">eipa [at] cmu.edu</td>
     </tr>
 </table>
 </div>
