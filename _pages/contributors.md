@@ -8,8 +8,8 @@ sidebar:
 classes: wide
 ---
 <style>
-.td {
-  vertical-align: center;
+td {
+  vertical-align: top;
 }
 .ver-line {
     position: absolute;
