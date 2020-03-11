@@ -25,7 +25,7 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 
 <hr> -->
 This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.
-<div style="text-align: center;">
+<div>
 <ul class="ul-1">
     <li class="li-1"><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width: 100px; height: auto;"></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
