@@ -8,9 +8,6 @@ sidebar:
 classes: wide
 ---
 <style>
-.td {
-  vertical-align: center;
-}
 .ver-line {
     position: absolute;
     display: inline-block;
