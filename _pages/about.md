@@ -27,33 +27,30 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 <br>
 
 <hr> -->
-<p class="p-loc">This research project is the joint effort of [Institute for Software Research][1] at Carnegie Mellon University in Pittsburgh, PA, USA, and [Institute of Computer Science][2] at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.<br>
-We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackathons.
+<p class="p-loc">This research project is the joint effort of <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> at Carnegie Mellon University in Pittsburgh, PA, USA, and <a href="https://www.cs.ut.ee/en">Institute of Computer Science</a> at University of Tartu in Tartu, Estonia, and funded by Alfred P. Sloan foundation.</p>
+<p class="p-loc">We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackathons.
 </p>
 <div style="text-align: center;">
 <ul class="ul-1">
     <li class="li-1"><a href="https://www.isri.cmu.edu/" target="_blank"><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width: 150px; height: auto;"></a></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><a href="https://www.cmu.edu" target="_blank"><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width: 100px; height: auto;"></a></li>
-</ul>
-<ul class="ul-1">
+    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><a href="https://www.cs.ut.ee/en" target="_blank"><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu" style="width: 250px; height: auto"></a></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><a href="https://sloan.org" target="_blank"><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></a></li>
 </ul>
+<hr>
 <ul class="ul-1">
     <li class="li-1"><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></li>
-</ul>
-<ul class="ul-1">
+    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></li>
 </ul>
 </div>
-
-<hr>
 
 <!-- <div>
   <ul class="ul-1">
