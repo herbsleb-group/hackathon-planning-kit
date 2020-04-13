@@ -1,10 +1,4 @@
 main:
-  - title: "Acknowledgement"
-    url: /acknowledgement/
-    children:
-      - title: Contributors
-        url: /contributors/
-
   - title: "Planning Kit"
     url: /aspects/
     children:
@@ -54,3 +48,8 @@ main:
   #   url: /tags/
 
   #   url: /planningkit/
+  - title: "Acknowledgement"
+    url: /acknowledgement/
+    children:
+      - title: Contributors
+        url: /contributors/
