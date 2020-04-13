@@ -223,8 +223,8 @@ sidebar:
 </div>
 
 <h1>Workshop Participants</h1>
-<div class="row">
-<p style="font-size: 20px;">We would like to thank the participants of our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names of the participants are listed in an alphabetical order by surnames.</p>
+<div>
+<p style="font-size: 20px;">We would like to thank the participants of our two hackathon workshops at <a href="https://hackathon-workshop.github.io/">ACM CSCW 2017</a> and <a href="http://hackathon-workshop-2018.com/">ACM CHI 2018</a>. The names of the participants are listed in an alphabetical order by surnames.</p>
   <div class="col">
     <ul style="font-size: 18px;">
       <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
