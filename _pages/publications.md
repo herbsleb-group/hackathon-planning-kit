@@ -9,6 +9,6 @@ classes: wide
 ---
 
 # Peer-reviewed Papers
-{% for post in site.publications reversed %}
+{% for post in site.peerreviewed reversed %}
   {% include archive-single.html %}
 {% endfor %}
