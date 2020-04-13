@@ -1,10 +1,10 @@
 ---
 title: "The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design"
-collection: publications
-permalink: /publication/01/04/2018-CHI-workshop-2018
+collection: peerreviewed
+permalink: /peerreviewed/01/04/2018-CHI-workshop-2018
 excerpt: 'Hackathons or Hackathon-style events, describe increasingly popular time-bounded intensive events across different fields and sectors. Often cited examples of hackathons include the demanding overnight competitive coding events, but there are many design variations for different audiences and with divergent aims. They offer a new form of collaboration by affording explicit, predictable, time-bounded spaces for interdependent work and engaging with new audiences. This one-day workshop will bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences. Empirical insights from studying these events may help position the CHI community to better study, plan and design hackathon-style events and socio-technical systems that support new modes of production and collaboration.'
 date: 01/04/2018
-venue: 'Extended Abstracts of the 2018 ACM CHI Conference on Human Factors in Computing Systems (ACM CHI&apos;18)'
+venue: 'CHI&apos;18 Extended Abstract'
 ---
 [Download PDF here.](http://eipapa.github.io/hackathon-planning-kit/files/CHI-workshop-2018.pdf)
 
