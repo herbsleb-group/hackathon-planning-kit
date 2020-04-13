@@ -219,9 +219,10 @@ sidebar:
   </td>
 </tr>
 </table>
+<hr>
 </div>
 
-<br>
+<h1>Workshop Participants</h1>
 <div class="row">
 <p style="font-size: 20px;">We would like to thank the participants of our two hackathon workshops at ACM CSCW 2017 and ACM CHI 2018. The names of the participants are listed in an alphabetical order by surnames.</p>
   <div class="col">
