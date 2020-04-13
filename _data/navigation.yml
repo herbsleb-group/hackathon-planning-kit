@@ -17,39 +17,26 @@ main:
             url: /learning-tree/
           - title: "Entrepreneurship"
             url: /entrepreneurship-tree/
-      # - title: "Entrapreneurship Hackathon"
-      #   url: /entrapreneurship-tree/
-      # - title: "Community Building Hackathon"
-      #   url: /community-building-tree/
-      # - title: "Communal"
-      #   url: /communal/
-      # - title: "Contributive"
-      #   url: /contributive/
-      # - title: "Catalytic"
-      #   url: /catalytic/
-
-  - title: "Publications"
-    url: /publications/
-
   - title: "Resources"
     url: /resources/
     children:
+      - title: "Publications"
+        url: /publications/
       - title: "Guides"
         url: /guides/
       - title: "Hackathons"
         url: /hackathons/
       - title: "Workshops"
         url: /workshops/
+  - title: "Acknowledgement"
+    url: /acknowledgement/
+    # children:
+    #   - title: Contributors
+    #     url: /contributors/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-
   #   url: /planningkit/
-  - title: "Acknowledgement"
-    url: /acknowledgement/
-    children:
-      - title: Contributors
-        url: /contributors/
