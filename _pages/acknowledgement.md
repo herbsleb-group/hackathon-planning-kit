@@ -40,7 +40,7 @@ we provide a "<strong>hackathon planning kit</strong>" for different types of ha
 </ul>
 <hr>
 </div>
-<p class="p-loc">We would like to thank to Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackathons.
+<p class="p-loc">We would like to thank Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackathons.
 </p>
 <div style="text-align: center;">
 <ul class="ul-1">
