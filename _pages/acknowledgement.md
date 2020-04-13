@@ -19,12 +19,12 @@ sidebar:
     display: inline-block;
   }
   <!-- style for contributors.md -->
-  td {
+  .td-c {
       padding: 5px 10px;
       vertical-align: center;
       /*border: thin solid #d3d3d3;*/
   }
-  tr {
+  .tr-c {
       border-top: thin solid #eeeeee;
       border-bottom: thin solid #eeeeee;
   }
@@ -80,7 +80,7 @@ sidebar:
     width: 30%;
     float: left;
   }
-  img {
+  .img-c {
     width: 100px;
     height: 100px;
     border: 2px solid #4285F4;
@@ -130,19 +130,8 @@ sidebar:
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></li>
 </ul>
+<hr>
 </div>
-
-<!-- <div>
-  <ul class="ul-1">
-    <li class="li-1"><img src="/hackathon-planning-kit/images/msft-research.jpg" alt="Microsoft Research" style="width:200px;height:auto;"></li>
-    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li class="li-1"><img src="/hackathon-planning-kit/images/msft-garage.jpg" alt="Microsoft Garage" style="width:100px;height:auto;"></li>
-    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li class="li-1"><img src="/hackathon-planning-kit/images/stsci.jpg" alt="STScI" style="width:120px;height:auto;"></li>
-    <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li class="li-1"><img src="/hackathon-planning-kit/images/sgci.jpg" alt="SGCI" style="width:120px;height:auto;"></li>
-  </ul>
-</div> -->
 
 [1]:  https://www.isri.cmu.edu/
 [2]:  https://www.cs.ut.ee/en
@@ -154,7 +143,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
+    <img class="img-c" src="/hackathon-planning-kit/images/jherbsleb.jpg" alt="James D Herbsleb">
   </td>
   <td style="width: 40%;">
     <span><a href="https://herbsleb.org/"><strong>James D. Herbsleb</strong></a></span><br>
@@ -170,7 +159,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
+    <img class="img-c" src="/hackathon-planning-kit/images/erik.jpg" alt="Erik Trainer">
   </td>
   <td style="width: 40%;">
     <span><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Erik Trainer</strong></a></span><br>
@@ -185,7 +174,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
+    <img class="img-c" src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
   <td style="width: 40%;">
     <span><a href="https://www.linkedin.com/in/annafilippova"><strong>Anna Filippova</strong></a></span><br>
@@ -200,7 +189,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
+    <img class="img-c" src="/hackathon-planning-kit/images/anolte.jpg" alt="Alexander Nolte">
   </td>
   <td style="width: 40%;">
     <span><a href="http://www.anolte.com"><strong>Alexander Nolte</strong></a></span><br>
@@ -216,7 +205,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
+    <img class="img-c" src="/hackathon-planning-kit/images/eipa.jpg" alt="Ei Pa Pa Pe-Than">
   </td>
   <td style="width: 40%;">
     <span><a href="https://eipapa.github.io/"><strong>Ei Pa Pa Pe-Than</strong></a></span><br>
