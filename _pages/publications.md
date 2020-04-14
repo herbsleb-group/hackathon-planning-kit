@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: false
 sidebar:
@@ -8,7 +8,12 @@ sidebar:
 classes: wide
 ---
 
-# Peer-reviewed Papers
+## Peer-reviewed Papers
 {% for post in site.peerreviewed reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Peer-reviewed Papers
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
