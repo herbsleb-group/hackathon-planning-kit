@@ -143,6 +143,18 @@ defaults:
       author_profile: false
       share: true
       comments: true
+ # _techreports
+  - scope:
+      path: ""
+      type: techreports
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "main"
+      author_profile: false
+      share: true
+      comments: true
 
 collections:
   publications:
@@ -155,6 +167,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   workshops:
+    output: true
+    permalink: /:collection/:path/
+  techreports:
     output: true
     permalink: /:collection/:path/
   workshopprocs:
