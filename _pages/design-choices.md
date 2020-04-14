@@ -7,15 +7,15 @@ sidebar:
   nav: "main"
 classes: wide
 ---
-#Goal
-#Theme
-#Competition / Cooperation
-#Stakeholder involvement
-#Participant recruitment
-#Specialized preparation
-#Duration / Breaks
-#Ideation
-#Team formation / Project selection
-#Agenda (Checkpoints and presentations)
-#Mentoring
-#Continuity planning
+# Goal
+# Theme
+# Competition / Cooperation
+# Stakeholder involvement
+# Participant recruitment
+# Specialized preparation
+# Duration / Breaks
+# Ideation
+# Team formation / Project selection
+# Agenda (Checkpoints and presentations)
+# Mentoring
+# Continuity planning
