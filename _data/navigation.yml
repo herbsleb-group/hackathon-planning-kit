@@ -25,9 +25,9 @@ main:
       - title: "Publications"
         url: /publications/
         children:
-          - title: "Peer-reviewed Publications"
+          - title: "Peer Reviewed"
             url: /peer-reviewed/
-          - title: "Workshop Papers and Technical Reports"
+          - title: "Workshop and Tech Reports"
             url: /workshop-tech-reports/
       - title: "Guides"
         url: /guides/

@@ -7,3 +7,7 @@ sidebar:
   nav: "main"
 classes: wide
 ---
+
+{% for post in site.workshops reversed %}
+  {% include archive-single.html %}
+{% endfor %}
