@@ -1,6 +1,6 @@
 main:
   - title: "Planning Kit"
-    url: /aspects/
+    url: /planningkit/
     children:
       # - title: "Key Aspects"
       #   url: /aspects/
