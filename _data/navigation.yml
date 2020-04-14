@@ -24,6 +24,11 @@ main:
     children:
       - title: "Publications"
         url: /publications/
+        children:
+          - title: "Peer-reviewed Publications"
+            url: /peer-reviewed/
+          - title: "Workshop Papers and Technical Reports"
+            url: /workshop-tech-reports/
       - title: "Guides"
         url: /guides/
       - title: "Hackathons"

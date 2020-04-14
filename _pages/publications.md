@@ -8,12 +8,12 @@ sidebar:
 classes: wide
 ---
 
-## Peer-reviewed papers
+## Peer-reviewed Publications
 {% for post in site.peerreviewed reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Workshop papers and Technical reports
+## Workshop Papers and Technical Reports
 {% for post in site.workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
