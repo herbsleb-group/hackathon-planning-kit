@@ -2,7 +2,7 @@
 title: "From Diversity by Numbers to Diversity as Process: Supporting Inclusiveness in Software Development Teams with Brainstorming"
 collection: peerreviewed
 excerpt: 'Negative experiences in diverse software development teams have the potential to turn off minority participants from future team-based software development activity. We examine the use of brainstorming as one concrete team processes that may be used to improve the satisfaction of minority developers when working in a group. Situating our study in time-intensive hackathon-like environments where engagement of all team members is particularly crucial, we use a combination of survey and interview data to test our propositions. We find that brainstorming strategies are particularly effective for team members who identify as minorities, and support satisfaction with both the process and outcomes of teamwork through different mechanisms.'
-date: 07/20/2017
+date: 2017-07-20
 venue: 'ICSE&apos;17'
 ---
 [Download PDF here.](http://eipapa.github.io/hackathon-planning-kit/files/ICSE-filippova-2017.pdf)

@@ -2,7 +2,7 @@
 title: "Does it matter why we hack? – Exploring the impact of goal alignment in hackathons"
 collection: peerreviewed
 excerpt: 'Time-bounded events such as hackathons have become increasingly popular in recent years. During these events participants typically form teams, exercise fast prototype development, challenge themselves to innovate, practice new skills, collaborate with diverse team members, and compete against other teams. Hackathon organizers have a certain vision in mind about which outcome they would like to achieve and design the event based on this vision. Participants on the other hand do not necessarily share the same vision and come with their own goals and aspirations. While work in related fields suggests that it is important for goals of organizers and participants to align in order to achieve them this might be different in hackathons due to their unique setup. Drawing from literature we identified potential goals of organizers and participants and conducted a case study of three hackathons focusing on the alignment of goals between organizers and participants. Our findings indicate that the goals of organizers and participants did not align in all cases, that goal awareness on the part of the organizers appears may have a stronger impact on goal achievement and that hackathons appear to have inherent characteristics that can materialize even when not planned for.'
-date: 06/12/2019
+date: 019-06-12
 venue: 'ECSCW&apos;19'
 ---
 [Download PDF here.](http://eipapa.github.io/hackathon-planning-kit/files/ECSCW-nolte-2019.pdf)
