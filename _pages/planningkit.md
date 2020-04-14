@@ -21,10 +21,10 @@ Our kit focuses on tasks specific to hackathon and hence we advise organizers to
 </ul> -->
 
 <p style="text-align: justify;">
-  This kit is comprised of three main parts: key questions, timeline and tasks, and design choices.
-  <ul>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions"><b>Key question<b>:</a></li>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/timeline"><b>Timeline and tasks</b>:</a></li>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/design-choices"><b>Design choices</b>:</a></li>
-  </ul>
+  This kit consists of three main steps: key questions, general guidelines, and design choices. Following these steps in order, you will create the timeline of planning for your hackathon.
+  <ol>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions">Key question: Answering these questions help you figure out the goals of your event, etc.</a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/general-guidelines">General Guidelines: </a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/design-choices">Design choices: There are 12 key decisions that organizers need to make in designing their events. You have to go through each of these decision points and choose the design that favor reaching your event goals.</a></li>
+  </ol>
 </p>

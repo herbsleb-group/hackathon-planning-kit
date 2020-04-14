@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /timeline/
-title: "Timeline and Task"
+permalink: /general-guidelines/
+title: "General Guidelines"
 author_profile: false
 sidebar:
   nav: "main"

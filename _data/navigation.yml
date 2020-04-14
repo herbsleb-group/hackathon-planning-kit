@@ -6,8 +6,8 @@ main:
       #   url: /aspects/
       - title: "Key Questions"
         url: /key-questions/
-      - title: "Timeline and Tasks"
-        url: /timeline/
+      - title: "General Guidelines"
+        url: /general-guidelines/
       - title: "Design Choices"
         url: /design-choices/
       # - title: "Example Hackathons"
