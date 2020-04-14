@@ -23,8 +23,8 @@ Our kit focuses on tasks specific to hackathon and hence we advise organizers to
 <p style="text-align: justify;">
   This kit is comprised of three main parts: key questions, timeline and tasks, and design choices.
   <ul>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions">Key question: </a></li>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/timeline">Timeline and tasks: </a></li>
-    <li><a href="{{ relative_url }}/hackathon-planning-kit/X">Design choices: </a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/key-questions"><b>Key question<b>:</a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/timeline"><b>Timeline and tasks</b>:</a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/design-choices"><b>Design choices</b>:</a></li>
   </ul>
 </p>

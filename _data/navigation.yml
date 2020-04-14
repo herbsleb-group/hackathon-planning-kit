@@ -8,8 +8,10 @@ main:
         url: /key-questions/
       - title: "Timeline and Tasks"
         url: /timeline/
-      - title: "Example Hackathons"
-        url: /example-trees/
+      - title: "Design Choices"
+        url: /design-choices/
+      # - title: "Example Hackathons"
+      #   url: /example-trees/
         # children:
         #   - title: "Community Building"
         #     url: /community-building-tree/
