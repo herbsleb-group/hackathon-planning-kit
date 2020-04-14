@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink:
+permalink: /peer-reviewed/
 author_profile: false
 sidebar:
   nav: "main"
