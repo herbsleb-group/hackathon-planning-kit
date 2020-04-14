@@ -11,3 +11,7 @@ classes: wide
 {% for post in site.workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.techreports reversed %}
+  {% include archive-single.html %}
+{% endfor %}
