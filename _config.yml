@@ -107,10 +107,10 @@ defaults:
     values:
       layout: single
       author_profile: true
- # _publications
+ # _workshops
   - scope:
       path: ""
-      type: publications
+      type: workshops
     values:
       layout: single
       classes: wide
