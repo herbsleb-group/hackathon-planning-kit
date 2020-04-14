@@ -2,21 +2,21 @@ main:
   - title: "Planning Kit"
     url: /aspects/
     children:
-      - title: "Key Aspects"
-        url: /aspects/
+      # - title: "Key Aspects"
+      #   url: /aspects/
       - title: "Key Questions"
         url: /key-questions/
-      - title: "General Guidelines"
-        url: /general-guidelines/
+      - title: "Timeline and Tasks"
+        url: /timeline/
       - title: "Example Hackathons"
         url: /example-trees/
-        children:
-          - title: "Community Building"
-            url: /community-building-tree/
-          - title: "Learning"
-            url: /learning-tree/
-          - title: "Entrepreneurship"
-            url: /entrepreneurship-tree/
+        # children:
+        #   - title: "Community Building"
+        #     url: /community-building-tree/
+        #   - title: "Learning"
+        #     url: /learning-tree/
+        #   - title: "Entrepreneurship"
+        #     url: /entrepreneurship-tree/
   - title: "Resources"
     url: /resources/
     children:

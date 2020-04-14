@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /general-guidelines/
-title: "General Guidelines"
+permalink: /timeline/
+title: "Timeline and Task"
 author_profile: false
 sidebar:
   nav: "main"
@@ -42,8 +42,11 @@ classes: wide
     .ver-color-5 {
         background: #DB4437;
     }
+    .ver-color-0 {
+        background: #000;
+    }
 </style>
-<p style="text-align: justify;">We provide the general event planning guideline below which is organized in three phases: <span style="color: #DB4437">pre-hackathon</span>, <span style="color: #78C257;">hackathon</span>, and <span style="color: #4285F4;">post-hackathon</span>. Hackathons with any organizational goals can use this guideline to structure their events.</p>
+<p style="text-align: justify;">Below is the entire hackathon event planning timeline in three phases: pre-hack, hackathon event, and post-hack. For each phase, tasks required to perform are listed. This timeline and tasks are generic and hence organizers can use it to plan for their hackathons of any goals.</p>
 
 <div>
 <table style="width: 100%;">
@@ -53,8 +56,8 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-5"></span>
-        <span style="padding-left: 12px;"><strong>Pre-Hackathon</strong></span>
+        <span class="ver-line ver-color-0"></span>
+        <span style="padding-left: 12px;"><strong>Pre-hack</strong></span>
     </td>
     <td style="width: 80%;">
       <ul style="padding-top: 1px;">
@@ -84,8 +87,8 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-3"></span>
-        <span style="padding-left: 12px;"><strong>Hackathon</strong></span>
+        <span class="ver-line ver-color-0"></span>
+        <span style="padding-left: 12px;"><strong>Hackathon event</strong></span>
     </td>
     <td style="width: 80%;">
       <ul>
@@ -105,8 +108,8 @@ classes: wide
   </tr>
   <tr>
     <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;">
-        <span class="ver-line ver-color-1"></span>
-        <span style="padding-left: 12px;"><strong>Post-Hackathon</strong></span>
+        <span class="ver-line ver-color-0"></span>
+        <span style="padding-left: 12px;"><strong>Post-hack</strong></span>
     </td>
     <td style="width: 80%;">
       <ul>
