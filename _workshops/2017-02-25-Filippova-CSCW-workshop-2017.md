@@ -1,11 +1,12 @@
 ---
-title: "Workshop proposal for the 1st Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design"
+title: "Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design"
 collection: workshops
+permalink: /workshops/2017-02-25-Filippova-CSCW-workshop-2017
 excerpt: 'Time-bounded collaborative events in which teams work together under intense time pressure are becoming increasingly popular. While hackathons, that is, competitive overnight coding events, are one of the more prevalent examples of this phenomenon, there are many more distinct event design variations for different audiences and with divergent aims, such as sprints, codefests, hack-days, edit-a-thons and so on. Taken together, these events offer new opportunities and challenges for cooperative work by affording explicit, predictable, time-bounded spaces for interdependent work and access to new audiences of collaborators. This one-day workshop brings together researchers interested in the phenomenon, experienced event organizers, and participants interested in running their own events to consolidate research to-date, share practical experiences, and understand what benefits different event variations may offer, how they may be applied in other contexts, and how insights from studying these events may contribute to CSCW knowledge.'
 date: 2017-02-25
 venue: 'CSCW&apos;17'
 ---
-[Download PDF here.](http://eipapa.github.io/hackathon-planning-kit/files/CSCW-workshop-filippova-2017.pdf)
+[Download PDF here.](http://eipapa.github.io/hackathon-planning-kit/files/Filippova-CSCW-workshop-2017.pdf)
 
 **Abstract**:Time-bounded collaborative events in which teams work together under intense time pressure are becoming increasingly popular. While hackathons, that is, competitive overnight coding events, are one of the more prevalent examples of this phenomenon, there are many more distinct event design variations for different audiences and with divergent aims, such as sprints, codefests, hack-days, edit-a-thons and so on. Taken together, these events offer new opportunities and challenges for cooperative work by affording explicit, predictable, time-bounded spaces for interdependent work and access to new audiences of collaborators. This one-day workshop brings together researchers interested in the phenomenon, experienced event organizers, and participants interested in running their own events to consolidate research to-date, share practical experiences, and understand what benefits different event variations may offer, how they may be applied in other contexts, and how insights from studying these events may contribute to CSCW knowledge.
 
