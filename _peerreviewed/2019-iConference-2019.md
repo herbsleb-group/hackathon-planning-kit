@@ -1,7 +1,6 @@
 ---
 title: "Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes"
 collection: peerreviewed
-permalink: /peerreviewed/03/13/2019-iConference-2019
 excerpt: 'Nowadays, hackathons have become a popular way of bringing people together to engage in brief, intensive collaborative work. Despite being a brief activity, being collocated with team members and focused on a task—radical collocation—could improve collaboration of scientific software teams. Using a mixed-methods study of participants who attended two hackathons at Space Telescope Science Institute (STScI), we examined how hackathons can facilitate collaboration in scientific software teams which typically involve members from two different disciplines: science and software engineering. We found that hackathons created a focused interruption-free working environment in which team members were able to assess each other’s skills, focus together on a single project and leverage opportunities to exchange knowledge with other collocated participants, thereby allowing technical work to advance more efficiently. This study suggests “hacking” as a new and productive form of collaborative work in scientific software production.'
 date: 03/13/2019
 venue: 'iConference&apos;19'
