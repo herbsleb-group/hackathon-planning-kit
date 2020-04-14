@@ -154,6 +154,12 @@ collections:
   peerreviewed:
     output: true
     permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
+  workshopprocs:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
