@@ -14,7 +14,7 @@ classes: wide
     }
     tr {
         border: thin solid #eeeeee;
-        /*border-bottom: thin solid #d3d3d3;*/
+        <!-- /*border-bottom: thin solid #d3d3d3;*/ -->
     }
     <!-- .ver-line {
     position: absolute;
@@ -122,4 +122,3 @@ classes: wide
   </tr>
 </table>
 </div>
-<!-- <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;"> -->

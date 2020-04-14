@@ -120,10 +120,10 @@ classes: wide
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/x.jpg" alt="Chalalai Chaihurunkarn">
+    <img src="/hackathon-planning-kit/images/erik.jpg" alt="Chalalai Chaihurunkarn">
   </td>
   <td style="width: 40%;">
-    <span><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Chalalai Chaihurunkarn</strong></a></span><br>
+    <span><a href=""><strong>Chalalai Chaihurunkarn</strong></a></span><br>
     <span>PhD Candidate</span><br>
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
