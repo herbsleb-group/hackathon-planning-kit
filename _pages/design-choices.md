@@ -1,12 +1,13 @@
 ---
 layout: single
 permalink: /design-choices/
-title: ""
+title: "Design Choices"
 author_profile: false
 sidebar:
   nav: "main"
 classes: wide
 ---
+
 ### Goal
 ### Theme
 ### Competition / Cooperation
