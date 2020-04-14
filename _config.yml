@@ -119,6 +119,18 @@ defaults:
       author_profile: false
       share: true
       comments: true
+ # _peerreviewed
+  - scope:
+      path: ""
+      type: peerreviewed
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "main"
+      author_profile: false
+      share: true
+      comments: true
  # _guides
   - scope:
       path: ""
@@ -137,6 +149,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   guides:
+    output: true
+    permalink: /:collection/:path/
+  peerreviewed:
     output: true
     permalink: /:collection/:path/
 
