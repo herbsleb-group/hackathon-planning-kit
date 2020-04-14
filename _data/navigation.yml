@@ -23,7 +23,7 @@ main:
     url: /resources/
     children:
       - title: "Publications"
-        url: /publications/
+        url: /peer-reviewed/
         children:
           - title: "Peer Reviewed"
             url: /peer-reviewed/
