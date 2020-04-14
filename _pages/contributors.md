@@ -120,6 +120,22 @@ classes: wide
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
+    <img src="/hackathon-planning-kit/images/x.jpg" alt="Chalalai Chaihurunkarn">
+  </td>
+  <td style="width: 40%;">
+    <span><a href="https://www.cs.cmu.edu/~etrainer/"><strong>Chalalai Chaihurunkarn</strong></a></span><br>
+    <span>PhD Candidate</span><br>
+    <span>Institute for Software Research</span><br>
+    <span>Carnegie Mellon University</span>
+  </td>
+  <td style="width: 40%;">
+    <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="X" target="_top"></a></span><br>
+    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="X"></a></span>
+  </td>
+</tr>
+<tr>
+  <td style="width: 20%;">
+  <!-- <span class="ver-line ver-color-1"></span> -->
     <img src="/hackathon-planning-kit/images/afilippova.jpg" alt="Anna Filippova">
   </td>
   <td style="width: 40%;">
