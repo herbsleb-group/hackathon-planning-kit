@@ -16,7 +16,7 @@ classes: wide
         border: thin solid #eeeeee;
         /*border-bottom: thin solid #d3d3d3;*/
     }
-    .ver-line {
+    <!-- .ver-line {
     position: absolute;
     display: inline-block;
     height: 60px;
@@ -44,7 +44,7 @@ classes: wide
     }
     .ver-color-0 {
         background: #000;
-    }
+    } -->
 </style>
 
 <p style="text-align: justify;">Below is the entire hackathon event planning timeline which is divided into three phases: pre-hack, hackathon event, and post-hack. For each phase, the tasks required to perform are listed. This timeline and tasks are generic and that organizers can use it in the planning of their hackathons of any goals.</p>
