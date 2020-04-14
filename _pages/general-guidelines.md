@@ -46,6 +46,7 @@ classes: wide
         background: #000;
     }
 </style>
+
 <p style="text-align: justify;">Below is the entire hackathon event planning timeline which is divided into three phases: pre-hack, hackathon event, and post-hack. For each phase, the tasks required to perform are listed. This timeline and tasks are generic and that organizers can use it in the planning of their hackathons of any goals.</p>
 
 <div>
@@ -55,7 +56,6 @@ classes: wide
     <th style="font-size:1.4em; width:80%"><strong>What to do</strong></th>
   </tr>
   <tr>
-    <!-- <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;"> -->
       <td style="width: 20%; vertical-align: top;">
         <span class="ver-line ver-color-0"></span>
         <span style="padding-left: 12px;"><strong>Pre-hack (4 months before)</strong></span>
@@ -122,3 +122,4 @@ classes: wide
   </tr>
 </table>
 </div>
+<!-- <td class="ver-cell ver-has-bar" style="width: 20%; vertical-align: top;"> -->
