@@ -9,4 +9,6 @@ classes: wide
 ---
 <style>
   p {text-align:justify;}
+  b { color: #FF9900; }
+  li { text-align:justify; }
 </style>

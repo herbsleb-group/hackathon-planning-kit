@@ -9,6 +9,7 @@ classes: wide
 ---
 <style>
   p { text-align:justify; }
+  b { color: #FF9900; }
   li { text-align:justify; }
 </style>
 <p><b>When?</b>: Team formation or project selection typically take place at the beginning of the event after projects are presented to the participants. But organizers should also expect that some participants may join the hackathon as a team.</p>

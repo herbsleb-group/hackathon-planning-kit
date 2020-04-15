@@ -9,10 +9,10 @@ main:
           url: /community-building/
         - title: "Innovative products"
           url: /innovative-products/
-    - title: "Key Questions"
-      url: /key-questions/
-    - title: "General Guidelines"
-      url: /general-guidelines/
+    # - title: "Key Questions"
+    #   url: /key-questions/
+    # - title: "General Guidelines"
+    #   url: /general-guidelines/
     - title: "Design Choices"
       url: /design-choices/
   - title: "Resources"
