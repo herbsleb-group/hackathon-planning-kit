@@ -16,7 +16,11 @@ classes: wide
 <p><b>HOW TO USE IT: </b>If you are a first-time organizer, we suggest that you adopt either one of the example timelines that refects your goals. Here's <a href="{{ relative_url }}/hackathon-planning-kit/example-timelines">this page</a> that you should be looking next.</p>
 <p>If you are an experienced organizer, we suggest that you construct your own timeline considering design choices listed on <a href="{{ relative_url }}/hackathon-planning-kit/design-choices">this page</a>.<p>
 <hr>
-<p><i>The development of this planning kit is ongoing and the scheduled completion date is June 12 2020.</i></p>
+<p><b>Our schedule for completion is</b>:<br>
+May 8: initial draft of all content complete<br>
+May 29: final version of all content complete<br>
+June 12: final version of planning kit website, using Bootstrap templates</p>
+
 
 <!-- Like any other event, hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, and considering general logistics such as transportation, hosting, catering and others.
 
