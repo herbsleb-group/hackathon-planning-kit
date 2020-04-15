@@ -20,5 +20,5 @@ classes: wide
   <li>Team formation / Project selection</li>
   <li>Agenda (Checkpoints and presentations)</li>
   <li>Mentoring</li>
-  <li>Continuity planning/li>
+  <li>Continuity planning</li>
 </ol>
