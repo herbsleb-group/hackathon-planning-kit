@@ -9,12 +9,33 @@ main:
           url: /community-building/
         - title: "Innovative products"
           url: /innovative-products/
-    # - title: "Key Questions"
-    #   url: /key-questions/
-    # - title: "General Guidelines"
-    #   url: /general-guidelines/
     - title: "Design Choices"
       url: /design-choices/
+      children:
+        - title: "Goal"
+          url:
+        - title: "Theme"
+          url:
+        - title: "Competition / Cooperation"
+          url: /competition-cooperation/
+        - title: "Stakeholder involvement"
+          url:
+        - title: "Participant recruitment"
+          url:
+        - title: "Sepcialized preparation"
+          url:
+        - title: "Duration / Breaks"
+          url:
+        - title: "Ideation"
+          url: /ideation/
+        - title: "Team formation / Project selection"
+          url: /team-formation-project-selection/
+        - title: "Agenda (Checkpoints and presentations)"
+          url:
+        - title: "Mentoring"
+          url: /mentoring/
+        - title: "Continuity planning"
+          url: /continuity-planning/
   - title: "Resources"
     url: /resources/
     children:

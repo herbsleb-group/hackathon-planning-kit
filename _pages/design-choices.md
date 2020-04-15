@@ -18,7 +18,7 @@ classes: wide
   <li>Stakeholder involvement</li>
   <li>Participant recruitment</li>
   <li>Specialized preparation</li>
-  <li>Duration and Breaks</li>
+  <li>Duration / Breaks</li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/ideation">Ideation</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/team-formation-project-selection">Team formation / Project selection</a></li>
   <li>Agenda (Checkpoints and presentations)</li>
