@@ -11,8 +11,7 @@ classes: wide
   p {text-align:justify;}
 </style>
 <p>
-
-<ol>
+<ul>
   <li>Goal</li>
   <li>Theme</li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">Competition / Cooperation</a></li>
@@ -25,5 +24,5 @@ classes: wide
   <li>Agenda (Checkpoints and presentations)</li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/mentoring">Mentoring</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/continuity-planning">Continuity planning</a></li>
-</ol>
+</ul>
 </p>
