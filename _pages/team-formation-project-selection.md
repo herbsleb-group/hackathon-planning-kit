@@ -8,7 +8,8 @@ sidebar:
 classes: wide
 ---
 <style>
-  p {text-align:justify;}
+  p { text-align:justify; }
+  ol.li { text-align:justify; }
 </style>
 <p><b>When?</b>: Team formation or project selection typically take place at the beginning of the event after projects are presented to the participants. But organizers should also expect that some participants may join the hackathon as a team.</p>
 <p><b>Who?</b>: This can be done either by participants or organizers. Specifically, participants self-select teams/projects based on their interest or organizers assign participants to the teams/projects.</p>
