@@ -9,7 +9,7 @@ classes: wide
 ---
 <style>
   p { text-align:justify; }
-  b { color: #FF9900; }
+  <!-- b { color: #FF9900; } -->
   li { text-align:justify; }
 </style>
 <p><b>When?</b>: Ideation typically takes place before the hackathon, but organizers can also plan for a dedicated ideation session at the beginning of the event itself.</p>
