@@ -23,7 +23,7 @@ classes: wide
   <li>Ideation</li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/team-formation-project-selection">Team formation / Project selection</a></li>
   <li>Agenda (Checkpoints and presentations)</li>
-  <li><a href="{{ relative_url }}/hackathon-planning-kit/mentoring">Mentoring</li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/mentoring">Mentoring</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/continuity-planning">Continuity planning</a></li>
 </ol>
 </p>
