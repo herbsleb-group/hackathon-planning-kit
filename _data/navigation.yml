@@ -30,7 +30,7 @@ main:
           url: /ideation/
         - title: "Team formation / Project selection"
           url: /team-formation-project-selection/
-        - title: "Agenda (Checkpoints and presentations)"
+        - title: "Agenda"
           url:
         - title: "Mentoring"
           url: /mentoring/
