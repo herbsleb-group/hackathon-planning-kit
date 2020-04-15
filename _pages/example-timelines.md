@@ -8,5 +8,8 @@ sidebar:
   nav: "main"
 ---
 <p></p>
-<p><a href="{{ relative_url }}/hackathon-planning-kit/community-building">Community Building</a><p>
-<p><a href="{{ relative_url }}/hackathon-planning-kit/innovative-products">Creating innovative products</a></p>
+<p>
+  <ul>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/community-building">Community Building</a></li>
+    <li><a href="{{ relative_url }}/hackathon-planning-kit/innovative-products">Creating innovative products</a></li>
+<p>

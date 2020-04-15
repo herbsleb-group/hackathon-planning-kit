@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Community Building Hackathon"
 permalink: /community-building/
 author_profile: false
