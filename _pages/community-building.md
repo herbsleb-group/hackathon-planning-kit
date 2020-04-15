@@ -12,20 +12,25 @@ classes: wide
     text-align:justify;
     margin-left: 40px;  }
 </style>
+<p>GOAL: Community building</p>
 <h3>Pre-hackathon</h3>
-<p><b>GOAL</b>: Community building</p>
-<p><b>THEMES</b>: Developing gateway, resources, infrastructure, a shared set of practices, e.g., data sharing</p>
-<p><b>COMPETITION / COOPERATION:</b></p>
-<p><b>Stakeholder involvement</b></p>
-<p><b>Participant recruitment</b></p>
-<p><b>Specialized preparation</b></p>
+<p>THEMES: The community building hackathons are organized around the themes of developing a gateway, resources, infrastructure, a shared set of practices, e.g., data sharing practices. Here're some examples: X and X.</p>
+<p>COOPERATION: </p>
+<p>STAKEHOLDER INVOLVEMENT:</p>
+<p>PARTICIPANT RECRUITMENT:</p>
+<p>SPECIALIZED PREPARATION:</p>
+<p>MENTORING: </p>
+<p>DURATION: 48 hours</p>
 
-<h3>Hackathon event</h3>
-<p><b>Ideation</b></p>
-<p><b>Team formation</b></p>
-<p><b>Duration / Breaks</b></p>
-<p><b>Checkpoints and presentation</b></p>
-<p><b>Mentoring</b></p>
+<h3>Hackathon event agenda</h3>
+<h4>DAY 1</h4>
+<p>IDEATION:</p>
+<p>PROJECT SELECTION / TEAM FORMATION:</p>
+<p>DURATION / SOCIAL BREAKS:</p>
+<p>CHECKPOINTS AND PRESENTATION:</p>
+<p>MENTORING: </p>
+<h4>DAY 2</h4>
+<h4>DAY 3</h4>
 
 <h3>Post-hackathon</h3>
-<p><b>Continuity planning</b></p>
+<p>CONTINUITY PLANNING: </p>
