@@ -7,7 +7,9 @@ sidebar:
   nav: "main"
 classes: wide
 ---
-
+<style>
+  p {text-align:justify;}
+</style>
 <h2>Before the hackathon</h2>
 <p><b>GOAL</b>: Community building</p>
 <p><b>THEMES</b>: Developing gateway, resources, infrastructure, a shared set of practices, e.g., data sharing</p>
