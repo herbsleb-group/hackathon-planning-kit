@@ -2,23 +2,19 @@ main:
   - title: "Planning Kit"
     url: /planningkit/
     children:
-      # - title: "Key Aspects"
-      #   url: /aspects/
-      - title: "Key Questions"
-        url: /key-questions/
-      - title: "General Guidelines"
-        url: /general-guidelines/
-      - title: "Design Choices"
-        url: /design-choices/
-      # - title: "Example Hackathons"
-      #   url: /example-trees/
-        # children:
-        #   - title: "Community Building"
-        #     url: /community-building-tree/
-        #   - title: "Learning"
-        #     url: /learning-tree/
-        #   - title: "Entrepreneurship"
-        #     url: /entrepreneurship-tree/
+    - title: "Example Timelines"
+      url: /example-timelines/
+      children:
+        - title: "Community Building"
+          url: /community-building/
+        - title: "Innovative products"
+          url: /innovative-products/
+    - title: "Key Questions"
+      url: /key-questions/
+    - title: "General Guidelines"
+      url: /general-guidelines/
+    - title: "Design Choices"
+      url: /design-choices/
   - title: "Resources"
     url: /resources/
     children:
@@ -37,13 +33,3 @@ main:
         url: /workshops/
   - title: "Acknowledgement"
     url: /acknowledgement/
-    # children:
-    #   - title: Contributors
-    #     url: /contributors/
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  #   url: /planningkit/

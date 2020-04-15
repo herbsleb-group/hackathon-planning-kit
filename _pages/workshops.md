@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-We organize workshops to bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences.
+We organized workshops to bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences. We organized the following workshops:
 <div>
 <h3><a href="http://hackathon-workshop-2018.com/">The 2nd Workshop on Hacking and Making at Time-Bounded Events Current Trends and Next Steps in Research and Event Design</a></h3>
 <i>Collocated with</i> ACM CHI 2018, Montreal, Canada
