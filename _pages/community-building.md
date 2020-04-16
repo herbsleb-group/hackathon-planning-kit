@@ -35,7 +35,7 @@ classes: wide
 <p>Presentation of ideas</p>
 <p>Team formation</p>
 <p>Hack begins!</p>
-<p><b>Day 2 (full-day)<b></p>
+<p><b>Day 2 (full-day)</b></p>
 <p>Coffee & breakfast</p>
 <p>Hack continues!</p>
 <p>Checkpoint #1</p>
