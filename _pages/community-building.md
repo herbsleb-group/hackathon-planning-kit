@@ -9,19 +9,20 @@ classes: wide
 ---
 <style>
   p { text-align:justify; }
-  li:before {
-    content: "";
-    position: absolute;
-    left: -29px;
-    border-left: 2px solid rgba(255,255,255,.2);
-    height: 100%;
-    top: 24px;
-  }
+  .line { border-left: 2px solid rgba(255,255,255,.2); }
+  li {
+    list-style-type: none;
+    color: #ff0046;
+    font-size: 32px;
+    position: relative;
+    margin-bottom: 10px;
+    padding-top: 8px;
+}
 </style>
 <div>
   <ul>
     <li>
-      ::before
+      <span class="line"></span>
       <span>Goal: Community building</span>
     </li>
   </ul>
