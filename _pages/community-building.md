@@ -14,9 +14,16 @@ classes: wide
     content: "";
     position: absolute;
     left: -29px;
-    border-left: 2px solid rgba(255,255,255,.2);
+    border-left: 2px solid #ff0046;
     height: 100%;
     top: 24px;
+}
+ul.li {
+  list-style-type: none;
+  font-size: 32px;
+  position: relative;
+  margin-bottom: 10px;
+  padding-top: 8px;
 }
 </style>
 <ul>
