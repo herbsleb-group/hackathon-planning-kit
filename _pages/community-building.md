@@ -32,6 +32,15 @@ classes: wide
     border-bottom: solid 2px #ff0046;
     opacity: 1;
 }
+.menu-tab li {
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 40px;
+    margin-right: 40px;
+    font-weight: 700;
+    opacity: .7;
+    border-bottom: solid 2px #94949452;
+}
 </style>
 <menu class="menu-tab">
   <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
