@@ -16,15 +16,6 @@ classes: wide
       margin-inline-start: 0px;
       margin-inline-end: 0px;
     }
-    menu {
-      display: block;
-      list-style-type: disc;
-      margin-block-start: 1em;
-      margin-block-end: 1em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
-      padding-inline-start: 40px;
-  }
   .menu-tab {
     display: flex;
   }
@@ -44,6 +35,9 @@ classes: wide
 body menu>li {
     list-style: none;
 }
+body menu {
+  position: relative;
+}
 .gr-event-body .gr-event-body__info {
     margin-top: 40px;
 }
@@ -51,8 +45,8 @@ body menu>li {
 <main class="gr-event-body">
   <menu class="menu-tab">
     <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
-    <li data-tab="hackathon">Hackathon</li>
-    <li data-tab="post-hackathon">Post-hackathon</li>
+    <li data-tab="hackathon" class>Hackathon</li>
+    <li data-tab="post-hackathon" class>Post-hackathon</li>
   </menu>
   <div class="gr-event-body__info">            
     <article class="pre-hackthon text-block" style="display: block;">
