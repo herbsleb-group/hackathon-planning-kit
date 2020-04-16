@@ -47,7 +47,6 @@ body menu {
     flex-wrap: wrap;
 }
 </style>
-
 <main class="gr-event-body">
   <menu class="menu-tab">
     <li data-tab="pre-hackathon">Pre-hackathon</li>
@@ -57,17 +56,17 @@ body menu {
   <div class="gr-event-body__info">            
     <article class="pre-hackathon text-block">
       <div style="text-align: justify;">
-      <!-- <h3>Pre-hackathon</h3> -->
-      <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
-      <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
-      <p>Stakeholder involvement - Refer to <a href="https://guide.mlh.io/organizer-timeline/4-months-before/sponsorship">5-step MLH sponsorship process</a> how to successfully get your event funded</p>
-      <p>Participant recruitment - Identify potential participants, e.g., decide if it is a close event or open event which invites participants from outside of the host organization / community / team boundary, send invitations and gather their skills and motivations via pre-hackathon questionnaire</p>
-      <p>Tools and technology - Decide what tools to use and set up communication channels and development environments
-      <p>Mentoring - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/mentoring">this page</a> for what mentoring strategy to use and how to recruit and support mentors</p>
-      <p>Continuity planning - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/continuity-planning">this page</a> for how to support the continuity of hackahton outcomes</p>
-      <p>Duration: Typically 48 hours</p>
-      <p>Venue, equipments, transportation, promoting the event, food, and other event planning logistics</p>
-      <p>Specialized preparation - Introduction of tools, technology, mentors to participants, and environment setup via online tutorials / webinars</p>
+        <!-- <h3>Pre-hackathon</h3> -->
+        <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
+        <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
+        <p>Stakeholder involvement - Refer to <a href="https://guide.mlh.io/organizer-timeline/4-months-before/sponsorship">5-step MLH sponsorship process</a> how to successfully get your event funded</p>
+        <p>Participant recruitment - Identify potential participants, e.g., decide if it is a close event or open event which invites participants from outside of the host organization / community / team boundary, send invitations and gather their skills and motivations via pre-hackathon questionnaire</p>
+        <p>Tools and technology - Decide what tools to use and set up communication channels and development environments
+        <p>Mentoring - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/mentoring">this page</a> for what mentoring strategy to use and how to recruit and support mentors</p>
+        <p>Continuity planning - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/continuity-planning">this page</a> for how to support the continuity of hackahton outcomes</p>
+        <p>Duration: Typically 48 hours</p>
+        <p>Venue, equipments, transportation, promoting the event, food, and other event planning logistics</p>
+        <p>Specialized preparation - Introduction of tools, technology, mentors to participants, and environment setup via online tutorials / webinars</p>
       </div>
     </article>
     <article class="hackathon text-block">
@@ -110,14 +109,14 @@ body menu {
 <script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.7.0/intersection-observer.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/javascripts/colorextract.js?v2"></script>
+<!-- <script type="text/javascript" src="/javascripts/colorextract.js?v2"></script>
 <script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script>
-<script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script> -->
 <script>
- $('.gr-form').voogAjaxForm()
+ <!-- $('.gr-form').voogAjaxForm()
  LL = new LazyLoad({
    elements_selector: ".gr-lazy"
- });
+ }); -->
  var firstTab = $(".menu-tab li").first();
  var initialTab = firstTab.data("tab");
  firstTab.addClass("current");
