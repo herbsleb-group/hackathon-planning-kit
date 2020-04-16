@@ -10,7 +10,7 @@ classes: wide
 <style>
   p { text-align:justify; }
   .line { border-left: 2px solid rgba(255,255,255,.2); }
-  li {
+  .li {
     list-style-type: none;
     color: #ff0046;
     font-size: 32px;
@@ -18,11 +18,19 @@ classes: wide
     margin-bottom: 10px;
     padding-top: 8px;
 }
+.li:before {
+    content: "";
+    position: absolute;
+    left: -29px;
+    border-left: 2px solid rgba(255,255,255,.2);
+    height: 100%;
+    top: 24px;
+}
 </style>
 <div>
   <ul>
     <li>
-      <span class="line"></span>
+      ::before
       <span>Goal: Community building</span>
     </li>
   </ul>
