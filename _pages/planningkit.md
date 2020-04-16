@@ -6,8 +6,6 @@ author_profile: false
 sidebar:
   nav: "main"
 classes: wide
-redirect_from:
-  - /home
 ---
 <style>
   p {text-align:justify;}
