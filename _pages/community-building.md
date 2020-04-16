@@ -50,7 +50,7 @@ body menu {
 
 <main class="gr-event-body">
   <menu class="menu-tab">
-    <li data-tab="pre-hackathon">Pre-hackathon</li>
+    <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
     <li data-tab="hackathon">Hackathon</li>
     <li data-tab="post-hackathon">Post-hackathon</li>
   </menu>
@@ -66,11 +66,11 @@ body menu {
     </article>                  
   </div>
 </main>
-<!-- <script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.7.0/intersection-observer.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.7.0/intersection-observer.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js"></script>
 <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 <script type="text/javascript" src="/javascripts/colorextract.js?v2"></script>
-<script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script> -->
+<script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script>
 <script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script>
 <script>
  var firstTab = $(".menu-tab li").first();
