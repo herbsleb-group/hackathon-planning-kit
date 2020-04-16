@@ -8,7 +8,11 @@ sidebar:
 classes: wide
 ---
 <style>
-  p { text-align:justify; }
+  p {
+    text-align: justify;
+    font-size: 0.75em;
+    padding-left: 1em;    
+  }
 </style>
 <h3>Pre-hackathon</h3>
 <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
@@ -29,7 +33,7 @@ classes: wide
 <p>Presentation of ideas</p>
 <p>Team formation</p>
 <p>Hack begins!</p>
-<p><b>Day 2 (full-day)<b></h4>
+<p><b>Day 2 (full-day)<b></p>
 <p>Coffee & breakfast</p>
 <p>Hack continues!</p>
 <p>Checkpoint #1</p>
@@ -43,9 +47,9 @@ classes: wide
 <p>Coffee & breakfast</p>
 <p>Hack continues!</p>
 <p>Checkpoint #3</p>
-<p>Team final presentations & Live steam</p>
+<p>Team final presentations & Live stream</p>
 <p>Lunch & networking</p>
-<p><b>Post-hackathon</b></p>
+<h3>Post-hackathon</h3>
 <p>Administer post-hackahton questionnaire</p>
-<p>Follow up on project progress</p>
-<p>Continued engagement with participants via tools used before and at the event</p>
+<p>Follow up on the project progress</p>
+<p>Continued engagement with participants via tools that are used before and at the event</p>
