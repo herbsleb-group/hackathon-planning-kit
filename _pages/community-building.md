@@ -8,10 +8,25 @@ sidebar:
 classes: wide
 ---
 <style>
-  p {
-    text-align:justify;
-    padding-left: 50px; }
+  p { text-align:justify; }
+  li:before {
+    content: "";
+    position: absolute;
+    left: -29px;
+    border-left: 2px solid rgba(255,255,255,.2);
+    height: 100%;
+    top: 24px;
+  }
 </style>
+<div>
+  <ul>
+    <li>
+      ::before
+      <span>Goal: Community building</span>
+    </li>
+  </ul>
+</div>
+
 <p style="padding-left:0px;">Goal: Community building</p>
 <p style="padding-left:0px;">Pre-hackathon</p>
 <p>Themes: Define the theme of your event, e.g., building a gateway, resources, infrastructure, a shared set of practices, e.g., data sharing practices.</p>
