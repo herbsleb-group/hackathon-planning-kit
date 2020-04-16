@@ -9,16 +9,8 @@ classes: wide
 ---
 <style>
   p { text-align:justify; }
-  .line { border-left: 2px solid rgba(255,255,255,.2); }
-  .li {
-    list-style-type: none;
-    color: #ff0046;
-    font-size: 32px;
-    position: relative;
-    margin-bottom: 10px;
-    padding-top: 8px;
-}
-.li:before {
+  li {  display: list-item; }
+  li:before {
     content: "";
     position: absolute;
     left: -29px;
@@ -27,15 +19,13 @@ classes: wide
     top: 24px;
 }
 </style>
-<div>
-  <ul>
-    <li>
-      ::before
-      <span>Goal: Community building</span>
-    </li>
-  </ul>
-</div>
-
+<ul>
+  <li>
+    ::before
+    <span>Test</span>
+  </li>
+</ul>
+<p>Goal: Community building</p>
 <p style="padding-left:0px;">Goal: Community building</p>
 <p style="padding-left:0px;">Pre-hackathon</p>
 <p>Themes: Define the theme of your event, e.g., building a gateway, resources, infrastructure, a shared set of practices, e.g., data sharing practices.</p>
