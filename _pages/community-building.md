@@ -9,14 +9,28 @@ classes: wide
 ---
 <style>
   p {
-    text-align: justify;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+      text-align: justify;
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+    }
+  .menu-tab {
+    display: flex;
   }
+  .menu-tab li.current {
+    border-bottom: solid 2px #ff0046;
+    opacity: 1;
+}
 </style>
+<menu class="menu-tab">
+  <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
+  <li data-tab="pre-hackathon">Hackathon</li>
+  <li data-tab="pre-hackathon">Post-hackathon</li>
+</menu>
+
+</menu>
 <h3>Pre-hackathon</h3>
 <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
 <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
