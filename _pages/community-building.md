@@ -41,7 +41,11 @@ classes: wide
     opacity: .7;
     border-bottom: solid 2px #94949452;
 }
+body menu>li {
+    list-style: none;
+}
 </style>
+
 <menu class="menu-tab">
   <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
   <li data-tab="pre-hackathon">Hackathon</li>
