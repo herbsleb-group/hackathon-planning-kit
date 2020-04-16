@@ -10,9 +10,11 @@ classes: wide
 <style>
   p {
     text-align: justify;
-    font-size: 0.75em;
-    padding-left: 1em;    
+    font-size: 0.625em;
+    padding-left: 2em;
+
   }
+  body {  line-height: 1; }
 </style>
 <h3>Pre-hackathon</h3>
 <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
