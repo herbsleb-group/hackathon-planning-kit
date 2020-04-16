@@ -47,7 +47,7 @@ body menu {
     flex-wrap: wrap;
 }
 </style>
-<div>
+
 <main class="gr-event-body">
   <menu class="menu-tab">
     <li data-tab="pre-hackathon">Pre-hackathon</li>
@@ -60,15 +60,19 @@ body menu {
     </article>
     <article class="hackathon text-block">
     <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
-    </article>                 
+    </article>  
+    <article class="post-hackathon text-block">
+    <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
+    </article>                  
   </div>
 </main>
+<script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.7.0/intersection-observer.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/javascripts/colorextract.js?v2"></script>
+<script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script>
+<script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script>
 <script>
-$('.gr-form').voogAjaxForm()
-LL = new LazyLoad({
-   elements_selector: ".gr-lazy"
- });
-
  var firstTab = $(".menu-tab li").first();
  var initialTab = firstTab.data("tab");
  firstTab.addClass("current");
@@ -81,4 +85,3 @@ LL = new LazyLoad({
      $(".gr-event-body").find("article." + $name).css("display","block").siblings("article").css("display","none")
  });
 </script>
-</div>
