@@ -56,7 +56,19 @@ body menu {
   </menu>
   <div class="gr-event-body__info">            
     <article class="pre-hackathon text-block">
-    <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
+      <div style="text-align: justify;">
+      <!-- <h3>Pre-hackathon</h3> -->
+      <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
+      <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
+      <p>Stakeholder involvement - Refer to <a href="https://guide.mlh.io/organizer-timeline/4-months-before/sponsorship">5-step MLH sponsorship process</a> how to successfully get your event funded</p>
+      <p>Participant recruitment - Identify potential participants, e.g., decide if it is a close event or open event which invites participants from outside of the host organization / community / team boundary, send invitations and gather their skills and motivations via pre-hackathon questionnaire</p>
+      <p>Tools and technology - Decide what tools to use and set up communication channels and development environments
+      <p>Mentoring - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/mentoring">this page</a> for what mentoring strategy to use and how to recruit and support mentors</p>
+      <p>Continuity planning - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/continuity-planning">this page</a> for how to support the continuity of hackahton outcomes</p>
+      <p>Duration: Typically 48 hours</p>
+      <p>Venue, equipments, transportation, promoting the event, food, and other event planning logistics</p>
+      <p>Specialized preparation - Introduction of tools, technology, mentors to participants, and environment setup via online tutorials / webinars</p>
+      </div>
     </article>
     <article class="hackathon text-block">
     <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
