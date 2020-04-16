@@ -10,7 +10,7 @@ classes: wide
 <style>
   p { text-align:justify; }
   li {  display: list-item; }
-  li:before {
+  li::before {
     content: "";
     position: absolute;
     left: -29px;
@@ -21,7 +21,6 @@ classes: wide
 </style>
 <ul>
   <li>
-    ::before
     <span>Test</span>
   </li>
 </ul>
