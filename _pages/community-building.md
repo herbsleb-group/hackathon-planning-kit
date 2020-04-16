@@ -50,7 +50,7 @@ body menu {
 
 <main class="gr-event-body">
   <menu class="menu-tab">
-    <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
+    <li data-tab="pre-hackathon">Pre-hackathon</li>
     <li data-tab="hackathon">Hackathon</li>
     <li data-tab="post-hackathon">Post-hackathon</li>
   </menu>
@@ -71,10 +71,39 @@ body menu {
       </div>
     </article>
     <article class="hackathon text-block">
-    <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
+      <div style="text-align: justify;">
+        <!-- <h3>Hackathon day agenda</h3> -->
+        <p><b>Day 1 (half-day)</b></p>
+        <p>Check-in, snacks</p>
+        <p>Opening remarks</p>
+        <p>Presentation of ideas</p>
+        <p>Team formation</p>
+        <p>Hack begins!</p>
+        <p><b>Day 2 (full-day)</b></p>
+        <p>Coffee & breakfast</p>
+        <p>Hack continues!</p>
+        <p>Checkpoint #1</p>
+        <p>Mentors go around</p>
+        <p>Lunch</p>
+        <p>Hack continues!</p>
+        <p>Breaks - snacks & games</p>
+        <p>Checkpoint #2</p>
+        <p>Dinner</p>
+        <p><b>Day 3 (half-day)</b></p>
+        <p>Coffee & breakfast</p>
+        <p>Hack continues!</p>
+        <p>Checkpoint #3</p>
+        <p>Team final presentations & Live stream</p>
+        <p>Lunch & networking</p>
+      </div>
     </article>  
     <article class="post-hackathon text-block">
-    <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
+      <div style="text-align: justify;">
+        <!-- <h3>Post-hackathon</h3> -->
+        <p>Administer post-hackahton questionnaire</p>
+        <p>Follow up on the project progress</p>
+        <p>Continued engagement with participants via tools that are used before and at the event</p>
+      </div>
     </article>                  
   </div>
 </main>
@@ -85,6 +114,10 @@ body menu {
 <script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script>
 <script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script>
 <script>
+ $('.gr-form').voogAjaxForm()
+ LL = new LazyLoad({
+   elements_selector: ".gr-lazy"
+ });
  var firstTab = $(".menu-tab li").first();
  var initialTab = firstTab.data("tab");
  firstTab.addClass("current");
