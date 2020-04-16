@@ -49,14 +49,13 @@ body menu {
 </style>
 <main class="gr-event-body">
   <menu class="menu-tab">
-    <li data-tab="pre-hackathon">Pre-hackathon</li>
-    <li data-tab="hackathon">Hackathon</li>
-    <li data-tab="post-hackathon">Post-hackathon</li>
+    <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
+    <li data-tab="hackathon" class="current">Hackathon</li>
+    <li data-tab="post-hackathon" class="current">Post-hackathon</li>
   </menu>
   <div class="gr-event-body__info">            
     <article class="pre-hackathon text-block">
       <div style="text-align: justify;">
-        <!-- <h3>Pre-hackathon</h3> -->
         <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
         <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
         <p>Stakeholder involvement - Refer to <a href="https://guide.mlh.io/organizer-timeline/4-months-before/sponsorship">5-step MLH sponsorship process</a> how to successfully get your event funded</p>
@@ -71,7 +70,6 @@ body menu {
     </article>
     <article class="hackathon text-block">
       <div style="text-align: justify;">
-        <!-- <h3>Hackathon day agenda</h3> -->
         <p><b>Day 1 (half-day)</b></p>
         <p>Check-in, snacks</p>
         <p>Opening remarks</p>
@@ -98,7 +96,6 @@ body menu {
     </article>  
     <article class="post-hackathon text-block">
       <div style="text-align: justify;">
-        <!-- <h3>Post-hackathon</h3> -->
         <p>Administer post-hackahton questionnaire</p>
         <p>Follow up on the project progress</p>
         <p>Continued engagement with participants via tools that are used before and at the event</p>
