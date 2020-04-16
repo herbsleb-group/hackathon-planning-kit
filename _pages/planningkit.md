@@ -11,22 +11,17 @@ classes: wide
   p {text-align:justify;}
 </style>
 <h2>You were always wondering what a hackathon is and if you should organize one? You came to the right place.</h2>
-<p>On this website you will find information about how to design a hackathon that fits your needs. We will guide you through decisions you have to take on this journey step-by-step. But lets start with the basics.</p>
+<p>On this website you will find information about how to design a hackathon that fits your needs. We will guide you step by step through key decisions you have to make on this journey. But lets start with the basics.</p>
 <p><b><u>WHAT IS A "HACKATHON"?</u></b> A hackathon is a short intensive event during which people come together, form teams and attempt to complete a project that is of interest to them. Teams are usually collocated, and often composed of people with diverse backgrounds, experience, and expertise. To get a more concrete idea we provided links to hackathons we co-organized <a href="{{ relative_url }}/hackathon-planning-kit/hackathons">here</a>.
-<p><b><u>HOW TO USE THIS WEBSITE:</b></u> If you are a first-time organizer, we suggest that you choose either one of the example timelines that refects your goals. Here's <a href="{{ relative_url }}/hackathon-planning-kit/example-timelines">the page</a> that you should be looking next.</p>
-
-<p><b>WHAT IT IS ABOUT: </b>This site is organized around 12 key design choices an organizer must make in planning a hackathon. For each choice, we provide information about who, when, and how to make the choice, and discuss the tradeoffs among the various options.</p>
-<p><b>EXAMPLE TIMELINES: </b>We also provide two example timelines reflecting different hackathon goals, and show how the tradeoffs we identified lead to different choices for hackathons aimed at community building and hackathons aimed at creating innovative products. Similar timelines can be constructed by anyone using the planning kit, after considering the design choice tradeoffs in light of the hackathon goals.</p>
-<p><b>RESOURCES: </b>We also provide links to the wealth of information available on the web, indicating for the key sources the type of organizer for which they are most likely to be useful. These resources typically assume a particular goal and a particular style of hackathon. Our focus has been on tying much of this material together by talking about the design space of hackathons and guiding the designer through the key choices.</p>
-<p>If you are an experienced organizer, we suggest that you construct your own timeline by going through the design choices listed on <a href="{{ relative_url }}/hackathon-planning-kit/design-choices">this page</a>.<p>
-<p><b>Our schedule for completion is</b>:<br>
+<p><b><u>HOW TO USE THIS WEBSITE:</b></u> This website is organized around 12 key designs decisions organizers have to make when planning a hackathon. For each decision, we provide information about who should be involved in the decision, when you should consider making it, how to make the choice and implement its result, and discuss potential tradeoffs among the various options.</br>
+<i>For first-time organizers</i> we provide <a href="{{ relative_url }}/hackathon-planning-kit/example-timelines">example timelines</a> for two types of hackathons. These walk you through the different decision points and show you examples for how and why you could decide for one or the other option.<br/>
+<i>Experienced organizers</i> can directly access an overview of <a href="{{ relative_url }}/hackathon-planning-kit/design-choices">design decisions</a> and create their own timeline for a hackathon that fits their needs.</p>
+<p><b>ADDTITIONAL RESOURCES:</b> We also provide links to the wealth of information available on the web, indicating for the key sources the type of organizer for which they are most likely to be useful. These resources typically assume a particular goal and a particular style of hackathon. Our focus has been on tying much of this material together by talking about the design space of hackathons and guiding the designer through the key choices.</p>
+<p><b>This website is currently still under construction.</b><br/>
+Our schedule for its completion is:<br>
 May 8: initial draft of all content complete<br>
 May 29: final version of all content complete<br>
 June 12: final version of planning kit website, using Bootstrap templates</p>
-
-
-time-bounded events, typically of 2-5 days, during which people gather together and form teams, each of which attempts to complete a project of interest to them. The teams are usually collocated, and often composed of people with diverse backgrounds, experience, and expertise.
-
 
 <!-- Like any other event, hackathons require thorough planning which includes forming a leadership team, finding a date, planning a suitable venue, creating and distributing marketing material, providing support before, during and after the event, and considering general logistics such as transportation, hosting, catering and others.
 
