@@ -57,6 +57,7 @@ body menu {
   <div class="gr-event-body__info">            
     <article class="pre-hackathon text-block">
       <div style="text-align: justify;">
+        <p>Goal - Community building</p>
         <p>Themes - Gateway community, shared resources, infrastructure and practices, e.g., data sharing practices.</p>
         <p>Cooperation - Refer to <a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">this page</a> for how to design this process and what the tradeoffs against competition are</p>
         <p>Stakeholder involvement - Refer to <a href="https://guide.mlh.io/organizer-timeline/4-months-before/sponsorship">5-step MLH sponsorship process</a> how to successfully get your event funded</p>
