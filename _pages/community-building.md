@@ -55,10 +55,10 @@ body menu>li {
     <li data-tab="post-hackathon">Post-hackathon</li>
   </menu>
   <div class="gr-event-body__info">            
-    <article class="pre-hackthon text-block">
+    <article class="pre-hackthon text-block" style="display: block;">
     <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
     </article>
-    <article class="hackthon text-block">
+    <article class="hackthon text-block" style="display: none;">
     <div style="text-align: justify;">Technological advancements have flattened the world and brought people from across the globe together via the ever-growing cyberspace. Industry experts predict there will be 6 billion internet users by 2022 (75 percent of the projected world population of 8 billion). Cybercriminals smell blood now, not silicon :)</div>
     </article>                 
   </div>
