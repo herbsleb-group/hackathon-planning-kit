@@ -34,7 +34,7 @@ classes: wide
 }
 .menu-tab li {
     cursor: pointer;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 40px;
     margin-right: 40px;
     font-weight: 700;
