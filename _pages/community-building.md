@@ -49,9 +49,9 @@ body menu {
 </style>
 <main class="gr-event-body">
   <menu class="menu-tab">
-    <li data-tab="pre-hackathon" class="current">Pre-hackathon</li>
-    <li data-tab="hackathon" class>Hackathon</li>
-    <li data-tab="post-hackathon" class>Post-hackathon</li>
+    <li data-tab="pre-hackathon">Pre-hackathon</li>
+    <li data-tab="hackathon">Hackathon</li>
+    <li data-tab="post-hackathon">Post-hackathon</li>
   </menu>
   <div class="gr-event-body__info">            
     <article class="pre-hackathon text-block">
