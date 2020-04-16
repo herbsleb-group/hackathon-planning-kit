@@ -9,7 +9,6 @@ classes: wide
 ---
 <style>
   p {text-align:justify;}
-  <!-- b { color: #FF9900; } -->
 </style>
 <p><b>WHAT IT IS ABOUT: </b>This site is organized around 12 key design choices an organizer must make in planning a hackathon. For each choice, we provide information about who, when, and how to make the choice, and discuss the tradeoffs among the various options.</p>
 <p><b>EXAMPLE TIMELINES: </b>We also provide two example timelines reflecting different hackathon goals, and show how the tradeoffs we identified lead to different choices for hackathons aimed at community building and hackathons aimed at creating innovative products. Similar timelines can be constructed by anyone using the planning kit, after considering the design choice tradeoffs in light of the hackathon goals.</p>
