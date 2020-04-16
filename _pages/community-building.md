@@ -42,6 +42,10 @@ body menu {
 .gr-event-body .gr-event-body__info {
     margin-top: 40px;
 }
+.gr-event-body .menu-tab {
+    display: flex;
+    flex-wrap: wrap;
+}
 </style>
 <main class="gr-event-body">
   <menu class="menu-tab">
@@ -58,3 +62,16 @@ body menu {
     </article>                 
   </div>
 </main>
+<script>
+ var firstTab = $(".menu-tab li").first();
+ var initialTab = firstTab.data("tab");
+ firstTab.addClass("current");
+
+ $(".gr-event-body").find("article." + initialTab).css("display","block");
+
+ $(document).on("click",".menu-tab li",function() {
+     var $name = $(this).data("tab");
+     $(this).addClass("current").siblings().removeClass("current");
+     $(".gr-event-body").find("article." + $name).css("display","block").siblings("article").css("display","none")
+ });
+</script>
