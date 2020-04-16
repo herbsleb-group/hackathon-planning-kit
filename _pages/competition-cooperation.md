@@ -9,7 +9,6 @@ classes: wide
 ---
 <style>
   p { text-align:justify; }
-  <!-- b { color: #FF9900; } -->
   li { text-align:justify; }
 </style>
 <p><b>Why?</b>: One key decision that organizers need to make in designing hackathons is how incentives should be structured. Incentives are important not only to motivate participants but also to achieve the goals that organizers aim for. The two common incentive mechanisms are collaboration and competition. Collaboration is suitable for hackathons aiming to establish or deepen connections among participants that can foster longer-term collaboration as it promotes interaction among participants. Competition is suitable for hackathons aiming to create innovations as the competitive pressure is likely to incentivize teams to differentiate themselves from others by generating unique solutions and to put more effort in their projects.</p>

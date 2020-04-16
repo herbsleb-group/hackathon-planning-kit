@@ -8,8 +8,7 @@ sidebar:
 classes: wide
 ---
 <style>
-  p {text-align:justify;}
-  <!-- b { color: #FF9900; } -->
+  p { text-align:justify; }
   li { text-align:justify; }
 </style>
 <p><b>When?</b>: Continuity planning needs to start prior to the hackathon and continues past the end of the event itself. In order to support the continuity of hackathon outcomes, it is important that the event is embedded into a larger strategy.</p>
