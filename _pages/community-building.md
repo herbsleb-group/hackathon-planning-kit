@@ -10,10 +10,11 @@ classes: wide
 <style>
   p {
     text-align: justify;
-    font-size: 0.625em;
-    padding-left: 2em;
-    margin-top: 0;
-    margin-bottom: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
 </style>
 <h3>Pre-hackathon</h3>
