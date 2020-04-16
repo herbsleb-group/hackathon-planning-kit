@@ -113,10 +113,6 @@ body menu {
 <script type="text/javascript" src="/javascripts/scripts-g19.js?v3"></script>
 <script type="text/javascript" src="/javascripts/jquery.voogAjaxForm.js"></script> -->
 <script>
- <!-- $('.gr-form').voogAjaxForm()
- LL = new LazyLoad({
-   elements_selector: ".gr-lazy"
- }); -->
  var firstTab = $(".menu-tab li").first();
  var initialTab = firstTab.data("tab");
  firstTab.addClass("current");
