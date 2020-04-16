@@ -47,6 +47,7 @@ body menu {
     flex-wrap: wrap;
 }
 </style>
+<div>
 <main class="gr-event-body">
   <menu class="menu-tab">
     <li data-tab="pre-hackathon">Pre-hackathon</li>
@@ -63,6 +64,11 @@ body menu {
   </div>
 </main>
 <script>
+$('.gr-form').voogAjaxForm()
+LL = new LazyLoad({
+   elements_selector: ".gr-lazy"
+ });
+
  var firstTab = $(".menu-tab li").first();
  var initialTab = firstTab.data("tab");
  firstTab.addClass("current");
@@ -75,3 +81,4 @@ body menu {
      $(".gr-event-body").find("article." + $name).css("display","block").siblings("article").css("display","none")
  });
 </script>
+</div>
