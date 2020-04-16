@@ -32,9 +32,11 @@ classes: wide
     font-weight: 700;
     opacity: .7;
     border-bottom: solid 2px #94949452;
+    padding: 0;
 }
 body menu>li {
     list-style: none;
+    padding: 0;
 }
 body menu {
   position: relative;
