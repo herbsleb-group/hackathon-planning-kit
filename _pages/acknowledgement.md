@@ -95,7 +95,7 @@ sidebar:
   }
 </style>
 
-<h1>Funders</h1>
+<h2><u>FUNDERS</u></h2>
 <div>
   <ul class="ul-1">
     <li class="li-1"><a href="https://sloan.org"><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></a></li>
@@ -136,7 +136,7 @@ sidebar:
 [1]:  https://www.isri.cmu.edu/
 [2]:  https://www.cs.ut.ee/en
 
-<h1>Contributors</h1>
+<h2><u>CONTRIBUTORS</u></h2>
 <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 <div>
 <table style="width: 100%; align-content: center;">
@@ -238,9 +238,9 @@ sidebar:
 <hr>
 </div>
 
-<h1>Collaborators</h1>
-Nancy Wilkins-Diehr, Science Gateways Community Institute<b>
-Linda Hayden, Elizabeth City State University<b>
+<h2><u>COLLABORATORS</u></h2>
+Nancy Wilkins-Diehr, Science Gateways Community Institute<br>
+Linda Hayden, Elizabeth City State University<br>
 Je'aime Powell, Texas Advanced Computing Center<br>
 Amy Cannon, Omnibond<br>
 Boyd Wilson, Omnibond<br>
