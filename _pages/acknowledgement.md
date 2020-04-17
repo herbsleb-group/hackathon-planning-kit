@@ -240,15 +240,17 @@ sidebar:
 </div>
 
 <h2><u>COLLABORATORS</u></h2>
-Nancy Wilkins-Diehr, Science Gateways Community Institute<br>
-Linda Hayden, Elizabeth City State University<br>
-Je'aime Powell, Texas Advanced Computing Center<br>
-Amy Cannon, Omnibond<br>
-Boyd Wilson, Omnibond<br>
-Mona Wong, San Diego Supercomputer Center<br>
-Rajesh Kalyanam, Purdue University<br>
-Sudhakar Pamidighantam, Indiana University Bloomington<br>
-Kevin Ellet, Indiana University<br>
-Kathryn Traxler, Louisiana State University<br>
-Timothy Holston, University of Mississippi<br>
-Audris Mockus, University of Tennessee<br>
+<div style="font-size: 18px;">
+  Nancy Wilkins-Diehr, Science Gateways Community Institute<br>
+  Linda Hayden, Elizabeth City State University<br>
+  Je'aime Powell, Texas Advanced Computing Center<br>
+  Amy Cannon, Omnibond<br>
+  Boyd Wilson, Omnibond<br>
+  Mona Wong, San Diego Supercomputer Center<br>
+  Rajesh Kalyanam, Purdue University<br>
+  Sudhakar Pamidighantam, Indiana University Bloomington<br>
+  Kevin Ellet, Indiana University<br>
+  Kathryn Traxler, Louisiana State University<br>
+  Timothy Holston, University of Mississippi<br>
+  Audris Mockus, University of Tennessee<br>
+</div>
