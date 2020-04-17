@@ -174,7 +174,7 @@ sidebar:
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/X.jpg" alt="Chalalai Chaihurunkarn">
+    <img src="/hackathon-planning-kit/images/chalalai-1.jpg" alt="Chalalai Chaihurunkarn">
   </td>
   <td style="width: 40%;">
     <span><a href=""><strong>Chalalai Chaihurunkarn</strong></a></span><br>
