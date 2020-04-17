@@ -184,7 +184,7 @@ sidebar:
   </td>
   <td style="width: 40%;">
     <!-- <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="X">TBA</a></span><br> -->
-    <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=nHYZW2MAAAAJ&hl=en&oi=ao">https://scholar.google.com/citations?user=nHYZW2MAAAAJ&hl=en&oi=ao</a></span>
+    <!-- <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=nHYZW2MAAAAJ&hl=en&oi=ao">https://scholar.google.com/citations?user=nHYZW2MAAAAJ&hl=en&oi=ao</a></span> -->
   </td>
 </tr>
 <tr>
