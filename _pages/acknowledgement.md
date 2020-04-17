@@ -102,7 +102,8 @@ sidebar:
   </ul>
 <hr>
 </div>
-<h1>Founding organizations</h1>
+
+<h2><u>FOUNDING ORGANIZATIONS</u></h2>
 <p>This joint work is led by the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> at Carnegie Mellon University in Pittsburgh, PA, USA, and the <a href="https://www.cs.ut.ee/en">Institute of Computer Science</a> at University of Tartu in Tartu, Estonia.</p>
 <div style="text-align: center;">
 <ul class="ul-1">
@@ -117,7 +118,7 @@ sidebar:
 <hr>
 </div>
 
-<h1>Partners</h1>
+<h2><u>PARTNERS</u></h2>
 <p>We would like to thank Microsoft Research, Microsoft Garage, Space Telescope Science Institute (STScI), Science Gateways Community Institute (SGCI), and the organizers of Cloud HPC Hackathons for letting us study their hackathons.
 </p>
 <div style="text-align: center;">

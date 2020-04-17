@@ -7,8 +7,23 @@ sidebar:
   nav: "main"
 classes: wide
 ---
-
-We organized the following workshops to bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences.
+<style>
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  text-align: left;
+}
+.col {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+</style>
+<p>We organized the following workshops to bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences.</p>
 <div>
 <h3><a href="http://hackathon-workshop-2018.com/">The 2nd Workshop on Hacking and Making at Time-Bounded Events Current Trends and Next Steps in Research and Event Design</a></h3>
 <i>Collocated with</i> ACM CHI 2018, Montreal, Canada
