@@ -151,10 +151,10 @@ sidebar:
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jdh@cs.cmu.edu">jdh [at] cs.cmu.edu</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://herbsleb.org/">https://herbsleb.org/</a></span>
-  </td>
+  </td> -->
 </tr>
 <tr>
   <td style="width: 20%;">
@@ -166,15 +166,15 @@ sidebar:
     <span>Principal UX Researcher</span><br>
     <span>Fidelity Investments</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:etrainer@cs.cmu.edu">etrainer [at] cs.cmu.edu</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cs.cmu.edu/~etrainer/">https://www.cs.cmu.edu/~etrainer/</a></span>
-  </td>
+  </td> -->
 </tr>
 <tr>
   <td style="width: 20%;">
   <!-- <span class="ver-line ver-color-1"></span> -->
-    <img src="/hackathon-planning-kit/images/chalalai-1.jpg" alt="Chalalai Chaihurunkarn">
+    <img class="img-c" src="/hackathon-planning-kit/images/chalalai-1.jpg" alt="Chalalai Chaihurunkarn">
   </td>
   <td style="width: 40%;">
     <span><a href=""><strong>Chalalai Chaihurunkarn</strong></a></span><br>
@@ -182,10 +182,10 @@ sidebar:
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="X">TBA</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="X">TBA</a></span>
-  </td>
+  </td> -->
 </tr>
 <tr>
   <td style="width: 20%;">
@@ -197,10 +197,10 @@ sidebar:
     <span>Senior Manager, Data Science</span><br>
     <span>GitHub</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:annafil@gmail.com">annafil [at] gmail.com</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/annafilippova">https://www.linkedin.com/in/annafilippova</a></span>
-  </td>
+  </td> -->
 </tr>
 <tr>
   <td style="width: 20%;">
@@ -213,10 +213,10 @@ sidebar:
     <span>Institute of Computer Science</span><br>
     <span>University of Tartu</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alexander.nolte@ut.ee">alexander.nolte [at] ut.ee</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anolte.com">http://www.anolte.com</a></span>
-  </td>
+  </td> -->
 </tr>
 <tr>
   <td style="width: 20%;">
@@ -229,10 +229,10 @@ sidebar:
     <span>Institute for Software Research</span><br>
     <span>Carnegie Mellon University</span>
   </td>
-  <td style="width: 40%;">
+  <!-- <td style="width: 40%;">
     <span><i class="fas fa-envelope" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:eipa@cmu.edu">eipa [at] cmu.edu</a></span><br>
     <span><i class="fas fa-globe" style="font-size:16px;"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eipapa.github.io/">https://eipapa.github.io/</a></span>
-  </td>
+  </td> -->
 </tr>
 </table>
 <hr>
