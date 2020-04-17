@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /design-choices/
-title: "Twelve Design Choices"
+permalink: /design-decisions/
+title: "Twelve Design Decisions"
 author_profile: false
 sidebar:
   nav: "main"

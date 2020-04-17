@@ -9,8 +9,8 @@ main:
           url: /community-building/
         - title: "Innovative products"
           url: /innovative-products/
-    - title: "Design Choices"
-      url: /design-choices/
+    - title: "Design Decisions"
+      url: /design-decisions/
       children:
         - title: "Goal"
           url:
