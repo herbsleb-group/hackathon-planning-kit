@@ -98,19 +98,19 @@ sidebar:
 <h1>Funders</h1>
 <div>
   <ul class="ul-1">
-    <li class="li-1"><a href="https://sloan.org" target="_blank"><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></a></li>
+    <li class="li-1"><a href="https://sloan.org"><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></a></li>
   </ul>
 <hr>
 </div>
 <h1>Founding organizations</h1>
-<p>This joint research effort is led by the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> at Carnegie Mellon University in Pittsburgh, PA, USA, and the <a href="https://www.cs.ut.ee/en">Institute of Computer Science</a> at University of Tartu in Tartu, Estonia.</p>
+<p>This joint work is led by the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> at Carnegie Mellon University in Pittsburgh, PA, USA, and the <a href="https://www.cs.ut.ee/en">Institute of Computer Science</a> at University of Tartu in Tartu, Estonia.</p>
 <div style="text-align: center;">
 <ul class="ul-1">
-    <li class="li-1"><a href="https://www.isri.cmu.edu/" target="_blank"><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width: 150px; height: auto;"></a></li>
+    <li class="li-1"><a href="https://www.isri.cmu.edu/"><img src="/hackathon-planning-kit/images/isr.jpg" alt="Institute for Software Research" style="width: 150px; height: auto;"></a></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li class="li-1"><a href="https://www.cmu.edu" target="_blank"><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width: 100px; height: auto;"></a></li>
+    <li class="li-1"><a href="https://www.cmu.edu"><img src="/hackathon-planning-kit/images/cmu.jpg" alt="Carnegie Mellon University" style="width: 100px; height: auto;"></a></li>
     <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
-    <li class="li-1"><a href="https://www.cs.ut.ee/en" target="_blank"><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu" style="width: 250px; height: auto"></a></li>
+    <li class="li-1"><a href="https://www.cs.ut.ee/en"><img src="/hackathon-planning-kit/images/tartu.png" alt="University of Tartu" style="width: 250px; height: auto"></a></li>
     <!-- <li class="li-1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
     <li class="li-1"><a href="https://sloan.org" target="_blank"><img src="/hackathon-planning-kit/images/sloan.png" alt="Alfred P. Sloan Foundation" style="width: 200px; height: auto;"></a></li> -->
 </ul>
