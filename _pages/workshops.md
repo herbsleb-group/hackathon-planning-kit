@@ -23,7 +23,7 @@ classes: wide
   text-align: left;
 }
 </style>
-<p>We organized the following workshops to bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences.</p>
+<p>We helped to organize two workshops affiliated with two related research conferences in order to help grow a research and practice community around scientific hackathons.</p>
 <div>
 <h3><a href="http://hackathon-workshop-2018.com/">The 2nd Workshop on Hacking and Making at Time-Bounded Events Current Trends and Next Steps in Research and Event Design</a></h3>
 <i>Collocated with</i> ACM CHI 2018, Montreal, Canada
@@ -44,33 +44,34 @@ Time-bounded collaborative events in which teams work together under intense tim
 
 <h1>Workshop Participants</h1>
 <div>
-<!-- <p style="font-size: 20px;">We would like to thank the participants of our two hackathon workshops at <a href="https://hackathon-workshop.github.io/">ACM CSCW 2017</a> and <a href="http://hackathon-workshop-2018.com/">ACM CHI 2018</a>. The names of the participants are listed in an alphabetical order by surnames.</p> -->
   <div class="col">
-    <ul style="font-size: 18px;">
-      <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
-      <li>Dannon Baker (Johns Hopkins University)</li>
-      <li>Karen Bhavnani (MCI Group)</li>
-      <li>Christian Bird (Microsoft Research)</li>
-      <li>Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)</li>
-      <li>Sian Brooke (Oxford Internet Institute, University of Oxford)</li>
-      <li>John M. Carroll (Pennsylvania State University)</li>
-      <li>Brad Chapman (Harvard T.H. Chan School of Public Health)</li>
-      <li>Ryan Curtin (Symantec Corporation)</li>
-      <li>Dharma Dailey (University of Washington)</li>
-      <li>James Damon (Harvard-Smithsonian Center for Astrophysics)</li>
-      <li>Margaret Drouhard (University of Washington)</li>
-      <li>Rosta Farzan (University of Pittsburgh)</li>
-      <li>Brittany Fiore-Gartland (University of Washington)</li>
-      <li>Eureka Chen Yew Foong (Northwestern University)</li>
-      <li>R. Stuart Geiger (Berkeley Institute for Data Science)</li>
-      <li>Liz Gerber (Northwestern University)</li>
-      <li>Sourobh Ghosh (Harvard Business School)</li>
-      <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
-      <li>Erin Hoffman (University of Washington)</li>
-      <li>Jane Hoffswell (University of Washington)</li>
-    </ul>
+  <h2>Participants of CSCW 2017 Workshop</h2>
+  <ul style="font-size: 18px;">
+    <li>Areej Al-Wabil (Center for Complex Engineering at KACST and MIT)</li>
+    <li>Dannon Baker (Johns Hopkins University)</li>
+    <li>Karen Bhavnani (MCI Group)</li>
+    <li>Christian Bird (Microsoft Research)</li>
+    <li>Daina Bouquin (Harvard-Smithsonian Center for Astrophysics)</li>
+    <li>Sian Brooke (Oxford Internet Institute, University of Oxford)</li>
+    <li>John M. Carroll (Pennsylvania State University)</li>
+    <li>Brad Chapman (Harvard T.H. Chan School of Public Health)</li>
+    <li>Ryan Curtin (Symantec Corporation)</li>
+    <li>Dharma Dailey (University of Washington)</li>
+    <li>James Damon (Harvard-Smithsonian Center for Astrophysics)</li>
+    <li>Margaret Drouhard (University of Washington)</li>
+    <li>Rosta Farzan (University of Pittsburgh)</li>
+    <li>Brittany Fiore-Gartland (University of Washington)</li>
+    <li>Eureka Chen Yew Foong (Northwestern University)</li>
+    <li>R. Stuart Geiger (Berkeley Institute for Data Science)</li>
+    <li>Liz Gerber (Northwestern University)</li>
+    <li>Sourobh Ghosh (Harvard Business School)</li>
+    <li>Robert Gradeck (Western Pennsylvania Regional Data Center, University of Pittsburgh - UCSUR)</li>
+    <li>Erin Hoffman (University of Washington)</li>
+    <li>Jane Hoffswell (University of Washington)</li>
+  </ul>
   </div>
   <div class="col">
+    <h2>Participants of CHI 2018 Workshop</h2>
     <ul style="font-size: 18px;">
       <li>Chris Holdgraf (University of California, Berkeley)</li>
       <li>Krithika Jagannath (University of California, Irvine)</li>
