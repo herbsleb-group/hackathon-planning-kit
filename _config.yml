@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hackathon Planning Kit
-(Living planning kit)
+title: Hackathon Planning Kit (Living planning kit)
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A hackathon planning kit developed by the Institute for Software Research in the School of Computer Science at Carnegie Mellon University, Pittsburgh, PA, USA and the Institute of Computer Science at University of Tartu, Tartu, Estonia.
