@@ -12,8 +12,8 @@ classes: wide
 </style>
 <p>
 <ul>
-  <li>Goal</li>
-  <li>Theme</li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/goal">Goal</a></li>
+  <li><a href="{{ relative_url }}/hackathon-planning-kit/theme">Theme</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/competition-cooperation">Competition / Cooperation</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/stakeholder-involvement">Stakeholder involvement</a></li>
   <li><a href="{{ relative_url }}/hackathon-planning-kit/participant-recruitment">Participant recruitment</a></li>

@@ -13,9 +13,9 @@ main:
       url: /design-decisions/
       children:
         - title: "Goal"
-          url:
+          url: /goal/
         - title: "Theme"
-          url:
+          url: /theme/
         - title: "Competition / Cooperation"
           url: /competition-cooperation/
         - title: "Stakeholder involvement"

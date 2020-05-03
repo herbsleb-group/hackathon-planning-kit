@@ -16,13 +16,13 @@
 title: Hackathon Planning Kit
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of resources essentail for planning "hackathon" events.
+  A hackathon planning kit developed by the Institute for Software Research in the School of Computer Science at Carnegie Mellon University, Pittsburgh, PA, USA and the Institute of Computer Science at University of Tartu, Tartu, Estonia.
 twitter_username: username
 repository: "eipapa/hackathon-planning-kit"
 minimal_mistakes_skin: default # aqua
 search: true
 breadcrumbs: false
-url:  "https://eipapa.github.io"
+url:  "https://eipapa.github.io/hackathon-planning-kit"
 baseurl: "/hackathon-planning-kit"
 
 # Build settings
@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -183,4 +183,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-google-site-verification  : google5a405703027a84e4.html
+google-site-verification  :
