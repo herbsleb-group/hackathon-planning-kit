@@ -19,19 +19,19 @@ main:
         - title: "Competition / Cooperation"
           url: /competition-cooperation/
         - title: "Stakeholder involvement"
-          url:
+          url: /stakeholder-involvement/
         - title: "Participant recruitment"
-          url:
+          url: /participant-recruitment"
         - title: "Sepcialized preparation"
-          url:
+          url: /specialized-preparation"
         - title: "Duration / Breaks"
-          url:
+          url: /duration-breaks/
         - title: "Ideation"
           url: /ideation/
         - title: "Team formation / Project selection"
           url: /team-formation-project-selection/
         - title: "Agenda"
-          url:
+          url: /agenda/
         - title: "Mentoring"
           url: /mentoring/
         - title: "Continuity planning"
